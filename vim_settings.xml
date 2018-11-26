@@ -560,8 +560,8 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="E:/workstation/running/Server/src/app.ts" timestamp="1542853041984">
-        <mark key="'" line="104" column="20" />
+      <file name="E:/workstation/running/Server/src/app.ts" timestamp="1543203616885">
+        <mark key="'" line="171" column="39" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
@@ -670,6 +670,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="19" column="32" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/workstation/running/Server/cfg/MatchTable.ts" timestamp="1543204157981">
+        <mark key="'" line="205" column="8" />
       </file>
       <file name="E:/workstation/H5/assets/com/network/client/module/FishGame.ts" timestamp="1530499542096">
         <mark key="'" line="211" column="21" />
@@ -1185,12 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
-      <jump line="28" column="38" filename="E:/workstation/CLM/assets/script/comp/MonsterBlinkComp.ts" />
-      <jump line="114" column="4" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
-      <jump line="97" column="4" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
-      <jump line="29" column="41" filename="E:/workstation/CLM/assets/script/comp/MonsterBlinkComp.ts" />
-      <jump line="98" column="14" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="15" column="13" filename="E:/workstation/CLM/assets/script/comp/MonsterBlinkComp.ts" />
       <jump line="19" column="13" filename="E:/workstation/CLM/assets/script/comp/MonsterBlinkComp.ts" />
       <jump line="24" column="30" filename="E:/workstation/CLM/assets/script/comp/MonsterBlinkComp.ts" />
@@ -1285,6 +1282,12 @@
       <jump line="378" column="31" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="39" column="4" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="367" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="171" column="39" filename="E:/workstation/running/Server/src/app.ts" />
+      <jump line="312" column="4" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
+      <jump line="25" column="8" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
+      <jump line="266" column="4" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
+      <jump line="322" column="8" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
+      <jump line="205" column="8" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
