@@ -1,0 +1,7 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="E:\Program Files (x86)\Microsoft Visual Studio 14.0" debuggerKind="CUSTOM_GDB" customGDBPath="E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\gdb.exe" />
+    </toolchains>
+  </component>
+</application>

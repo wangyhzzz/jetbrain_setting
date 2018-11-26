@@ -1,0 +1,460 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/GoldRechargeUI.h" timestamp="1541407630500">
+        <mark key="'" line="14" column="17" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/DiamondRechargeUI.cpp" timestamp="1541408297285">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="32" />
+        <mark key="." line="71" column="32" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCLayer.cpp" timestamp="1540951955904">
+        <mark key="'" line="49" column="7" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/extensions/cocos-ext.h" timestamp="1540793527721">
+        <mark key="'" line="6" column="33" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIButton.cpp" timestamp="1541406906309">
+        <mark key="'" line="496" column="12" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/VipUI.h" timestamp="1541408486484">
+        <mark key="'" line="15" column="19" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCLabelAtlas.h" timestamp="1540779651175">
+        <mark key="'" line="54" column="33" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCProgressTimer.cpp" timestamp="1541572949294">
+        <mark key="'" line="90" column="20" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/DiamondRechargeUI.h" timestamp="1541408295204">
+        <mark key="'" line="13" column="6" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/GoldRechargeUI.cpp" timestamp="1541408287662">
+        <mark key="'" line="84" column="39" />
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="32" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/event/MTNotification.h" timestamp="1540971460593">
+        <mark key="'" line="5" column="10" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/extensions/GUI/CCControlExtension/CCControlExtensions.h" timestamp="1540793533097">
+        <mark key="'" line="27" column="15" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/df/types.h" timestamp="1540972150314">
+        <mark key="'" line="44" column="17" />
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="48" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCLayer.h" timestamp="1540951978787">
+        <mark key="'" line="378" column="4" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/mission/JZHallSceneMission.cpp" timestamp="1541406066982">
+        <mark key="'" line="954" column="25" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/base/CCUserDefault.h" timestamp="1541584508895">
+        <mark key="'" line="148" column="5" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/df/DF.h" timestamp="1540971480521">
+        <mark key="'" line="2" column="11" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/platform/CCGL.h" timestamp="1540792569545">
+        <mark key="'" line="38" column="32" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIListView.h" timestamp="1540899601167">
+        <mark key="'" line="327" column="9" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/libs/PacketAide.h" timestamp="1540812161617">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/extensions/GUI/CCControlExtension/CCControl.h" timestamp="1540793537105">
+        <mark key="'" line="34" column="10" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/df/Define.h" timestamp="1540811972833">
+        <mark key="'" line="287" column="0" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIText.cpp" timestamp="1540954593931">
+        <mark key="'" line="54" column="12" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/libs/PacketAide.cpp" timestamp="1540812124937">
+        <mark key="'" line="0" column="12" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCProgressTimer.h" timestamp="1541573029414">
+        <mark key="'" line="146" column="4" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCNode.h" timestamp="1541646443340">
+        <mark key="'" line="1887" column="9" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIWidget.h" timestamp="1540953733514">
+        <mark key="'" line="183" column="17" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIText.h" timestamp="1540541483100">
+        <mark key="'" line="157" column="5" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/VipUI.cpp" timestamp="1541408490392">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCActionInterval.cpp" timestamp="1540954769874">
+        <mark key="'" line="202" column="38" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/proj.android-studio/buyu_lua/src/main/assets/res/strings.plist" timestamp="1540865654053">
+        <mark key="'" line="1155" column="9" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/df/Struct.h" timestamp="1540812376369">
+        <mark key="'" line="170" column="8" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIScrollView.cpp" timestamp="1540899880282">
+        <mark key="'" line="721" column="78" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/base/CCUserDefault.cpp" timestamp="1540951308688">
+        <mark key="'" line="160" column="55" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" timestamp="1542595989483">
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="89" column="14" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCAtlasNode.h" timestamp="1540779657568">
+        <mark key="'" line="50" column="32" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIButton.h" timestamp="1541406896276">
+        <mark key="'" line="266" column="70" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCLabelAtlas.cpp" timestamp="1540794932058">
+        <mark key="'" line="214" column="13" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/mission/JZRechargeMission.h" timestamp="1541404932655">
+        <mark key="'" line="34" column="9" />
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="68" />
+        <mark key="." line="11" column="68" />
+        <mark key="^" line="11" column="68" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/scene/gamescene/ClientKernelSink.cpp" timestamp="1540808387391">
+        <mark key="'" line="632" column="4" />
+        <mark key="[" line="633" column="0" />
+        <mark key="]" line="633" column="0" />
+        <mark key="." line="633" column="0" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/base/CCRef.h" timestamp="1540456820188">
+        <mark key="'" line="187" column="23" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCLabel.h" timestamp="1541558411536">
+        <mark key="'" line="361" column="14" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/kernel/server/SocketMainUser.cpp" timestamp="1540812373865">
+        <mark key="'" line="85" column="14" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/mission/JZRechargeMission.cpp" timestamp="1541406240149">
+        <mark key="'" line="497" column="15" />
+        <mark key="[" line="425" column="0" />
+        <mark key="]" line="425" column="0" />
+        <mark key="." line="425" column="0" />
+        <mark key="^" line="425" column="0" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.h" timestamp="1541646531539">
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCLabel.cpp" timestamp="1540785641243">
+        <mark key="'" line="330" column="19" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.h" timestamp="1542593458055">
+        <mark key="'" line="12" column="22" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" timestamp="1542593014159">
+        <mark key="'" line="5" column="27" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIListView.cpp" timestamp="1540899436265">
+        <mark key="'" line="788" column="4" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/setting/ModifyAccountAndPasswordUI.h" timestamp="1540793162642">
+        <mark key="'" line="13" column="6" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/shuihu/plazz/kernel/server/SocketMainMatch_SHZ.cpp" timestamp="1540810974281">
+        <mark key="'" line="96" column="54" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/base/ccTypes.h" timestamp="1540792549305">
+        <mark key="'" line="36" column="22" />
+      </file>
+      <file name="C:/Program Files (x86)/Windows Kits/8.1/Include/shared/minwindef.h" timestamp="1540972154282">
+        <mark key="'" line="155" column="19" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/CMakeLists.txt" timestamp="1542593377715">
+        <mark key="'" line="347" column="53" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+        <mark key="^" line="101" column="57" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/Plazz.h" timestamp="1540971476448">
+        <mark key="'" line="3" column="10" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCNode.cpp" timestamp="1541646400963">
+        <mark key="'" line="607" column="11" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UIWidget.cpp" timestamp="1540953738737">
+        <mark key="'" line="268" column="4" />
+      </file>
+      <file name="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/GiftRechargeUI.cpp" timestamp="1541406146083">
+        <mark key="'" line="302" column="21" />
+        <mark key="[" line="371" column="47" />
+        <mark key="]" line="372" column="0" />
+        <mark key="^" line="372" column="0" />
+        <mark key="." line="372" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="303" column="16" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="308" column="25" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="309" column="25" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="310" column="40" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="329" column="17" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="330" column="61" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="337" column="65" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="340" column="21" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="360" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="1141" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="1100" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="2" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="262" column="22" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="289" column="25" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="304" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="305" column="10" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="290" column="9" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="458" column="28" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="653" column="38" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="648" column="28" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="642" column="50" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="641" column="26" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="639" column="52" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="557" column="78" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="592" column="18" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="608" column="56" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="611" column="19" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="613" column="30" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="615" column="59" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="616" column="22" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="622" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="1089" column="13" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="769" column="136" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="790" column="110" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="104" column="16" filename="E:/workstation/debug/frameworks/cocos2d-x/cocos/ui/UITextAtlas.cpp" />
+      <jump line="470" column="39" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="474" column="36" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="479" column="32" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="82" column="19" filename="E:/workstation/debug/frameworks/runtime-src/Classes/plazz/df/types.h" />
+      <jump line="15" column="6" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.h" />
+      <jump line="465" column="32" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="791" column="79" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="770" column="127" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="764" column="17" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="766" column="132" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="771" column="16" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="756" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="832" column="19" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="835" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="751" column="14" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="1146" column="26" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="382" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="401" column="14" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="421" column="13" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="325" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="737" column="10" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="742" column="12" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="402" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="422" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="736" column="17" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="428" column="16" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="729" column="12" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="740" column="4" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="747" column="12" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="709" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="300" column="17" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="1153" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="320" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="432" column="8" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="318" column="10" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="301" column="18" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="375" column="20" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="302" column="34" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="5" column="27" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/RechargeUI.cpp" />
+      <jump line="14" column="19" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.h" />
+      <jump line="311" column="8" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="397" column="44" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="398" column="44" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="485" column="52" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="486" column="50" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="487" column="50" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="488" column="49" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="489" column="49" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="490" column="36" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="491" column="36" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="492" column="36" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="100" column="45" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="101" column="45" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="347" column="53" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="348" column="53" filename="E:/workstation/debug/frameworks/CMakeLists.txt" />
+      <jump line="0" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/scene/gamescene/elf/ElfBulletMgr.cpp" />
+      <jump line="12" column="22" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.h" />
+      <jump line="10" column="0" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" />
+      <jump line="86" column="12" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" />
+      <jump line="85" column="72" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" />
+      <jump line="523" column="0" filename="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCNode.cpp" />
+      <jump line="89" column="60" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" />
+      <jump line="529" column="11" filename="E:/workstation/debug/frameworks/cocos2d-x/cocos/2d/CCNode.cpp" />
+      <jump line="80" column="17" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" />
+      <jump line="88" column="16" filename="E:/workstation/debug/frameworks/runtime-src/Classes/view/ui/recharge/HongyunUI.cpp" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN1ciA9IDQ7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjdXJcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZEJhc2UtPmdldENoaWxkQnlOYW1lKCJsYlRpcDUiKSktPnNldFBvc2l0aW9uWChwb3N4IC0gMTApOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGN1ciA9IDQ7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZEJhc2UtPmdldENoaWxkQnlOYW1lKCJsYlRpcDUiKSktPnNldFBvc2l0aW9uWChwb3N4IC0gMTgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChuZEJhc2UtPmdldENoaWxkQnlOYW1lKCJsYlRpcDUiKSktPnNldFBvc2l0aW9uWChwb3N4IC0gMTApOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChpdGVtLlJld2FyZE51bTEgPCAxMDAwMDAwKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW0uUmV3YXJkTnVtMSA8IDEwMDAwMDAwKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcG9zeCA9IChuZEJhc2UtPmdldENoaWxkQnlOYW1lKCJsYlRpcDUiKSktPmdldFBvc2l0aW9uWCgpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVsZkJ1bGxldAoK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjdXJcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjdXJcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>perce\c</entry>
+        <entry encoding="base64">XDx0b3RhbENvc3RMaXN0XD4=</entry>
+        <entry encoding="base64">XDxpVmlwXD4=</entry>
+        <entry>title</entry>
+        <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
+        <entry encoding="base64">XDxSZXdhcmROdW0xXD4=</entry>
+        <entry encoding="base64">XDxhZGRDbGlja0V2ZW50TGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDxuZEJhc2VcPg==</entry>
+        <entry encoding="base64">XDxzaG93RnVkYWlVSVw+</entry>
+        <entry encoding="base64">XDxhZGRDaGlsZFw+</entry>
+        <entry>fudaii\c</entry>
+        <entry encoding="base64">XDxzZXRGdWRhaUluZm9cPg==</entry>
+        <entry encoding="base64">XDxuZEZ1ZGFpaW5mb1w+</entry>
+        <entry encoding="base64">XDxnZXRGdWxpUGVyY2VudFw+</entry>
+        <entry>rechare\c</entry>
+        <entry>recharge\c</entry>
+        <entry encoding="base64">XDxSZWNoYXJnZVVJXD4=</entry>
+        <entry>elfbu\c</entry>
+        <entry>lbTip5</entry>
+        <entry encoding="base64">XDxjdXJcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
