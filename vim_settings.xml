@@ -73,8 +73,8 @@
         <mark key="^" line="134" column="27" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543202007293">
-        <mark key="'" line="367" column="17" />
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543204783136">
+        <mark key="'" line="373" column="36" />
         <mark key="[" line="373" column="30" />
         <mark key="]" line="373" column="36" />
         <mark key="." line="373" column="36" />
@@ -232,10 +232,10 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1542022445073">
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1543204787590">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="32" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="47" column="55" />
       </file>
@@ -775,12 +775,12 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="21" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1542963777611">
-        <mark key="'" line="5" column="40" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543204811214">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/PlayerLayer.ts" timestamp="1530518952424">
         <mark key="'" line="73" column="14" />
@@ -1269,7 +1269,6 @@
       <jump line="10" column="4" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="414" column="14" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="29" column="4" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
-      <jump line="373" column="29" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="90" column="21" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="30" column="13" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="33" column="13" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
@@ -1288,19 +1287,20 @@
       <jump line="266" column="4" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
       <jump line="322" column="8" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
       <jump line="205" column="8" filename="E:/workstation/running/Server/cfg/MatchTable.ts" />
+      <jump line="373" column="36" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Idle();</text>
+        <text>idle</text>
       </register>
       <register name="-" type="4">
-        <text>Idle();</text>
+        <text>idle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9wQWxsQW5pbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9wbGF5ZXJBY3Rvci5wbGF5SWRsZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGlkbGU6IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZy5jdHJsLmp1bXBTY2VuZShjYy5DYW52YXMuaW5zdGFuY2Uubm9kZS5uYW1lKTsK</text>
