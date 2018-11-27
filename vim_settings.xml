@@ -114,11 +114,6 @@
         <mark key="^" line="180" column="19" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="9cff73e9-8cdf-4029-a3a9-a8fbde08fed9/consoles/PDR" timestamp="1543196589585">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="E:/workstation/H5/assets/ui/dialog/RegistDialog.ts" timestamp="1534388168677">
         <mark key="'" line="35" column="33" />
         <mark key="[" line="48" column="0" />
@@ -266,8 +261,8 @@
         <mark key="." line="226" column="71" />
         <mark key="^" line="226" column="71" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1542963813612">
-        <mark key="'" line="11" column="21" />
+      <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1543282576004">
+        <mark key="'" line="11" column="20" />
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
@@ -777,8 +772,8 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="21" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543218819789">
-        <mark key="'" line="34" column="29" />
+      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543282378003">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="10" />
         <mark key="]" line="59" column="12" />
         <mark key="." line="59" column="12" />
@@ -982,11 +977,6 @@
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="18" />
         <mark key="^" line="51" column="18" />
-      </file>
-      <file name="E:/workstation/running/Server/src/run.ts" timestamp="1542852900609">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/CannonNode.ts" timestamp="1540812441860">
         <mark key="'" line="571" column="57" />
@@ -1195,9 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="227" column="29" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="236" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="15" column="23" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="17" column="18" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="80" column="14" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1287,7 +1274,6 @@
       <jump line="13" column="8" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="39" column="28" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
       <jump line="93" column="37" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
-      <jump line="77" column="4" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="90" column="29" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
       <jump line="38" column="4" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
       <jump line="91" column="34" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
@@ -1295,6 +1281,10 @@
       <jump line="76" column="30" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
       <jump line="109" column="0" filename="E:/workstation/H5/assets/com/global/GameInfo.ts" />
       <jump line="0" column="0" filename="E:/workstation/H5/assets/com/global/GameInfo.ts" />
+      <jump line="56" column="19" filename="E:/workstation/CLM/assets/script/comp/MainMenu.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/MainMenu.ts" />
+      <jump line="11" column="20" filename="E:/workstation/CLM/assets/script/MissionChapter.ts" />
+      <jump line="77" column="4" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
