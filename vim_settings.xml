@@ -578,6 +578,9 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="10" />
       </file>
+      <file name="E:/workstation/H5/assets/com/global/GameInfo.ts" timestamp="1543282336774">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/FishBookDialog.ts" timestamp="1522659025433">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="4" column="35" />
@@ -850,6 +853,9 @@
         <mark key="]" line="19" column="38" />
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1543282184033">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/CoinsNode.ts" timestamp="1523591371766">
         <mark key="'" line="79" column="4" />
@@ -1189,8 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="334" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="212" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="227" column="29" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="236" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1289,6 +1293,8 @@
       <jump line="91" column="34" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
       <jump line="248" column="10" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="76" column="30" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
+      <jump line="109" column="0" filename="E:/workstation/H5/assets/com/global/GameInfo.ts" />
+      <jump line="0" column="0" filename="E:/workstation/H5/assets/com/global/GameInfo.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
