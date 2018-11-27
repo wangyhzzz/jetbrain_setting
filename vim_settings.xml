@@ -10,11 +10,12 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameCtrl.ts" timestamp="1543230946286">
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="35" />
-        <mark key="." line="267" column="0" />
-        <mark key="^" line="249" column="16" />
+      <file name="E:/workstation/CLM/assets/script/GameCtrl.ts" timestamp="1543314195941">
+        <mark key="'" line="254" column="25" />
+        <mark key="[" line="253" column="33" />
+        <mark key="]" line="254" column="41" />
+        <mark key="." line="254" column="41" />
+        <mark key="^" line="254" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
@@ -72,8 +73,8 @@
         <mark key="^" line="134" column="27" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543226624422">
-        <mark key="'" line="409" column="20" />
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543314142972">
+        <mark key="'" line="23" column="8" />
         <mark key="[" line="379" column="0" />
         <mark key="]" line="379" column="0" />
         <mark key="." line="379" column="0" />
@@ -1009,7 +1010,7 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543225301862">
+      <file name="/Dummy.txt" timestamp="1543313991052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/com/util/HttpUtil.ts" timestamp="1535623543203">
@@ -1040,8 +1041,8 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543290695235">
-        <mark key="'" line="36" column="24" />
+      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543313941208">
+        <mark key="'" line="25" column="28" />
         <mark key="[" line="37" column="27" />
         <mark key="]" line="37" column="42" />
         <mark key="." line="37" column="42" />
@@ -1181,14 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="41" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="95" column="45" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="117" column="21" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="285" column="31" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="288" column="19" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="289" column="36" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="291" column="29" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="335" column="25" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="86" column="38" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="230" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="46" column="35" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
@@ -1206,7 +1199,6 @@
       <jump line="147" column="47" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="14" column="40" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="28" column="58" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="30" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="98" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="30" column="23" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="366" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1281,6 +1273,15 @@
       <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="0" column="33" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="36" column="24" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="25" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="30" column="19" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="363" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="257" column="25" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
+      <jump line="378" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="264" column="31" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
+      <jump line="43" column="31" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
+      <jump line="254" column="25" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
+      <jump line="23" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1290,7 +1291,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3RhcklkeFw+</text>
+        <text>ena\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpICsgMjsK</text>
@@ -1348,9 +1349,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3RhcklkeFw+</last-search>
+      <last-search>ena\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3RhcklkeFw+</last-pattern>
+      <last-pattern>ena\c</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1358,14 +1359,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMSUdIVF9URUxFUE9SVFw+</entry>
         <entry>stop\c</entry>
         <entry>stopal\c</entry>
         <entry encoding="base64">XDxvbklkbGVcPg==</entry>
         <entry>playla\c</entry>
         <entry encoding="base64">XDxwbGF5TGFuZFw+</entry>
         <entry encoding="base64">XDxwYXVzZVw+</entry>
-        <entry>enab\c</entry>
         <entry encoding="base64">XDxfZW5hYmxlQ29udHJvbFw+</entry>
         <entry>onDe\c</entry>
         <entry>fade\c</entry>
@@ -1378,6 +1377,8 @@
         <entry>fly\c</entry>
         <entry encoding="base64">XDxzaG93U3Rhclw+</entry>
         <entry encoding="base64">XDxfc3RhcklkeFw+</entry>
+        <entry>enab\c</entry>
+        <entry>ena\c</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
