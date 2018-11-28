@@ -919,8 +919,8 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/UI.ts" timestamp="1543232100682">
-        <mark key="'" line="76" column="30" />
+      <file name="E:/workstation/CLM/assets/script/comp/UI.ts" timestamp="1543369183224">
+        <mark key="'" line="92" column="38" />
         <mark key="[" line="89" column="30" />
         <mark key="]" line="90" column="34" />
         <mark key="." line="90" column="34" />
@@ -1182,7 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="38" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="230" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="46" column="35" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="55" column="63" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
@@ -1282,6 +1281,7 @@
       <jump line="43" column="31" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="254" column="25" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="23" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="92" column="38" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
