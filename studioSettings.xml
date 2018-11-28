@@ -20,5 +20,11 @@
         </option>
       </SdkSettings>
     </option>
+    <option name="updaterSettings">
+      <UpdaterSettings>
+        <option name="enableAutoCheck" value="false" />
+        <option name="installedPluginVersion" value="3.0.1" />
+      </UpdaterSettings>
+    </option>
   </component>
 </application>

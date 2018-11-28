@@ -73,7 +73,8 @@
         <mark key="^" line="134" column="27" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543378198556">
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543378558103">
+        <mark key="'" line="431" column="24" />
         <mark key="[" line="434" column="41" />
         <mark key="]" line="435" column="18" />
         <mark key="." line="435" column="18" />
@@ -1181,7 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="16" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="13" column="8" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="39" column="28" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
       <jump line="93" column="37" filename="E:/workstation/CLM/assets/script/comp/UI.ts" />
@@ -1273,7 +1273,6 @@
       <jump line="178" column="17" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="32" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
       <jump line="102" column="40" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="431" column="22" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="83" column="20" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="119" column="13" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="143" column="0" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
@@ -1281,6 +1280,8 @@
       <jump line="90" column="20" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="123" column="13" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="90" column="23" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
+      <jump line="431" column="24" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="28" column="37" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
