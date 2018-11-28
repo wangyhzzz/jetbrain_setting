@@ -73,12 +73,12 @@
         <mark key="^" line="134" column="27" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543401362255">
-        <mark key="'" line="272" column="27" />
-        <mark key="[" line="258" column="12" />
-        <mark key="]" line="258" column="12" />
-        <mark key="." line="258" column="12" />
-        <mark key="^" line="258" column="12" />
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543404905002">
+        <mark key="'" line="265" column="43" />
+        <mark key="[" line="266" column="43" />
+        <mark key="]" line="267" column="26" />
+        <mark key="." line="267" column="26" />
+        <mark key="^" line="267" column="26" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
         <mark key="'" line="15" column="4" />
@@ -369,11 +369,12 @@
         <mark key="^" line="22" column="14" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameWorld.ts" timestamp="1543400980966">
-        <mark key="'" line="89" column="31" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="E:/workstation/CLM/assets/script/GameWorld.ts" timestamp="1543403843777">
+        <mark key="'" line="90" column="31" />
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="20" />
+        <mark key="." line="89" column="20" />
+        <mark key="^" line="89" column="19" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/GameUILayer.ts" timestamp="1534215623905">
         <mark key="'" line="112" column="21" />
@@ -1187,11 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="351" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="439" column="25" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="27" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="60" column="32" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="62" column="20" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="146" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="149" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1239,7 +1235,6 @@
       <jump line="455" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="271" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="261" column="28" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="12" column="12" filename="E:/workstation/CLM/assets/script/Def.ts" />
       <jump line="231" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="191" column="13" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
@@ -1251,16 +1246,12 @@
       <jump line="437" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="100" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="430" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="232" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="187" column="17" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="32" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
-      <jump line="88" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="182" column="4" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="276" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="245" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="262" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="263" column="28" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="1" column="47" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="255" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="248" column="31" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="237" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1269,40 +1260,50 @@
       <jump line="236" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="273" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="95" column="36" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="85" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="92" column="28" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="438" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="250" column="25" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="444" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="431" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="247" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="457" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="446" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="251" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="249" column="33" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="8" column="13" filename="E:/workstation/CLM/assets/script/Def.ts" />
       <jump line="432" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="89" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="253" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="274" column="46" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="269" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="272" column="27" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="88" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
+      <jump line="89" column="32" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
+      <jump line="85" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
+      <jump line="232" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="1" column="47" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="6" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="247" column="39" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="262" column="28" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="460" column="45" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="446" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="90" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
+      <jump line="260" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="265" column="43" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IXJlc29sdmVkICYmIA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IXJlc29sdmVkICYmIA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvbHZlZFw+</text>
+        <text encoding="base64">XDxfcGF1c2VYXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJlc29sdmVkICYmICh2LnggIT09IDAgfHwgb3YueCAhPT0gMCB8fCBvdi55ICE9PSAwKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaW50ZXJzZWN0UmVjdCA9IGNjLnJlY3RJbnRlcnNlY3Rpb24odGhpcy5yZWN0LCBvdGhlci5yZWN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGN1ckRpc3QgPSAocDAueSAtIHAxLnkpICogZmFjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzb2x2ZWQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1323,28 +1324,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGludGVyc2VjdCA9IHJlc29sdmVEaXN0WSAtIGN1ckRpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzb2x2ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXIuY2hlY2tDb2xsaWRlKGxpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGN1ckRpc3QgPSAocDAueCAtIHAxLngpICogZmFjdG9yOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWdyb3VuZCkgcDAueSA9IHAxLnkgKyByZXNvbHZlRGlzdFkgKiBmYWN0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGludGVyc2VjdCA9IHJlc29sdmVEaXN0WCAtIGN1ckRpc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXIuY2hlY2tDb2xsaWRlKGxpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGN1ckRpc3QgPSAocDAueSAtIHAxLnkpICogZmFjdG9yOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwbGF5ZXIuY29sbGlkZVdpdGgobGlnaHQpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHBsYXllci5vbkNvbGxpZGUobGlnaHQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxpZ2h0Lm9uQ29sbGlkZVJlc29sdmVkKHBsYXllcik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGludGVyc2VjdCA9IHJlc29sdmVEaXN0WSAtIGN1ckRpc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAhYk9uICYmIGJJbiAmJiBwbGF5ZXIuY2hlY2tDb2xsaWRlKGxpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXIuY2hlY2tDb2xsaWRlKGxpZ2h0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2ZpeFJpZ2h0ID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1354,9 +1355,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNvbHZlZFw+</last-search>
+      <last-search encoding="base64">XDxfcGF1c2VYXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvbHZlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcGF1c2VYXD4=</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1364,8 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY29sbGlkZUNoZWNrXD4=</entry>
-        <entry encoding="base64">XDxfdmVsb2NpdHlcPg==</entry>
         <entry>right\c</entry>
         <entry encoding="base64">XDxjaGFuZ2VTdGF0ZVw+</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
@@ -1379,11 +1378,13 @@
         <entry encoding="base64">XDxvbkNvbGxpZGVcPg==</entry>
         <entry encoding="base64">XDxhYnNcPg==</entry>
         <entry encoding="base64">XDxpbnRlcnNlY3RcPg==</entry>
-        <entry encoding="base64">XDxNYXhGcmFtZU1vdmVcPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlRGlzdFlcPg==</entry>
-        <entry encoding="base64">XDxjaGVja0NvbGxpZGVcPg==</entry>
         <entry encoding="base64">XDx1ZFw+</entry>
         <entry encoding="base64">XDxyZXNvbHZlZFw+</entry>
+        <entry encoding="base64">XDxjaGVja0NvbGxpZGVcPg==</entry>
+        <entry encoding="base64">XDxNYXhGcmFtZU1vdmVcPg==</entry>
+        <entry encoding="base64">XDxjdXJEaXN0XD4=</entry>
+        <entry encoding="base64">XDxfcGF1c2VYXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
