@@ -55,12 +55,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="36" column="97" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/Actor.ts" timestamp="1543479106416">
-        <mark key="'" line="83" column="8" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="39" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="101" column="30" />
+      <file name="E:/workstation/CLM/assets/script/actor/Actor.ts" timestamp="1543484770466">
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="48" />
+        <mark key="^" line="35" column="48" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/SceneData/PlayerControl/AnimationControl.ts" timestamp="1536653933583">
         <mark key="'" line="69" column="11" />
@@ -314,8 +314,8 @@
         <mark key="." line="120" column="33" />
         <mark key="^" line="120" column="33" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/MonsterActorNightmare.ts" timestamp="1537846633650">
-        <mark key="'" line="8" column="0" />
+      <file name="E:/workstation/CLM/assets/script/actor/MonsterActorNightmare.ts" timestamp="1543484700609">
+        <mark key="'" line="9" column="51" />
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="62" />
         <mark key="." line="9" column="62" />
@@ -355,6 +355,12 @@
         <mark key="]" line="368" column="24" />
         <mark key="^" line="368" column="24" />
         <mark key="." line="368" column="24" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/Missions.ts" timestamp="1543230510489">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="E:/workstation/H5/assets/com/manager/ResourceManager.ts" timestamp="1542880881872">
         <mark key="'" line="121" column="74" />
@@ -761,8 +767,8 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="88" column="21" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543282378003">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543485094523">
+        <mark key="'" line="73" column="0" />
         <mark key="[" line="59" column="10" />
         <mark key="]" line="59" column="12" />
         <mark key="." line="59" column="12" />
@@ -1028,6 +1034,12 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/comp/Loading.ts" timestamp="1543485148963">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
       <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543479028958">
         <mark key="[" line="24" column="24" />
       </file>
@@ -1094,12 +1106,12 @@
         <mark key="." line="251" column="51" />
         <mark key="^" line="251" column="51" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543478896454">
-        <mark key="'" line="114" column="29" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="33" />
-        <mark key="^" line="132" column="19" />
-        <mark key="." line="132" column="19" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543484736611">
+        <mark key="'" line="121" column="37" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="129" column="27" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
         <mark key="'" line="244" column="0" />
@@ -1159,11 +1171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="29" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
-      <jump line="64" column="24" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
-      <jump line="70" column="30" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
-      <jump line="90" column="18" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
-      <jump line="99" column="38" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="15" column="20" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="16" column="19" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="105" column="10" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
@@ -1259,13 +1266,18 @@
       <jump line="276" column="33" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="288" column="28" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="1857" column="20" filename="E:/workstation/CLM/creator.d.ts" />
+      <jump line="9" column="51" filename="E:/workstation/CLM/assets/script/actor/MonsterActorNightmare.ts" />
+      <jump line="8" column="21" filename="E:/workstation/CLM/assets/script/actor/MonsterActor.ts" />
+      <jump line="121" column="37" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="73" column="0" filename="E:/workstation/CLM/assets/script/comp/MainMenu.ts" />
+      <jump line="13" column="30" filename="E:/workstation/CLM/assets/script/comp/Loading.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcC54Kj0tMTsK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgZWZmZWN0Tm9kZTogY2MuTm9kZSA9IG51bGw7CiAgICBAcHJvcGVydHkoY2MuTm9kZSkKICAgIGVmZmVjdE5vZGUyOiBjYy5Ob2RlID0gbnVsbDsKICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgc3BsaXRQb3M6IGNjLk5vZGUgPSBudWxsOwogICAgQHByb3BlcnR5KGNjLlNwcml0ZUZyYW1lKQogICAgc3AxOiBjYy5TcHJpdGVGcmFtZSA9IG51bGw7CiAgICBAcHJvcGVydHkoY2MuU3ByaXRlRnJhbWUpCiAgICBzcDI6IGNjLlNwcml0ZUZyYW1lID0gbnVsbDsKICAgIHByaXZhdGUgX2NvdW50OiBudW1iZXIgPSAwOwogICAgcHJpdmF0ZSBfbmV4dFRpbWU6IG51bWJlciA9IDA7CgoKICAgIG9uTG9hZCgpIHsKCiAgICB9CgoKICAgIGZseUxpZ2h0KCk6IGJvb2xlYW4gewogICAgICAgIGxldCB4ID0gLTMwMCAtIDI2MDAgKiBNYXRoLnJhbmRvbSgpOwogICAgICAgIGxldCB5ID0gNzgwICsgNjAwICogTWF0aC5yYW5kb20oKTsKICAgICAgICBsZXQgc3RhcnRYID0gLTQwMCArIDgwMCAqIE1hdGgucmFuZG9tKCk7CiAgICAgICAgbGV0IHNjYWxlID0gMC42ICsgMC42ICogTWF0aC5yYW5kb20oKTsKICAgICAgICBpZiAoc3RhcnRYICsgeCA+IC0xOTIwICYmIHkgPCAxMDgwKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgaWYgKHNjYWxlIDwgMSkgewogICAgICAgICAgICBsZXQgc3RhcnRQb3MgPSBjYy5wKHN0YXJ0WCwgMCk7CiAgICAgICAgICAgIGxldCBhZ2wxID0gY2MucEFuZ2xlU2lnbmVkKGNjLnBTdWIodGhpcy5zcGxpdFBvcy5wb3NpdGlvbiwgc3RhcnRQb3MpLCBjYy5wKDAsIDEpKTsKICAgICAgICAgICAgbGV0IGFnbDIgPSBjYy5wQW5nbGVTaWduZWQoY2MucFN1YihjYy5wKHN0YXJ0WCArIHgsIHkpLCBzdGFydFBvcyksY2MucCgwLDEpKTsKICAgICAgICAgICAgaWYgKGFnbDIgPCBhZ2wxKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhZ2wxLCBhZ2wyLCBzdGFydFgsIHRoaXMuc3BsaXRQb3MucG9zaXRpb24pOwogICAgICAgICAgICAgICAgLy8gc3AuY29sb3IgPSBjYy5Db2xvci5HUkVFTjsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsZXQgc3AgPSBuZXcgY2MuTm9kZSgpOwogICAgICAgIC8vIGxldCBzcCA9IG5ldyBjYy5Ob2RlKCk7CiAgICAgICAgc3AuYWRkQ29tcG9uZW50KGNjLlNwcml0ZSkuc3ByaXRlRnJhbWUgPSBNYXRoLnJhbmRvbSgpID4gMC41ID8gdGhpcy5zcDEgOiB0aGlzLnNwMjsKICAgICAgICBpZiAoc2NhbGUgPCAxKSB7CiAgICAgICAgICAgIHRoaXMuZWZmZWN0Tm9kZS5hZGRDaGlsZChzcCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhpcy5lZmZlY3ROb2RlMi5hZGRDaGlsZChzcCk7CiAgICAgICAgfQogICAgICAgIHNwLnNjYWxlID0gc2NhbGU7CiAgICAgICAgc3AueCA9IHN0YXJ0WDsKICAgICAgICBsZXQgdGltZSA9IDE1ICsgMzUgKiAoMSAtIHNjYWxlKTsKICAgICAgICB0aGlzLl9jb3VudCsrOwogICAgICAgIHNwLnJ1bkFjdGlvbihjYy5zZXF1ZW5jZShjYy5tb3ZlQnkodGltZSwgeCwgeSksIGNjLmNhbGxGdW5jKCgpID0+IHsKICAgICAgICAgICAgdGhpcy5fY291bnQtLTsKICAgICAgICB9KSwgY2MuZmFkZU91dCgyKSwgY2MucmVtb3ZlU2VsZigpKSk7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgdXBkYXRlRmx5KCkgewogICAgICAgIGxldCBub3cgPSBEYXRlLm5vdygpOwogICAgICAgIGlmICh0aGlzLl9uZXh0VGltZSA8IG5vdyAmJiB0aGlzLl9jb3VudCA8IDU3KSB7CiAgICAgICAgICAgIGlmICh0aGlzLmZseUxpZ2h0KCkpIHsKICAgICAgICAgICAgICAgIGxldCBpbnRlcnZhbCA9IDMwMCArIDIwMDAuMDAwICogTWF0aC5yYW5kb20oKTsKICAgICAgICAgICAgICAgIHRoaXMuZmx5TGlnaHQoKTsKICAgICAgICAgICAgICAgIHRoaXMuX25leHRUaW1lID0gbm93ICsgaW50ZXJ2YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgb25TdGFydENsaWNrKCkgewogICAgICAgIGNjLmRpcmVjdG9yLmxvYWRTY2VuZSgnY2hhcHRlcicpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cc.pSub(p1, p3)</text>
+        <text>MainMenu</text>
       </register>
       <register name="/" type="4">
         <text>test\c</text>
@@ -1274,7 +1286,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fY29tcC5jbGVhcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcC54Kj0tMTsK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgZWZmZWN0Tm9kZTogY2MuTm9kZSA9IG51bGw7CiAgICBAcHJvcGVydHkoY2MuTm9kZSkKICAgIGVmZmVjdE5vZGUyOiBjYy5Ob2RlID0gbnVsbDsKICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgc3BsaXRQb3M6IGNjLk5vZGUgPSBudWxsOwogICAgQHByb3BlcnR5KGNjLlNwcml0ZUZyYW1lKQogICAgc3AxOiBjYy5TcHJpdGVGcmFtZSA9IG51bGw7CiAgICBAcHJvcGVydHkoY2MuU3ByaXRlRnJhbWUpCiAgICBzcDI6IGNjLlNwcml0ZUZyYW1lID0gbnVsbDsKICAgIHByaXZhdGUgX2NvdW50OiBudW1iZXIgPSAwOwogICAgcHJpdmF0ZSBfbmV4dFRpbWU6IG51bWJlciA9IDA7CgoKICAgIG9uTG9hZCgpIHsKCiAgICB9CgoKICAgIGZseUxpZ2h0KCk6IGJvb2xlYW4gewogICAgICAgIGxldCB4ID0gLTMwMCAtIDI2MDAgKiBNYXRoLnJhbmRvbSgpOwogICAgICAgIGxldCB5ID0gNzgwICsgNjAwICogTWF0aC5yYW5kb20oKTsKICAgICAgICBsZXQgc3RhcnRYID0gLTQwMCArIDgwMCAqIE1hdGgucmFuZG9tKCk7CiAgICAgICAgbGV0IHNjYWxlID0gMC42ICsgMC42ICogTWF0aC5yYW5kb20oKTsKICAgICAgICBpZiAoc3RhcnRYICsgeCA+IC0xOTIwICYmIHkgPCAxMDgwKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgaWYgKHNjYWxlIDwgMSkgewogICAgICAgICAgICBsZXQgc3RhcnRQb3MgPSBjYy5wKHN0YXJ0WCwgMCk7CiAgICAgICAgICAgIGxldCBhZ2wxID0gY2MucEFuZ2xlU2lnbmVkKGNjLnBTdWIodGhpcy5zcGxpdFBvcy5wb3NpdGlvbiwgc3RhcnRQb3MpLCBjYy5wKDAsIDEpKTsKICAgICAgICAgICAgbGV0IGFnbDIgPSBjYy5wQW5nbGVTaWduZWQoY2MucFN1YihjYy5wKHN0YXJ0WCArIHgsIHkpLCBzdGFydFBvcyksY2MucCgwLDEpKTsKICAgICAgICAgICAgaWYgKGFnbDIgPCBhZ2wxKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhZ2wxLCBhZ2wyLCBzdGFydFgsIHRoaXMuc3BsaXRQb3MucG9zaXRpb24pOwogICAgICAgICAgICAgICAgLy8gc3AuY29sb3IgPSBjYy5Db2xvci5HUkVFTjsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsZXQgc3AgPSBuZXcgY2MuTm9kZSgpOwogICAgICAgIC8vIGxldCBzcCA9IG5ldyBjYy5Ob2RlKCk7CiAgICAgICAgc3AuYWRkQ29tcG9uZW50KGNjLlNwcml0ZSkuc3ByaXRlRnJhbWUgPSBNYXRoLnJhbmRvbSgpID4gMC41ID8gdGhpcy5zcDEgOiB0aGlzLnNwMjsKICAgICAgICBpZiAoc2NhbGUgPCAxKSB7CiAgICAgICAgICAgIHRoaXMuZWZmZWN0Tm9kZS5hZGRDaGlsZChzcCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhpcy5lZmZlY3ROb2RlMi5hZGRDaGlsZChzcCk7CiAgICAgICAgfQogICAgICAgIHNwLnNjYWxlID0gc2NhbGU7CiAgICAgICAgc3AueCA9IHN0YXJ0WDsKICAgICAgICBsZXQgdGltZSA9IDE1ICsgMzUgKiAoMSAtIHNjYWxlKTsKICAgICAgICB0aGlzLl9jb3VudCsrOwogICAgICAgIHNwLnJ1bkFjdGlvbihjYy5zZXF1ZW5jZShjYy5tb3ZlQnkodGltZSwgeCwgeSksIGNjLmNhbGxGdW5jKCgpID0+IHsKICAgICAgICAgICAgdGhpcy5fY291bnQtLTsKICAgICAgICB9KSwgY2MuZmFkZU91dCgyKSwgY2MucmVtb3ZlU2VsZigpKSk7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgdXBkYXRlRmx5KCkgewogICAgICAgIGxldCBub3cgPSBEYXRlLm5vdygpOwogICAgICAgIGlmICh0aGlzLl9uZXh0VGltZSA8IG5vdyAmJiB0aGlzLl9jb3VudCA8IDU3KSB7CiAgICAgICAgICAgIGlmICh0aGlzLmZseUxpZ2h0KCkpIHsKICAgICAgICAgICAgICAgIGxldCBpbnRlcnZhbCA9IDMwMCArIDIwMDAuMDAwICogTWF0aC5yYW5kb20oKTsKICAgICAgICAgICAgICAgIHRoaXMuZmx5TGlnaHQoKTsKICAgICAgICAgICAgICAgIHRoaXMuX25leHRUaW1lID0gbm93ICsgaW50ZXJ2YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgb25TdGFydENsaWNrKCkgewogICAgICAgIGNjLmRpcmVjdG9yLmxvYWRTY2VuZSgnY2hhcHRlcicpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1295,28 +1307,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5JbnRlZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5JbnRlZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRpcy5fYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbXAudHlwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDogYm9vbGVhbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvbSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcC54Kj0tMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLl9jb21wLmRlc3Ryb3koKTsK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5JbnRlZ2VyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5fY29tcC5kZXN0cm95KCk7Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5JbnRlZ2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29tcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRpcy5fYwo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
