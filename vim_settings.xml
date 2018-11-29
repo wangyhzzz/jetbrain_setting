@@ -1109,12 +1109,12 @@
         <mark key="." line="251" column="51" />
         <mark key="^" line="251" column="51" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1542944175781">
-        <mark key="'" line="122" column="17" />
-        <mark key="[" line="39" column="31" />
-        <mark key="]" line="39" column="40" />
-        <mark key="^" line="39" column="40" />
-        <mark key="." line="39" column="40" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543464440370">
+        <mark key="'" line="166" column="4" />
+        <mark key="[" line="62" column="58" />
+        <mark key="]" line="62" column="59" />
+        <mark key="^" line="88" column="48" />
+        <mark key="." line="62" column="59" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
         <mark key="'" line="244" column="0" />
@@ -1180,7 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="33" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="8" column="13" filename="E:/workstation/CLM/assets/script/Def.ts" />
       <jump line="432" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="253" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1280,13 +1279,14 @@
       <jump line="42" column="97" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="37" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="39" column="4" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="135" column="4" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBzdGFyID0gZy52aWV3LnN0YXJDb3VudDsK</text>
+      <register name="&quot;" type="4">
+        <text>cc.p(0, 0)</text>
       </register>
       <register name="-" type="4">
-        <text>star</text>
+        <text>cc.p(0, 0)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbGRTdGFyXD4=</text>
@@ -1294,8 +1294,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldCBzdGFyQ291bnQoKTogbnVtYmVyIHsKICAgICAgICByZXR1cm4gdGhpcy5fc3RhcklkeDsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBzdGFyID0gZy52aWV3LnN0YXJDb3VudDsK</text>
+      <register name="1" type="4">
+        <text>cc.p(0, 0)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1315,29 +1315,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>cc.p(3, 10)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob2xkU3RhciA9PT0gdW5kZWZpbmVkIHx8IG9sZFN0YXIgPCBzdGFyKSB7Cg==</text>
+      <register name="3" type="4">
+        <text>cc.p(-8, -10)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zdGFyQ291bnQgPSAwOwo=</text>
+      <register name="4" type="4">
+        <text>cc.p(2, -8)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>cc.p(-5, 5)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      <register name="6" type="4">
+        <text>cc.p(3, -6)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>cc.p(-13, 3)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcwo=</text>
+      <register name="8" type="4">
+        <text>cc.p(-6, 7)</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IFtjYy5wKCksIGNjLnAoMTAwLCAxMDApLCBwMV0=</text>
+        <text>cc.pAdd(pos,cc.p(5, 7))</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
