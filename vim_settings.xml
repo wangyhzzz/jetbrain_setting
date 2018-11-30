@@ -289,8 +289,8 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1543558293277">
-        <mark key="'" line="6" column="7" />
+      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1543571263254">
+        <mark key="'" line="23" column="15" />
         <mark key="[" line="59" column="22" />
         <mark key="]" line="59" column="22" />
         <mark key="." line="59" column="22" />
@@ -1135,6 +1135,13 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" timestamp="1543571440703">
+        <mark key="'" line="86" column="51" />
+        <mark key="[" line="86" column="50" />
+        <mark key="]" line="86" column="57" />
+        <mark key="." line="86" column="57" />
+        <mark key="^" line="86" column="57" />
+      </file>
       <file name="C:/CocosCreator/resources/engine/cocos2d/core/platform/CCView.js" timestamp="1521614951477">
         <mark key="'" line="284" column="69" />
         <mark key="[" line="231" column="28" />
@@ -1179,23 +1186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="36" column="25" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="31" column="36" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="49" column="30" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="2645" column="8" filename="E:/workstation/CLM/creator.d.ts" />
-      <jump line="47" column="37" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="63" column="26" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="38" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
-      <jump line="61" column="19" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="20863" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
-      <jump line="27" column="0" filename="E:/workstation/CLM/assets/script/actor/RoadSignActor.ts" />
-      <jump line="96" column="0" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="20" column="4" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="43" column="57" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="59" column="50" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="60" column="17" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="6" column="7" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="147" column="0" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="57" column="4" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="61" column="12" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
@@ -1279,22 +1269,39 @@
       <jump line="46" column="16" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
       <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
       <jump line="26" column="17" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
+      <jump line="11" column="21" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="48" column="16" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="47" column="35" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="57" column="21" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="23" column="15" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="41" column="16" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="76" column="32" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="81" column="17" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="68" column="4" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="75" column="26" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="62" column="4" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="21" column="4" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="85" column="27" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="26" column="13" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="84" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="86" column="51" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.resetInEditor()</text>
+        <text>this.node.getComponent(cc.AudioSource)</text>
       </register>
       <register name="-" type="4">
-        <text>this.resetInEditor()</text>
+        <text>Sprite</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZml4ZWRcPg==</text>
+        <text encoding="base64">XDxwbGF5XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>TriggerType.Show</text>
+        <text>this.node.getComponent(cc.AudioSource)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNvdW5kICYmIHRoaXMuc291bmQucGxheSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1315,28 +1322,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbnRpdHkudHJpZ2dlclR5cGUgPT09IFRyaWdnZXJUeXBlLlNob3cpIHsKICAgICAgICAgICAgICAgIH1lbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRpdHkuZW5hYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIG5vZGUueSArPSBjb21wLmRlbHRhWTsK</text>
+        <text encoding="base64">ICAgIF9zb3VuZDogY2MuQXVkaW9Tb3VyY2UgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5BdWRpb1NvdXJjZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbnRpdHkudHJpZ2dlclR5cGUgPT09IFRyaWdnZXJUeXBlLlNob3cpIHsKICAgICAgICAgICAgICAgIH1lbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRpdHkuZW5hYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIG5vZGUueSArPSBjb21wLmRlbHRhWTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZCYmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1346,9 +1353,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZml4ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxwbGF5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZml4ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwbGF5XD4=</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1356,13 +1363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tri\c</entry>
-        <entry encoding="base64">XDxjb21wXD4=</entry>
-        <entry>1</entry>
-        <entry>xin</entry>
-        <entry encoding="base64">XDxzaG93Rmx5aW5nU3Rhclw+</entry>
-        <entry encoding="base64">XDxwMVw+</entry>
-        <entry encoding="base64">XDxwb3MxXD4=</entry>
         <entry encoding="base64">XDxwM1w+</entry>
         <entry>shows\c</entry>
         <entry encoding="base64">XDx6SW5kZXhcPg==</entry>
@@ -1376,6 +1376,13 @@
         <entry>test</entry>
         <entry>upda\c</entry>
         <entry encoding="base64">XDxfZml4ZWRcPg==</entry>
+        <entry>tele\c</entry>
+        <entry encoding="base64">XDxMSUdIVF9URUxFUE9SVFw+</entry>
+        <entry>play\c</entry>
+        <entry encoding="base64">XDxhdXRvUGxheVw+</entry>
+        <entry>sou\c</entry>
+        <entry encoding="base64">XDxzb3VuZFw+</entry>
+        <entry encoding="base64">XDxwbGF5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
