@@ -1127,12 +1127,12 @@
         <mark key="." line="251" column="51" />
         <mark key="^" line="251" column="51" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543544492146">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="57" column="35" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543547674687">
+        <mark key="'" line="74" column="31" />
+        <mark key="[" line="63" column="13" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="16" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
         <mark key="'" line="244" column="0" />
@@ -1198,12 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="34" filename="E:/workstation/CLM/assets/script/comp/MainMenu.ts" />
-      <jump line="32" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
-      <jump line="47" column="22" filename="E:/workstation/CLM/assets/script/Global.ts" />
-      <jump line="3028" column="70" filename="E:/workstation/CLM/creator.d.ts" />
-      <jump line="3026" column="15" filename="E:/workstation/CLM/creator.d.ts" />
-      <jump line="3035" column="37" filename="E:/workstation/CLM/creator.d.ts" />
       <jump line="3033" column="15" filename="E:/workstation/CLM/creator.d.ts" />
       <jump line="71" column="11" filename="E:/workstation/CLM/assets/script/comp/MainMenu.ts" />
       <jump line="46" column="56" filename="E:/workstation/CLM/assets/script/Global.ts" />
@@ -1298,22 +1292,28 @@
       <jump line="33" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="295" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="306" column="13" filename="E:/workstation/CLM/assets/script/GameView.ts" />
+      <jump line="33" column="21" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="15" column="18" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="14" column="24" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="70" column="25" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="72" column="31" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="1666" column="20" filename="E:/workstation/CLM/creator.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stars</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb3JhbmdlU3RhcnNcPg==</text>
+        <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5kLmFjdGl2ZSA9IGZhbHNlOwogICAgICAgICAgICAgICAgdGhpcy5fc3RhcnMucHVzaChuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2MubW92ZUJ5KDMsIHApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1334,28 +1334,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBuZCBvZiB0aGlzLl9iZy5jaGlsZHJlbikgewogICAgICAgICAgICBpZiAobmQubmFtZSA9PT0gJ3N0YXInKSB7CiAgICAgICAgICAgICAgICBuZC5hY3RpdmUgPSBmYWxzZTsKICAgICAgICAgICAgICAgIHRoaXMuX3N0YXJzLnB1c2gobmQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZnRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fY29tcC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2MubW92ZVRvKDMsIGNjLnAoLTE4MDcsIDIwNTIpKSwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLl9jb21wLmNsZWFyKCk7Cg==</text>
+      <register name="5" type="4">
+        <text>cc.p(8000, 7000)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy53b3JsZExheWVyCg==</text>
+      <register name="6" type="4">
+        <text>cc.p(-1807, 2052)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vZGUuZ2V0Q2hpbGRCeU5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZy5jdHJsLnBsYXllci5lbmFibGVDb250cm9sID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>camera.getComponent(cc.Camera)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnBsCg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1365,9 +1365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb3JhbmdlU3RhcnNcPg==</last-search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb3JhbmdlU3RhcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1375,7 +1375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>die\c</entry>
         <entry>dead\c</entry>
         <entry encoding="base64">XDxkZWFkXD4=</entry>
         <entry encoding="base64">XDxvbk91dFdvcmxkXD4=</entry>
@@ -1395,6 +1394,7 @@
         <entry>tip\c</entry>
         <entry>orang</entry>
         <entry encoding="base64">XDxfb3JhbmdlU3RhcnNcPg==</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
