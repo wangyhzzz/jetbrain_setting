@@ -750,11 +750,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1543459127671">
+      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1543562329200">
         <mark key="'" line="141" column="36" />
-        <mark key="[" line="141" column="45" />
-        <mark key="]" line="141" column="45" />
-        <mark key="." line="141" column="45" />
+        <mark key="[" line="140" column="79" />
+        <mark key="]" line="140" column="80" />
+        <mark key="." line="140" column="80" />
         <mark key="^" line="141" column="53" />
       </file>
       <file name="E:/workstation/CLM/assets/script/pool/NodeFactory.ts" timestamp="1543471344289">
@@ -1025,11 +1025,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1543560256512">
+      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1543561851235">
         <mark key="'" line="51" column="54" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="52" column="49" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/MonsterAutoComp.ts" timestamp="1541139175446">
@@ -1087,11 +1087,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameView.ts" timestamp="1543544642731">
-        <mark key="'" line="306" column="13" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="." line="358" column="0" />
+      <file name="E:/workstation/CLM/assets/script/GameView.ts" timestamp="1543562322600">
+        <mark key="'" line="266" column="4" />
+        <mark key="[" line="278" column="29" />
+        <mark key="]" line="278" column="34" />
+        <mark key="." line="278" column="34" />
+        <mark key="^" line="278" column="34" />
       </file>
       <file name="E:/workstation/running/Server/lib/platform/CCClass.js" timestamp="1531735260463">
         <mark key="'" line="523" column="30" />
@@ -1213,9 +1214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="25" column="31" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="408" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="410" column="18" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="222" column="22" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1313,22 +1311,25 @@
       <jump line="37" column="40" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="51" column="54" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="13" column="4" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
+      <jump line="280" column="34" filename="E:/workstation/CLM/assets/script/GameView.ts" />
+      <jump line="265" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
+      <jump line="266" column="4" filename="E:/workstation/CLM/assets/script/GameView.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2MuQ2FtZXJhLm1haW4uem9vbVJhdGlvKQo=</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text encoding="base64">XDxzaG93Rmx5aW5nU3Rhclw+</text>
       </register>
       <register name="0" type="4">
         <text>!CustomEvents[this.key]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2MuQ2FtZXJhLm1haW4uem9vbVJhdGlvKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1349,28 +1350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IAo=</text>
+        <text encoding="base64">Y29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2MuQ2FtZXJhLm1haW4ubm9kZS5nZXRBY3Rpb25CeVRhZygxMTEpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">bGV0IAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2MuQ2FtZXJhLm1haW4ubm9kZS5nZXRBY3Rpb25CeVRhZygxMTEpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>newNode.addComponent(Trigger)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld05vZGUK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHRyaWdnZXI6IFRyaWdnZXIgPSBjb21wLm5vZGUuZ2V0Q29tcG9uZW50cyhUcmlnZ2VyKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRyaWdnZXIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1380,9 +1381,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search encoding="base64">XDxzaG93Rmx5aW5nU3Rhclw+</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93Rmx5aW5nU3Rhclw+</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1390,8 +1391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test\c</entry>
-        <entry encoding="base64">XDxfdGVzdFw+</entry>
         <entry>fly\c</entry>
         <entry encoding="base64">XDxfc3RhcnNcPg==</entry>
         <entry>ena\c</entry>
@@ -1410,6 +1409,8 @@
         <entry>tri\c</entry>
         <entry encoding="base64">XDxjb21wXD4=</entry>
         <entry>1</entry>
+        <entry>xin</entry>
+        <entry encoding="base64">XDxzaG93Rmx5aW5nU3Rhclw+</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
