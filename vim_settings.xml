@@ -1018,12 +1018,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1543550976839">
-        <mark key="'" line="56" column="24" />
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="49" column="45" />
-        <mark key="^" line="49" column="45" />
+      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1543556985868">
+        <mark key="'" line="61" column="19" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="34" />
+        <mark key="^" line="63" column="27" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/MonsterAutoComp.ts" timestamp="1541139175446">
         <mark key="'" line="6" column="45" />
@@ -1205,11 +1205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="E:/workstation/H5/assets/scene/loading/loading.ts" />
-      <jump line="53" column="20" filename="E:/workstation/CLM/assets/script/Global.ts" />
-      <jump line="121" column="37" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="153" column="22" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="23" column="8" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="24" column="54" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="30" column="17" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="31" column="15" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
@@ -1305,22 +1300,27 @@
       <jump line="49" column="30" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="52" column="24" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="2645" column="8" filename="E:/workstation/CLM/creator.d.ts" />
+      <jump line="47" column="37" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
+      <jump line="63" column="26" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
+      <jump line="38" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
+      <jump line="61" column="19" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
+      <jump line="20863" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>this.key</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>this.key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>cc.moveTo(3, cc.p(-1807, 2052))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmZHNmPycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0L3RpbWVzID0gMS82MDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1340,29 +1340,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y2Muc3Bhd24oY2Muc2VxdWVuY2UoY2MuZGVsYXlUaW1lKDAuMDEpLGNjLmNhbGxGdW5jKCgpPT57CiAgICAgICAgICAgICAgICAgICAgICAgIGNjLkNhbWVyYS5tYWluLnpvb21SYXRpbyAtPSAwLjAxOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjYy5DYW1lcmEubWFpbi56b29tUmF0aW8gKQogICAgICAgICAgICAgICAgICAgIH0pKS5yZXBlYXQoMjApLCBjYy5tb3ZlVG8oMywgY2MucCgtMTgwNywgMjA1MikpKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjYy5DYW1lcmEubWFpbi5ub2RlLnggPSAtMTgwNzsKICAgICAgICAgICAgICAgICAgICAvLyBjYy5DYW1lcmEubWFpbi5ub2RlLnkgPSAyMDUyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYy5DYW1lcmEubWFpbi5ub2RlLnJ1bkFjdGlvbihjYy5zZXF1ZW5jZShjYy5kZWxheVRpbWUoMC4wMSksIGNjLmNhbGxGdW5jKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgY2MuQ2FtZXJhLm1haW4uem9vbVJhdGlvIC09IDAuMDE7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNjLkNhbWVyYS5tYWluLnpvb21SYXRpbykKICAgICAgICAgICAgICAgICAgICB9KSkucmVwZWF0KDIwKSwgY2MubW92ZVRvKDMsIGNjLnAoLTE4MDcsIDIwNTIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZmRzZj8/JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYy5DYW1lcmEubWFpbi5ub2RlLnJ1bkFjdGlvbihjYy5zZXF1ZW5jZShjYy5kZWxheVRpbWUoMC4wMSksIGNjLmNhbGxGdW5jKCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmZHNmPycpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>, cc.moveTo(3, cc.p(-1807, 2052))</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY25vCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGcuc2V0VGltZVNjYWxlKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYy5DYW1lcmEubWFpbi56b29tUmF0aW8gPSAwLjg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRoaXMua2V5ID09KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRoaXMua2V5KQo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
