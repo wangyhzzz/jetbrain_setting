@@ -286,8 +286,8 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1543479025910">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1543558293277">
+        <mark key="'" line="6" column="7" />
         <mark key="[" line="59" column="22" />
         <mark key="]" line="59" column="22" />
         <mark key="." line="59" column="22" />
@@ -488,12 +488,12 @@
         <mark key="^" line="111" column="26" />
         <mark key="." line="111" column="26" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/RoadSignActor.ts" timestamp="1543480626040">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="55" />
+      <file name="E:/workstation/CLM/assets/script/actor/RoadSignActor.ts" timestamp="1543558222213">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="57" />
       </file>
       <file name="E:/workstation/running/Server/lib/CCGame.js" timestamp="1532830135293">
         <mark key="'" line="248" column="24" />
@@ -1069,7 +1069,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543479028958">
+      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543558320797">
+        <mark key="'" line="81" column="12" />
         <mark key="[" line="24" column="24" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/SceneData/NodeInfo.ts" timestamp="1536284787991">
@@ -1134,12 +1135,12 @@
         <mark key="." line="251" column="51" />
         <mark key="^" line="251" column="51" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543547674687">
-        <mark key="'" line="74" column="31" />
-        <mark key="[" line="63" column="13" />
-        <mark key="]" line="64" column="16" />
-        <mark key="." line="64" column="16" />
-        <mark key="^" line="64" column="16" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1543558339060">
+        <mark key="'" line="65" column="52" />
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="65" column="47" />
+        <mark key="." line="65" column="47" />
+        <mark key="^" line="65" column="47" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
         <mark key="'" line="244" column="0" />
@@ -1205,19 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="54" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="30" column="17" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="31" column="15" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="44" column="47" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="47" column="24" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="108" column="12" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="42" column="19" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="152" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="157" column="15" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="147" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="80" column="8" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="149" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="49" column="15" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="187" column="0" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="92" column="15" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="85" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
@@ -1305,6 +1293,19 @@
       <jump line="38" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
       <jump line="61" column="19" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="20863" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
+      <jump line="27" column="0" filename="E:/workstation/CLM/assets/script/actor/RoadSignActor.ts" />
+      <jump line="96" column="0" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="20" column="4" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="43" column="57" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="59" column="50" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="60" column="17" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="6" column="7" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="147" column="0" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="57" column="4" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="61" column="12" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="95" column="29" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="81" column="12" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="65" column="52" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1314,7 +1315,7 @@
         <text>this.key</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluXD4=</text>
+        <text>1_1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmZHNmPycpCg==</text>
@@ -1372,9 +1373,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluXD4=</last-search>
+      <last-search>1_1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
+      <last-pattern>1_1</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1382,11 +1383,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JsZFw+</entry>
-        <entry encoding="base64">XDxfd29ybGRcPg==</entry>
-        <entry encoding="base64">XDxHYW1lV29ybGRcPg==</entry>
-        <entry encoding="base64">XDxfaGFsZldpZHRoXD4=</entry>
-        <entry encoding="base64">XDx3b3JsZExheWVyXD4=</entry>
         <entry>upda\c</entry>
         <entry encoding="base64">XDx2aWV3TW92ZVJhbmdlWFw+</entry>
         <entry>test\c</entry>
@@ -1402,6 +1398,11 @@
         <entry encoding="base64">XDxDYW1lcmFcPg==</entry>
         <entry encoding="base64">XDxlbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry>tri\c</entry>
+        <entry encoding="base64">XDxwbGF5VHJpZ2dlclw+</entry>
+        <entry encoding="base64">XDx0aW1lRml4XD4=</entry>
+        <entry encoding="base64">XDx0XD4=</entry>
+        <entry>1_1</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
