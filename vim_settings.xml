@@ -17,6 +17,11 @@
         <mark key="." line="263" column="31" />
         <mark key="^" line="263" column="31" />
       </file>
+      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543742241885">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="82" column="20" />
@@ -216,6 +221,14 @@
         <mark key="." line="538" column="32" />
         <mark key="^" line="538" column="32" />
       </file>
+      <file name="E:/workstation/running/Server/src/AccountModule.ts" timestamp="1543741411382">
+        <mark key="'" line="179" column="60" />
+      </file>
+      <file name="E:/workstation/running/Server/cfg/TaskTable.ts" timestamp="1543741692915">
+        <mark key="'" line="336" column="0" />
+        <mark key="[" line="260" column="13" />
+        <mark key="]" line="260" column="31" />
+      </file>
       <file name="E:/workstation/H5/assets/ui/fish/FailedTaskNode.ts" timestamp="1523185827049">
         <mark key="'" line="27" column="32" />
         <mark key="[" line="31" column="0" />
@@ -244,8 +257,8 @@
         <mark key="." line="87" column="32" />
         <mark key="^" line="87" column="32" />
       </file>
-      <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543740243211">
-        <mark key="'" line="36" column="0" />
+      <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543740749731">
+        <mark key="'" line="72" column="17" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/MaliGame.ts" timestamp="1527735424130">
         <mark key="'" line="178" column="11" />
@@ -680,9 +693,6 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/workstation/running/Server/cfg/MatchTable.ts" timestamp="1543204157981">
-        <mark key="'" line="205" column="8" />
-      </file>
       <file name="E:/workstation/H5/assets/com/network/client/module/FishGame.ts" timestamp="1530499542096">
         <mark key="'" line="211" column="21" />
         <mark key="[" line="35" column="10" />
@@ -851,9 +861,6 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="vim_settings.xml" timestamp="1543282184033">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/workstation/H5/assets/ui/fish/CoinsNode.ts" timestamp="1523591371766">
         <mark key="'" line="79" column="4" />
         <mark key="[" line="49" column="26" />
@@ -1021,9 +1028,6 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543544355983">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/workstation/H5/assets/com/util/HttpUtil.ts" timestamp="1535623543203">
         <mark key="'" line="65" column="17" />
         <mark key="[" line="74" column="53" />
@@ -1189,28 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
-      <jump line="61" column="12" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
-      <jump line="95" column="29" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
-      <jump line="81" column="12" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
-      <jump line="79" column="49" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="3" column="23" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="42" column="12" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="46" column="12" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="82" column="37" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="83" column="32" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="86" column="28" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="84" column="28" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="27" column="0" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="57" column="50" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="37" column="40" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="51" column="54" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="13" column="4" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="280" column="34" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="265" column="0" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="266" column="4" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="139" column="38" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
-      <jump line="312" column="54" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="155" column="33" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="308" column="82" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="303" column="38" filename="E:/workstation/CLM/assets/script/GameView.ts" />
@@ -1289,22 +1271,44 @@
       <jump line="84" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
       <jump line="86" column="51" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
       <jump line="36" column="0" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
+      <jump line="72" column="17" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
+      <jump line="318" column="0" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="2" column="21" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="260" column="13" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="12" column="11" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="0" column="0" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="327" column="22" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="7" column="17" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="137" column="40" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="149" column="42" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="162" column="41" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="179" column="60" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="148" column="8" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="263" column="8" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="288" column="0" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="328" column="4" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="248" column="8" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="1" column="6" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="336" column="0" filename="E:/workstation/running/Server/cfg/TaskTable.ts" />
+      <jump line="18" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="9" column="11" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="1158" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.node.getComponent(cc.AudioSource)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Sprite</text>
+        <text>idx</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5XD4=</text>
+        <text encoding="base64">XDx0YWJsZUxpc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>this.node.getComponent(cc.AudioSource)</text>
+        <text encoding="base64">Q3JlYXRlVGFza1RhYmxlT2JqIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNvdW5kICYmIHRoaXMuc291bmQucGxheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1325,25 +1329,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxpc3Quc3BsaWNlKGlkeCwgMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9zb3VuZDogY2MuQXVkaW9Tb3VyY2UgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza0NvdW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5BdWRpb1NvdXJjZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGlkID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbnRpdHkudHJpZ2dlclR5cGUgPT09IFRyaWdnZXJUeXBlLlNob3cpIHsKICAgICAgICAgICAgICAgIH1lbHNlCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRpdHkuZW5hYmxlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIG5vZGUueSArPSBjb21wLmRlbHRhWTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1356,9 +1360,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5XD4=</last-search>
+      <last-search encoding="base64">XDx0YWJsZUxpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJsZUxpc3RcPg==</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1366,12 +1370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwM1w+</entry>
-        <entry>shows\c</entry>
-        <entry encoding="base64">XDx6SW5kZXhcPg==</entry>
-        <entry encoding="base64">XDx0aW1lXD4=</entry>
-        <entry encoding="base64">XDxwbGF5RWZmZWN0XD4=</entry>
-        <entry>todo\c</entry>
         <entry encoding="base64">XDx0b2RvXD4=</entry>
         <entry encoding="base64">XDxpbml0U2VydmVyRGF0YVw+</entry>
         <entry encoding="base64">XDxyZWZyZXNoVGFza0RhdGFcPg==</entry>
@@ -1386,6 +1384,12 @@
         <entry>sou\c</entry>
         <entry encoding="base64">XDxzb3VuZFw+</entry>
         <entry encoding="base64">XDxwbGF5XD4=</entry>
+        <entry>UserIte\c</entry>
+        <entry encoding="base64">XDxnZXROZXdUYXNrXD4=</entry>
+        <entry encoding="base64">XDx0YWJsZURhdGFcPg==</entry>
+        <entry encoding="base64">XDxnZXRUYWJsZUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxVc2VySW5mb1w+</entry>
+        <entry encoding="base64">XDx0YWJsZUxpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
