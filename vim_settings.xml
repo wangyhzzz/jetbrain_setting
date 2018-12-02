@@ -244,6 +244,9 @@
         <mark key="." line="87" column="32" />
         <mark key="^" line="87" column="32" />
       </file>
+      <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543740243211">
+        <mark key="'" line="36" column="0" />
+      </file>
       <file name="E:/workstation/H5/assets/ui/fish/MaliGame.ts" timestamp="1527735424130">
         <mark key="'" line="178" column="11" />
         <mark key="[" line="108" column="9" />
@@ -1186,7 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="57" column="4" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="61" column="12" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="95" column="29" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
@@ -1286,6 +1288,7 @@
       <jump line="26" column="13" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
       <jump line="84" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
       <jump line="86" column="51" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="36" column="0" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
