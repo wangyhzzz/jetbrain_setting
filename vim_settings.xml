@@ -681,12 +681,12 @@
         <mark key="^" line="551" column="51" />
         <mark key="." line="551" column="51" />
       </file>
-      <file name="D:/workstation/running/Server/src/NetLogic.ts" timestamp="1543757723960">
+      <file name="D:/workstation/running/Server/src/NetLogic.ts" timestamp="1543762424761">
         <mark key="'" line="7" column="11" />
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="E:/workstation/CLM/assets/script/actor/MonsterActor.ts" timestamp="1542356885734">
         <mark key="'" line="8" column="46" />
@@ -960,12 +960,12 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="D:/workstation/running/Server/src/TaskModule.ts" timestamp="1543761300306">
+      <file name="D:/workstation/running/Server/src/TaskModule.ts" timestamp="1543762261372">
         <mark key="'" line="54" column="32" />
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="82" />
-        <mark key="." line="48" column="82" />
-        <mark key="^" line="48" column="82" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="49" column="99" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/RightMenu.ts" timestamp="1523524962643">
         <mark key="'" line="94" column="21" />
@@ -1079,6 +1079,9 @@
         <mark key="^" line="131" column="3" />
         <mark key="." line="131" column="3" />
       </file>
+      <file name="D:/workstation/running/Server/pdr.sql" timestamp="1543762550196">
+        <mark key="'" line="49" column="40" />
+      </file>
       <file name="E:/workstation/H5/assets/ui/fish/CompleteTaskNode.ts" timestamp="1523185850248">
         <mark key="'" line="99" column="30" />
         <mark key="[" line="80" column="0" />
@@ -1172,12 +1175,12 @@
       <file name="D:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543759757144">
         <mark key="'" line="0" column="16" />
       </file>
-      <file name="D:/workstation/running/Server/src/AccountModule.ts" timestamp="1543761156278">
-        <mark key="'" line="186" column="25" />
-        <mark key="[" line="186" column="8" />
-        <mark key="]" line="186" column="13" />
-        <mark key="^" line="186" column="13" />
-        <mark key="." line="186" column="13" />
+      <file name="D:/workstation/running/Server/src/AccountModule.ts" timestamp="1543762433999">
+        <mark key="'" line="182" column="10" />
+        <mark key="[" line="182" column="10" />
+        <mark key="]" line="182" column="19" />
+        <mark key="^" line="185" column="35" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/ui/lobby/PlayerInfoLayer.ts" timestamp="1530524137883">
         <mark key="'" line="78" column="4" />
@@ -1193,12 +1196,12 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543759703188">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="120" column="31" />
-        <mark key="^" line="120" column="31" />
+      <file name="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543762464729">
+        <mark key="'" line="169" column="9" />
+        <mark key="[" line="170" column="8" />
+        <mark key="]" line="170" column="17" />
+        <mark key="." line="170" column="17" />
+        <mark key="^" line="170" column="17" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/FishCoinLayer.ts" timestamp="1525941903666">
         <mark key="'" line="10" column="21" />
@@ -1272,19 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="32" filename="D:/workstation/running/Client/assets/MainScene/Login.ts" />
-      <jump line="59" column="17" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="128" column="22" filename="D:/workstation/running/Server/src/run.ts" />
-      <jump line="34" column="19" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="46" column="17" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="43" column="19" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="85" column="4" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="84" column="0" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="107" column="20" filename="D:/workstation/running/Client/assets/MainScene/MainScene.ts" />
-      <jump line="92" column="39" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="106" column="0" filename="D:/workstation/running/Client/assets/Logic/UserInfo.ts" />
-      <jump line="83" column="13" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="119" column="39" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
       <jump line="122" column="39" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
       <jump line="7" column="11" filename="D:/workstation/running/Server/src/NetLogic.ts" />
       <jump line="187" column="0" filename="D:/workstation/running/Server/src/AccountModule.ts" />
@@ -1372,22 +1362,35 @@
       <jump line="106" column="22" filename="D:/workstation/running/Server/pdr.sql" />
       <jump line="109" column="14" filename="D:/workstation/running/Server/pdr.sql" />
       <jump line="120" column="27" filename="D:/workstation/running/Server/pdr.sql" />
+      <jump line="41" column="4" filename="D:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="47" column="6" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="82" column="4" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="83" column="13" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="84" column="56" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="111" column="10" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="116" column="12" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="117" column="0" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="139" column="8" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="170" column="40" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="169" column="9" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="182" column="10" filename="D:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="49" column="40" filename="D:/workstation/running/Server/pdr.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>cancelTask</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>cancelTask</text>
       </register>
       <register name="/" type="4">
-        <text>role\c</text>
+        <text>close\c</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBgZ29sZGAgaW50KDEwKSBERUZBVUxUICcwJywK</text>
+      <register name="0" type="4">
+        <text>cancelTask</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQ291bnQ6IHVwZGF0ZVN0ZXAsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1408,28 +1411,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWRkQ291bnQgPCAxKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWRkQ291bnQgPSBhcmcuYWRkQ291bnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdmFsaWRDb3VudCA9IGluZm8uZmlsdGVyKCh0KSA9PiB7CiAgICAgICAgICAgIHJldHVybiB0LmNsb3NlID09PSAwOwogICAgICAgIH0pLmxlbmd0aDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYWRkQ291bnQgPCAxKSByZXR1cm47Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbXS4K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdmFsaWRDb3VudCA9IGluZm8uZmlsdGVyKCh0KSA9PiB7CiAgICAgICAgICAgIHJldHVybiB0LmNsb3NlID09PSAwOwogICAgICAgIH0pLmxlbmd0aDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbGlzdCA9IHRhYmxlTGlzdC5maWx0ZXIoKHQpID0+IHsKICAgICAgICAgICAgdC5nZXRSZXF1ZXN0UGxheWVyQ2xhc3MoKTsKICAgICAgICAgICAgcmV0dXJuIHQuZ2V0UmVxdWVzdFBsYXllckx2KCkgPj0gbHY7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmxlRGF0YSA9IG5ldyBDcmVhdGVUYXNrVGFibGVPYmoodGFza1NpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbXS4K</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1439,9 +1442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>role\c</last-search>
+      <last-search>close\c</last-search>
       <last-offset />
-      <last-pattern>role\c</last-pattern>
+      <last-pattern>close\c</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1449,10 +1452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
-        <entry>update\c</entry>
-        <entry encoding="base64">XDxmaW5pc2hUYXNrXD4=</entry>
-        <entry encoding="base64">XDxjaGVja1Rhc2tTZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxsb2dpY1NlbmRcPg==</entry>
         <entry>ini\c</entry>
         <entry>todo\c</entry>
@@ -1469,6 +1468,10 @@
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry>acc\c</entry>
         <entry>role\c</entry>
+        <entry>upda</entry>
+        <entry>ref\c</entry>
+        <entry encoding="base64">XDxjYW5jZWxUYXNrXD4=</entry>
+        <entry>close\c</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
