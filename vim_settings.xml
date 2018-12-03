@@ -60,12 +60,11 @@
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543493232794">
         <mark key="'" line="222" column="22" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/MissionInfo.ts" timestamp="1543833560836">
+      <file name="E:/workstation/CLM/assets/script/MissionInfo.ts" timestamp="1543834349409">
         <mark key="'" line="111" column="10" />
-        <mark key="[" line="86" column="34" />
-        <mark key="]" line="86" column="35" />
-        <mark key="." line="86" column="35" />
-        <mark key="^" line="86" column="35" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" timestamp="1543807438908">
         <mark key="'" line="33" column="12" />
@@ -475,6 +474,12 @@
         <mark key="]" line="36" column="29" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="36" column="29" />
+      </file>
+      <file name="D:/workstation/running/Server/src/run.ts" timestamp="1543757057927">
+        <mark key="'" line="128" column="22" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="58" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/BlastAnimation.ts" timestamp="1524376047259">
         <mark key="'" line="32" column="0" />
@@ -1147,6 +1152,12 @@
         <mark key="." line="156" column="42" />
         <mark key="^" line="156" column="42" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1543812796074">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="E:/workstation/CLM/assets/script/entity/Monster.ts" timestamp="1543470206830">
         <mark key="'" line="7" column="37" />
         <mark key="[" line="15" column="36" />
@@ -1216,7 +1227,7 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543833000120">
+      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543834187345">
         <mark key="'" line="36" column="28" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -1308,8 +1319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="386" column="4" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="29" column="8" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="16" column="4" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
@@ -1386,8 +1395,6 @@
       <jump line="38" column="24" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="79" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="63" column="4" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="37" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
-      <jump line="248" column="10" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="15" column="4" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="66" column="28" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="51" column="22" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
@@ -1401,29 +1408,33 @@
       <jump line="67" column="27" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="85" column="35" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="113" column="28" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="36" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
-      <jump line="69" column="16" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="116" column="49" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="115" column="17" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="86" column="19" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="110" column="0" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="48" column="11" filename="E:/workstation/CLM/assets/script/Global.ts" />
+      <jump line="37" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="36" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="69" column="19" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="115" column="19" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="248" column="10" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="111" column="10" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="116" column="10" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="86" column="30" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="112" column="10" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this._mission</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnLmN0cmwuanVtcFNjZW5lKGAke3RoaXMuX2NoYXB0ZXJ9XyR7dGhpcy5fbWlzc2lvbn1gKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>this._mission</text>
+        <text>let name =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqdW1wTWlzc29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zdGFySWR4ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZy5jdHJsLmp1bXBTY2VuZShgJHt0aGlzLl9jaGFwdGVyfV8ke3RoaXMuX21pc3Npb259YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBnLmN0cmwuanVtcFNjZW5lKGAke3RoaXMuX2NoYXB0ZXJ9XyR7dGhpcy5fbWlzc2lvbn1gKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1444,28 +1455,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1pcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGcuY3RybCkgewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqdW0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>[i]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZy5sb2FkU2NlbmUoYCR7dGhpcy5fY2hhcHRlcn1fJHt0aGlzLl9taXNzaW9ufWApOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoanVtcCl7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3NkZj8nLCBzdGFycykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZy5sb2FkU2NlbmUoYCR7dGhpcy5fY2hhcHRlcn1fJHt0aGlzLl9taXNzaW9ufWApOwo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1485,7 +1496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trig\c</entry>
         <entry>dis\c</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxfY2hhcHRlclw+</entry>
@@ -1504,6 +1514,7 @@
         <entry>res\c</entry>
         <entry encoding="base64">XDxqdW1wU2NlbmVcPg==</entry>
         <entry encoding="base64">XDxfbWlzc2lvblw+</entry>
+        <entry>reset\c</entry>
         <entry encoding="base64">XDxqdW1wTWlzc29uXD4=</entry>
       </history-search>
       <history-cmd>
