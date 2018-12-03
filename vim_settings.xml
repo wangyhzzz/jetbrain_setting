@@ -10,12 +10,12 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543817190876">
-        <mark key="'" line="96" column="74" />
-        <mark key="[" line="96" column="71" />
-        <mark key="]" line="96" column="81" />
-        <mark key="." line="96" column="81" />
-        <mark key="^" line="96" column="81" />
+      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543820223373">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="14" />
+        <mark key="." line="53" column="14" />
+        <mark key="^" line="53" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
@@ -51,12 +51,12 @@
       <file name="E:/workstation/running/Client/assets/MainScene/Login.ts" timestamp="1543801081384">
         <mark key="'" line="38" column="32" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/Actor.ts" timestamp="1543815612593">
-        <mark key="'" line="42" column="29" />
-        <mark key="[" line="103" column="42" />
-        <mark key="]" line="104" column="30" />
-        <mark key="^" line="104" column="30" />
-        <mark key="." line="104" column="30" />
+      <file name="E:/workstation/CLM/assets/script/actor/Actor.ts" timestamp="1543819648942">
+        <mark key="'" line="94" column="27" />
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="106" column="16" />
+        <mark key="." line="106" column="16" />
+        <mark key="^" line="106" column="16" />
       </file>
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543493232794">
         <mark key="'" line="222" column="22" />
@@ -147,12 +147,12 @@
         <mark key="." line="606" column="18" />
         <mark key="^" line="606" column="18" />
       </file>
-      <file name="E:/workstation/running/Server/src/AccountModule.ts" timestamp="1543808519573">
-        <mark key="'" line="199" column="36" />
-        <mark key="[" line="199" column="19" />
-        <mark key="]" line="199" column="24" />
-        <mark key="^" line="199" column="24" />
-        <mark key="." line="199" column="24" />
+      <file name="E:/workstation/running/Server/src/AccountModule.ts" timestamp="1543820082733">
+        <mark key="'" line="203" column="39" />
+        <mark key="[" line="185" column="32" />
+        <mark key="]" line="185" column="42" />
+        <mark key="." line="185" column="42" />
+        <mark key="^" line="185" column="42" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/FailedTaskNode.ts" timestamp="1523185827049">
         <mark key="'" line="27" column="32" />
@@ -171,8 +171,8 @@
       <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543801925056">
         <mark key="'" line="0" column="14" />
       </file>
-      <file name="E:/workstation/running/Server/src/t.ts" timestamp="1543809769327">
-        <mark key="'" line="4" column="35" />
+      <file name="E:/workstation/running/Server/src/t.ts" timestamp="1543820080853">
+        <mark key="'" line="4" column="32" />
         <mark key="[" line="4" column="46" />
         <mark key="]" line="4" column="49" />
         <mark key="." line="4" column="49" />
@@ -501,7 +501,7 @@
         <mark key="^" line="38" column="7" />
         <mark key="." line="38" column="7" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1543815668195">
+      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1543818681476">
         <mark key="'" line="88" column="40" />
         <mark key="[" line="140" column="81" />
         <mark key="]" line="140" column="82" />
@@ -645,13 +645,6 @@
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="18" />
         <mark key="^" line="51" column="18" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543807679610">
-        <mark key="'" line="58" column="40" />
-        <mark key="[" line="65" column="35" />
-        <mark key="]" line="65" column="44" />
-        <mark key="^" line="65" column="44" />
-        <mark key="." line="65" column="44" />
       </file>
       <file name="E:/workstation/running/Server/src/run.ts" timestamp="1543807781546">
         <mark key="[" line="133" column="23" />
@@ -962,13 +955,7 @@
         <mark key="^" line="50" column="22" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="E:/workstation/running/Client/assets/Logic/UserInfo.ts" timestamp="1543808902059">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="85" column="31" />
-        <mark key="]" line="85" column="39" />
-        <mark key="." line="85" column="39" />
-        <mark key="^" line="85" column="39" />
-      </file>
+      <file name="E:/workstation/running/Client/assets/Logic/UserInfo.ts" timestamp="1543808902059" />
       <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail_give.ts" timestamp="1526008679483">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="9" column="17" />
@@ -1181,11 +1168,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="E:/workstation/running/Server/src/NetLogic.ts" timestamp="1542852633268">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+      <file name="E:/workstation/running/Server/src/NetLogic.ts" timestamp="1543819055643">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/UI.ts" timestamp="1543369183224">
         <mark key="'" line="92" column="38" />
@@ -1195,11 +1183,7 @@
         <mark key="^" line="90" column="34" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/ConfigTable/ServerDate.ts" timestamp="1543807279484">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="51" column="61" />
-        <mark key="]" line="51" column="71" />
-        <mark key="." line="51" column="71" />
-        <mark key="^" line="51" column="71" />
+        <mark key="'" line="61" column="4" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/CannonNode.ts" timestamp="1540812441860">
         <mark key="'" line="571" column="57" />
@@ -1208,12 +1192,12 @@
         <mark key="^" line="150" column="14" />
         <mark key="." line="150" column="14" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1543569469302">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="33" />
-        <mark key="]" line="49" column="46" />
-        <mark key="^" line="49" column="46" />
-        <mark key="." line="49" column="46" />
+      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1543819016884">
+        <mark key="'" line="46" column="66" />
+        <mark key="[" line="46" column="57" />
+        <mark key="]" line="46" column="72" />
+        <mark key="." line="46" column="72" />
+        <mark key="^" line="46" column="72" />
       </file>
       <file name="D:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543759757144">
         <mark key="'" line="0" column="16" />
@@ -1238,6 +1222,13 @@
         <mark key="]" line="20" column="53" />
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/actor/LightActor.ts" timestamp="1543819568685">
+        <mark key="'" line="96" column="39" />
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="51" />
+        <mark key="." line="52" column="51" />
+        <mark key="^" line="52" column="51" />
       </file>
       <file name="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543762464729">
         <mark key="'" line="169" column="9" />
@@ -1281,12 +1272,12 @@
         <mark key="^" line="30" column="9" />
         <mark key="." line="30" column="9" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" timestamp="1543571440703">
-        <mark key="'" line="86" column="51" />
-        <mark key="[" line="86" column="50" />
-        <mark key="]" line="86" column="57" />
-        <mark key="." line="86" column="57" />
-        <mark key="^" line="86" column="57" />
+      <file name="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" timestamp="1543819353918">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="98" column="27" />
+        <mark key="]" line="98" column="30" />
+        <mark key="." line="98" column="30" />
+        <mark key="^" line="98" column="30" />
       </file>
       <file name="C:/CocosCreator/resources/engine/cocos2d/core/platform/CCView.js" timestamp="1521614951477">
         <mark key="'" line="284" column="69" />
@@ -1318,56 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="16" filename="E:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="34" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="35" column="36" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="38" column="55" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="190" column="25" filename="E:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="4" column="27" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="15" column="27" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="30" column="27" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="48" column="27" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="67" column="27" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="82" column="27" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="0" column="14" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="25" column="13" filename="E:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
-      <jump line="0" column="12" filename="E:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
-      <jump line="1" column="12" filename="E:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
-      <jump line="25" column="13" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="0" column="11" filename="E:/workstation/running/Client/assets/Common/GlobalConfig.ts" />
-      <jump line="1" column="11" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="0" column="12" filename="E:/workstation/running/Client/assets/Common/ColliderConfig.ts" />
-      <jump line="2" column="32" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="62" column="41" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="129" column="21" filename="E:/workstation/running/Server/src/app.ts" />
-      <jump line="33" column="12" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="0" column="0" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="156" column="19" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="3" column="68" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="57" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="63" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="12" column="17" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="1" column="12" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="20" column="13" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="64" column="26" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="3" column="4" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="5" column="33" filename="E:/workstation/running/Server/src/t.ts" />
-      <jump line="65" column="24" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="84" column="10" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="102" column="18" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="27" column="15" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="0" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="29" column="45" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="30" column="68" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="49" column="162" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="50" column="89" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="55" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="67" column="63" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="78" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="28" column="8" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="66" column="77" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="79" column="55" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="80" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="88" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="85" column="25" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="89" column="19" filename="E:/workstation/running/Server/src/TaskModule.ts" />
@@ -1394,7 +1335,6 @@
       <jump line="199" column="36" filename="E:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="81" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="82" column="25" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="4" column="35" filename="E:/workstation/running/Server/src/t.ts" />
       <jump line="197" column="10" filename="E:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="0" column="11" filename="E:/workstation/running/Client/assets/Logic/UserInfo.ts" />
       <jump line="10" column="4" filename="E:/workstation/running/Client/assets/Logic/UserInfo.ts" />
@@ -1407,7 +1347,6 @@
       <jump line="203" column="45" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="27" column="24" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="199" column="13" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
-      <jump line="198" column="23" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="82" column="4" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="197" column="23" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="201" column="4" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
@@ -1416,24 +1355,76 @@
       <jump line="104" column="23" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="42" column="29" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="138" column="20" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
-      <jump line="88" column="40" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
       <jump line="96" column="74" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="54" column="17" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="44" column="22" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="70" column="16" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="102" column="39" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="128" column="39" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="48" column="21" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="187" column="0" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="182" column="10" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="185" column="32" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="72" column="4" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
+      <jump line="108" column="54" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
+      <jump line="88" column="40" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
+      <jump line="10" column="14" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="198" column="0" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="24" column="8" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="45" column="39" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
+      <jump line="17" column="4" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="46" column="66" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
+      <jump line="45" column="4" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="9" column="13" filename="E:/workstation/running/Server/src/NetLogic.ts" />
+      <jump line="191" column="35" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="53" column="22" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="87" column="17" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="58" column="42" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="84" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="102" column="13" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="98" column="4" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="52" column="43" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="24" column="12" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="45" column="17" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="51" column="20" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="55" column="13" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="71" column="41" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="101" column="13" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="120" column="39" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="109" column="86" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="103" column="18" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="53" column="47" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="108" column="40" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="109" column="43" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="116" column="32" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="84" column="26" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="86" column="30" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="95" column="36" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="96" column="39" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
+      <jump line="92" column="32" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
+      <jump line="94" column="27" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
+      <jump line="4" column="32" filename="E:/workstation/running/Server/src/t.ts" />
+      <jump line="203" column="39" filename="E:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="75" column="17" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="99" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2NvbXAuY2xlYXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>TaskLimit</text>
+        <text>cc.fadeOut(2)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZENvdW50XD4=</text>
+        <text>can\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcC50dXJuT2ZmICYmIGNvbXAudHVybk9mZi5wbGF5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2NvbXAuY2xlYXIoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1454,28 +1445,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsZWFyKCkgewogICAgICAgIHRoaXMuYWN0b3IuX2NvbXAgJiYgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPz8/JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9mcmFtZXMgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGlocy5jbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wLgo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1485,29 +1476,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZENvdW50XD4=</last-search>
+      <last-search>can\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZENvdW50XD4=</last-pattern>
+      <last-pattern>can\c</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eff\c</entry>
-        <entry encoding="base64">XDxUYXNrUmVjb3JkXD4=</entry>
-        <entry encoding="base64">XDxUYXNrRWZmZWN0XD4=</entry>
-        <entry encoding="base64">XDx0YXNrRWZmZWN0XD4=</entry>
-        <entry>getTa\c</entry>
-        <entry>inse\c</entry>
-        <entry encoding="base64">XDxkYXlcPg==</entry>
-        <entry encoding="base64">XDxjb21wbGV0ZV9kYXlcPg==</entry>
-        <entry encoding="base64">XDxhbGxJZHNcPg==</entry>
-        <entry>task\c</entry>
-        <entry encoding="base64">XDxmb3JtYXRUYXNrc1w+</entry>
-        <entry encoding="base64">XDxvbkluaXRTZXJ2ZXJcPg==</entry>
-        <entry encoding="base64">XDxyZWZyZXNoVGltZVw+</entry>
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry encoding="base64">XDxrUGFzc1dvcmRFcnJvclw+</entry>
         <entry encoding="base64">XDxsaW5rQ29tcHNcPg==</entry>
@@ -1515,6 +1493,19 @@
         <entry>ena\c</entry>
         <entry>turnof\c</entry>
         <entry encoding="base64">XDx2YWxpZENvdW50XD4=</entry>
+        <entry>send\c</entry>
+        <entry encoding="base64">XDxsb2dpY1NlbmRcPg==</entry>
+        <entry>finis\c</entry>
+        <entry encoding="base64">XDxmaW5pc2hUYXNrXD4=</entry>
+        <entry>turnoff\c</entry>
+        <entry encoding="base64">XDxwbGF5VHVybk9mZlw+</entry>
+        <entry encoding="base64">XDxfcGF1c2VcPg==</entry>
+        <entry>res</entry>
+        <entry encoding="base64">XDxfZnJhbWVzXD4=</entry>
+        <entry>dis\c</entry>
+        <entry encoding="base64">XDxkaXNhcHBlYXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRUYXNrXD4=</entry>
+        <entry>can\c</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
