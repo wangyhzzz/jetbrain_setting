@@ -60,12 +60,12 @@
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543493232794">
         <mark key="'" line="222" column="22" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/MissionInfo.ts" timestamp="1543833174424">
-        <mark key="'" line="86" column="19" />
-        <mark key="[" line="111" column="39" />
-        <mark key="]" line="112" column="16" />
-        <mark key="." line="112" column="16" />
-        <mark key="^" line="112" column="16" />
+      <file name="E:/workstation/CLM/assets/script/MissionInfo.ts" timestamp="1543833560836">
+        <mark key="'" line="111" column="10" />
+        <mark key="[" line="86" column="34" />
+        <mark key="]" line="86" column="35" />
+        <mark key="." line="86" column="35" />
+        <mark key="^" line="86" column="35" />
       </file>
       <file name="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" timestamp="1543807438908">
         <mark key="'" line="33" column="12" />
@@ -1308,8 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="93" column="0" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="386" column="4" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="29" column="8" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
@@ -1393,11 +1391,9 @@
       <jump line="15" column="4" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="66" column="28" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="51" column="22" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="115" column="0" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="80" column="15" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="81" column="15" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="129" column="0" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
-      <jump line="110" column="0" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="114" column="49" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="30" column="12" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="54" column="33" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
@@ -1407,17 +1403,21 @@
       <jump line="113" column="28" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="36" column="28" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
       <jump line="69" column="16" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="116" column="49" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="115" column="17" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
       <jump line="86" column="19" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="110" column="0" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
+      <jump line="111" column="10" filename="E:/workstation/CLM/assets/script/MissionInfo.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>this._mission</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>this._mission</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWlzc2lvblw+</text>
+        <text encoding="base64">XDxqdW1wTWlzc29uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLl9zdGFySWR4ID0gMDsK</text>
@@ -1475,9 +1475,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWlzc2lvblw+</last-search>
+      <last-search encoding="base64">XDxqdW1wTWlzc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWlzc2lvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxqdW1wTWlzc29uXD4=</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1485,7 +1485,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
         <entry>trig\c</entry>
         <entry>dis\c</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -1505,6 +1504,7 @@
         <entry>res\c</entry>
         <entry encoding="base64">XDxqdW1wU2NlbmVcPg==</entry>
         <entry encoding="base64">XDxfbWlzc2lvblw+</entry>
+        <entry encoding="base64">XDxqdW1wTWlzc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
