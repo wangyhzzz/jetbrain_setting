@@ -10,8 +10,8 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543803320461">
-        <mark key="'" line="65" column="24" />
+      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543803959976">
+        <mark key="'" line="102" column="18" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -1281,9 +1281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="62" column="33" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="2337" column="8" filename="D:/workstation/running/Server/node_modules/tsc/bin/typescript.js" />
       <jump line="79" column="21" filename="D:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="91" column="50" filename="D:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="59" column="26" filename="D:/workstation/running/Server/pdr.sql" />
@@ -1381,6 +1378,9 @@
       <jump line="3" column="4" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
       <jump line="5" column="33" filename="E:/workstation/running/Server/src/t.ts" />
       <jump line="65" column="24" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="84" column="10" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="102" column="18" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="27" column="15" filename="E:/workstation/running/Server/src/TaskModule.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1390,7 +1390,7 @@
         <text>2000</text>
       </register>
       <register name="/" type="4">
-        <text>getTa\c</text>
+        <text>inse\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFNjZW5lQ29sbGlzaW9uIGZyb20gIi4uLy4uL0NsaWVudC9hc3NldHMvUnVubmluZ1NjZW5lL1NjZW5lU2NyaXB0L1NjZW5lTm9kZS9TY2VuZU9iai9TY2VuZUNvbGxpc2lvbiI7Cg==</text>
@@ -1448,9 +1448,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTa\c</last-search>
+      <last-search>inse\c</last-search>
       <last-offset />
-      <last-pattern>getTa\c</last-pattern>
+      <last-pattern>inse\c</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1458,7 +1458,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wbGV0ZV9kYXlcPg==</entry>
         <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry>task\c</entry>
         <entry>getta\c</entry>
@@ -1478,6 +1477,7 @@
         <entry encoding="base64">XDxUYXNrRWZmZWN0XD4=</entry>
         <entry encoding="base64">XDx0YXNrRWZmZWN0XD4=</entry>
         <entry>getTa\c</entry>
+        <entry>inse\c</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
