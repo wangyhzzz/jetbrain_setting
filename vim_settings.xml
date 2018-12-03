@@ -10,12 +10,12 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543809750006">
-        <mark key="'" line="82" column="25" />
-        <mark key="[" line="94" column="24" />
-        <mark key="]" line="94" column="24" />
-        <mark key="." line="94" column="24" />
-        <mark key="^" line="94" column="24" />
+      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543817190876">
+        <mark key="'" line="96" column="74" />
+        <mark key="[" line="96" column="71" />
+        <mark key="]" line="96" column="81" />
+        <mark key="." line="96" column="81" />
+        <mark key="^" line="96" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
@@ -1318,7 +1318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="47" filename="E:/workstation/running/Server/src/run.ts" />
       <jump line="223" column="16" filename="E:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="34" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="35" column="36" filename="E:/workstation/running/Server/src/TaskModule.ts" />
@@ -1418,6 +1417,7 @@
       <jump line="42" column="29" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="138" column="20" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
       <jump line="88" column="40" filename="E:/workstation/CLM/assets/script/entity/Light.ts" />
+      <jump line="96" column="74" filename="E:/workstation/running/Server/src/TaskModule.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1427,7 +1427,7 @@
         <text>TaskLimit</text>
       </register>
       <register name="/" type="4">
-        <text>turnof\c</text>
+        <text encoding="base64">XDx2YWxpZENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwo=</text>
@@ -1485,12 +1485,12 @@
       </register>
     </registers>
     <search>
-      <last-search>turnof\c</last-search>
+      <last-search encoding="base64">XDx2YWxpZENvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern>turnof\c</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZENvdW50XD4=</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1503,7 +1503,6 @@
         <entry>inse\c</entry>
         <entry encoding="base64">XDxkYXlcPg==</entry>
         <entry encoding="base64">XDxjb21wbGV0ZV9kYXlcPg==</entry>
-        <entry encoding="base64">XDx2YWxpZENvdW50XD4=</entry>
         <entry encoding="base64">XDxhbGxJZHNcPg==</entry>
         <entry>task\c</entry>
         <entry encoding="base64">XDxmb3JtYXRUYXNrc1w+</entry>
@@ -1515,6 +1514,7 @@
         <entry encoding="base64">XDxjbGVhclw+</entry>
         <entry>ena\c</entry>
         <entry>turnof\c</entry>
+        <entry encoding="base64">XDx2YWxpZENvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
