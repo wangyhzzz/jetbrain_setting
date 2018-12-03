@@ -10,8 +10,11 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543801856722">
-        <mark key="'" line="103" column="26" />
+      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543803320461">
+        <mark key="'" line="65" column="24" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
@@ -57,8 +60,8 @@
         <mark key="^" line="96" column="12" />
         <mark key="." line="96" column="12" />
       </file>
-      <file name="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" timestamp="1543801946521">
-        <mark key="'" line="2" column="32" />
+      <file name="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" timestamp="1543802630897">
+        <mark key="'" line="33" column="12" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/exchangePanels/ExchangeGoodsPanel.ts" timestamp="1536543669286">
         <mark key="'" line="142" column="21" />
@@ -156,12 +159,12 @@
       <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" timestamp="1543801925056">
         <mark key="'" line="0" column="14" />
       </file>
-      <file name="E:/workstation/running/Server/src/t.ts" timestamp="1543801389377">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="E:/workstation/running/Server/src/t.ts" timestamp="1543803314569">
+        <mark key="'" line="5" column="33" />
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/MaliGame.ts" timestamp="1527735424130">
         <mark key="'" line="178" column="11" />
@@ -622,8 +625,8 @@
         <mark key="." line="51" column="18" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543566730916">
-        <mark key="'" line="0" column="14" />
+      <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543802837682">
+        <mark key="'" line="20" column="13" />
       </file>
       <file name="E:/workstation/running/Server/src/run.ts" timestamp="1543801644557">
         <mark key="[" line="132" column="0" />
@@ -972,6 +975,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="49" column="99" />
       </file>
+      <file name="E:/workstation/running/Server/src/app.ts" timestamp="1543802619881">
+        <mark key="'" line="129" column="21" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="108" />
+      </file>
       <file name="E:/workstation/H5/assets/ui/fish/RightMenu.ts" timestamp="1523524962643">
         <mark key="'" line="94" column="21" />
         <mark key="[" line="32" column="35" />
@@ -1273,21 +1281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="10" filename="D:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
-      <jump line="25" column="13" filename="D:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="35" column="13" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="0" column="10" filename="D:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="55" column="29" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="9" column="23" filename="D:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="20" column="30" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="1" column="31" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="85" column="0" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="12" column="23" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="2" column="17" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="7" column="33" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="0" column="16" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
-      <jump line="13" column="13" filename="D:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
-      <jump line="75" column="66" filename="D:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="0" column="0" filename="D:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="62" column="33" filename="D:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="2337" column="8" filename="D:/workstation/running/Server/node_modules/tsc/bin/typescript.js" />
@@ -1368,27 +1361,42 @@
       <jump line="0" column="12" filename="E:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
       <jump line="1" column="12" filename="E:/workstation/running/Client/assets/GameData/SceneData/TaskRecord.ts" />
       <jump line="25" column="13" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
-      <jump line="0" column="11" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
       <jump line="0" column="11" filename="E:/workstation/running/Client/assets/Common/GlobalConfig.ts" />
       <jump line="1" column="11" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
       <jump line="0" column="12" filename="E:/workstation/running/Client/assets/Common/ColliderConfig.ts" />
       <jump line="2" column="32" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
+      <jump line="62" column="41" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="129" column="21" filename="E:/workstation/running/Server/src/app.ts" />
+      <jump line="33" column="12" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
+      <jump line="0" column="0" filename="E:/workstation/running/Client/assets/Common/Utils/HelperUtil.ts" />
+      <jump line="156" column="19" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="0" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="3" column="68" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="57" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="63" column="12" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="12" column="17" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="1" column="12" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="20" column="13" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
+      <jump line="64" column="26" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="3" column="4" filename="E:/workstation/running/Client/assets/GameData/MainData/TaskEffect.ts" />
+      <jump line="5" column="33" filename="E:/workstation/running/Server/src/t.ts" />
+      <jump line="65" column="24" filename="E:/workstation/running/Server/src/TaskModule.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXRbJ3Rhc2tzJ10gPSAoYXdhaXQgQWNjb3VudE1vZHVsZS5nZXRUYXNrKHJldCkpLnRhc2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb3VudCkK</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYXNrUmVjb3JkXD4=</text>
+        <text>getTa\c</text>
       </register>
-      <register name="0" type="4">
-        <text>cancelTask</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IFNjZW5lQ29sbGlzaW9uIGZyb20gIi4uLy4uL0NsaWVudC9hc3NldHMvUnVubmluZ1NjZW5lL1NjZW5lU2NyaXB0L1NjZW5lTm9kZS9TY2VuZU9iai9TY2VuZUNvbGxpc2lvbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXRbJ3Rhc2tzJ10gPSAoYXdhaXQgQWNjb3VudE1vZHVsZS5nZXRUYXNrKHJldCkpLnRhc2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb3VudCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1408,29 +1416,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>await AccountModule.getTask(json)</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkQ291bnQ6IHVwZGF0ZVN0ZXAsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWRkQ291bnQgPSBhcmcuYWRkQ291bnQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0YXNrRWZmZWN0LnQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0YXNrRWZmZWN0Lgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXRbJ3Rhc2tzJ10gPSAoYXdhaXQgQWNjb3VudE1vZHVsZS5nZXRUYXNrKHJldCkpLnRhc2s7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>await AccountModule.getTask(json)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWRkQ291bnQgPCAxKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQ291bnQ6IHVwZGF0ZVN0ZXAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdmFsaWRDb3VudCA9IGluZm8uZmlsdGVyKCh0KSA9PiB7CiAgICAgICAgICAgIHJldHVybiB0LmNsb3NlID09PSAwOwogICAgICAgIH0pLmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWRkQ291bnQgPSBhcmcuYWRkQ291bnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1440,9 +1448,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUYXNrUmVjb3JkXD4=</last-search>
+      <last-search>getTa\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYXNrUmVjb3JkXD4=</last-pattern>
+      <last-pattern>getTa\c</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1450,9 +1458,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrRWZmZWN0XD4=</entry>
-        <entry encoding="base64">XDxUYXNrRWZmZWN0XD4=</entry>
-        <entry encoding="base64">XDxCYXNlVGFza0VmZmVjdFw+</entry>
         <entry encoding="base64">XDxjb21wbGV0ZV9kYXlcPg==</entry>
         <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry>task\c</entry>
@@ -1470,6 +1475,9 @@
         <entry>gettas\c</entry>
         <entry>eff\c</entry>
         <entry encoding="base64">XDxUYXNrUmVjb3JkXD4=</entry>
+        <entry encoding="base64">XDxUYXNrRWZmZWN0XD4=</entry>
+        <entry encoding="base64">XDx0YXNrRWZmZWN0XD4=</entry>
+        <entry>getTa\c</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
