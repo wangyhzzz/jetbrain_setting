@@ -51,6 +51,13 @@
       <file name="E:/workstation/running/Client/assets/MainScene/Login.ts" timestamp="1543801081384">
         <mark key="'" line="38" column="32" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/actor/Actor.ts" timestamp="1543812801317">
+        <mark key="'" line="104" column="23" />
+        <mark key="[" line="103" column="42" />
+        <mark key="]" line="104" column="30" />
+        <mark key="^" line="104" column="30" />
+        <mark key="." line="104" column="30" />
+      </file>
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543493232794">
         <mark key="'" line="222" column="22" />
       </file>
@@ -466,6 +473,12 @@
         <mark key="]" line="36" column="29" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="36" column="29" />
+      </file>
+      <file name="D:/workstation/running/Server/src/run.ts" timestamp="1543757057927">
+        <mark key="'" line="128" column="22" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="58" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/BlastAnimation.ts" timestamp="1524376047259">
         <mark key="'" line="32" column="0" />
@@ -1148,11 +1161,11 @@
         <mark key="." line="156" column="42" />
         <mark key="^" line="156" column="42" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1543809097901">
-        <mark key="'" line="107" column="8" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1543812796074">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="E:/workstation/CLM/assets/script/entity/Monster.ts" timestamp="1543470206830">
         <mark key="'" line="7" column="37" />
@@ -1167,6 +1180,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="6" column="32" />
+      </file>
+      <file name="E:/workstation/running/Server/src/NetLogic.ts" timestamp="1542852633268">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/UI.ts" timestamp="1543369183224">
         <mark key="'" line="92" column="38" />
@@ -1299,16 +1318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="8" filename="E:/workstation/running/Server/src/run.ts" />
-      <jump line="123" column="15" filename="E:/workstation/running/Server/src/run.ts" />
-      <jump line="187" column="10" filename="E:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="124" column="39" filename="E:/workstation/running/Server/src/run.ts" />
-      <jump line="47" column="39" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
-      <jump line="0" column="25" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
-      <jump line="6" column="25" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
-      <jump line="7" column="26" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
-      <jump line="10" column="21" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
-      <jump line="21" column="53" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
       <jump line="22" column="54" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
       <jump line="29" column="12" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
       <jump line="38" column="32" filename="E:/workstation/running/Client/assets/MainScene/Login.ts" />
@@ -1399,16 +1408,26 @@
       <jump line="186" column="0" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="95" column="4" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="106" column="8" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="203" column="45" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="27" column="24" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="199" column="13" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="198" column="23" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="82" column="4" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
+      <jump line="197" column="23" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="201" column="4" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="202" column="45" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="26" column="0" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="104" column="23" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TaskLimit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>TaskLimit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5rQ29tcHNcPg==</text>
+        <text encoding="base64">XDxjbGVhclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwo=</text>
@@ -1435,28 +1454,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMzMzJykK</text>
+        <text encoding="base64">ICAgIGNsZWFyKCkgewogICAgICAgIHRoaXMuYWN0b3IuX2NvbXAgJiYgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Date.now()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIXZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMuY2xlYXIoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fbG9jYWxUaW1lID0gRGF0ZS5ub3coKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPz8/JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRpcy4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsZWFyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNsZWFyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGlocy5jbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWxsSWRzID0gaW5mby5tYXAoKHQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIHQuaWQ7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hY3Rvci5fY29tcC5jbGVhcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdmFsaWRDb3VudCA9IGluZm8ubGVuZ3RoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1466,9 +1485,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW5rQ29tcHNcPg==</last-search>
+      <last-search encoding="base64">XDxjbGVhclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5rQ29tcHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhclw+</last-pattern>
       <last-replace>case &quot;\1&quot;</last-replace>
       <last-substitute>case \(\d\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1476,7 +1495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log\c</entry>
         <entry>uid\c</entry>
         <entry>gettas\c</entry>
         <entry>eff\c</entry>
@@ -1496,6 +1514,7 @@
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry encoding="base64">XDxrUGFzc1dvcmRFcnJvclw+</entry>
         <entry encoding="base64">XDxsaW5rQ29tcHNcPg==</entry>
+        <entry encoding="base64">XDxjbGVhclw+</entry>
       </history-search>
       <history-cmd>
         <entry>g//normal d%</entry>
