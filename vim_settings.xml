@@ -10,12 +10,12 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543895106604">
-        <mark key="'" line="96" column="8" />
-        <mark key="[" line="63" column="98" />
-        <mark key="]" line="63" column="109" />
-        <mark key="." line="63" column="109" />
-        <mark key="^" line="63" column="109" />
+      <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543902477146">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="60" column="109" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
@@ -1040,11 +1040,11 @@
         <mark key="." line="51" column="47" />
         <mark key="^" line="51" column="47" />
       </file>
-      <file name="d9c924e7-9414-46fb-8a58-fb08939b794c/consoles/Connection" timestamp="1543893573860">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="32" />
+      <file name="d9c924e7-9414-46fb-8a58-fb08939b794c/consoles/Connection" timestamp="1543902696628">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="45" />
         <mark key="^" line="0" column="67" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="2" column="45" />
       </file>
       <file name="$USER_HOME$/Downloads/oss-h5-upload-js-direct/index.html" timestamp="1541489319840">
         <mark key="'" line="91" column="0" />
@@ -1190,6 +1190,9 @@
       <file name="E:/workstation/running/Client/assets/GameData/ConfigTable/ServerDate.ts" timestamp="1543807279484">
         <mark key="'" line="61" column="4" />
       </file>
+      <file name="/preview" timestamp="1543902712146">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/workstation/H5/assets/ui/fish/CannonNode.ts" timestamp="1540812441860">
         <mark key="'" line="571" column="57" />
         <mark key="[" line="150" column="12" />
@@ -1320,8 +1323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="11" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="184" column="31" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="131" column="11" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="78" column="13" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="33" column="21" filename="E:/workstation/CLM/assets/script/actor/LightActor.ts" />
@@ -1407,7 +1408,6 @@
       <jump line="55" column="65" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="132" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="172" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="0" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="110" column="21" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="105" column="19" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="106" column="31" filename="E:/workstation/running/Server/src/TaskModule.ts" />
@@ -1420,10 +1420,13 @@
       <jump line="63" column="109" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="65" column="8" filename="E:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="96" column="8" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="76" column="41" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="185" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="0" column="0" filename="E:/workstation/running/Server/src/TaskModule.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>10</text>
@@ -1435,7 +1438,7 @@
         <text>taskEffect.getTaskStep()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCk9Pnt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1456,28 +1459,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5pdAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGNvdW50ID0gdGFza0VmZmVjdC5nZXRUYXNrU3RlcCgpOwo=</text>
+        <text encoding="base64">KCk9Pnt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZnUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrRWZmZWN0LmdldFRhc2tTdGVwKCk7Cg==</text>
+        <text encoding="base64">aW5pdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGFzayBjb3VudCcsIHRhc2tDb3VudCkK</text>
+        <text encoding="base64">bGV0IGNvdW50ID0gdGFza0VmZmVjdC5nZXRUYXNrU3RlcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5mbycsaW5mbykK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICAqIGZyb20gdGFza19jb3VudF90YWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrRWZmZWN0LmdldFRhc2tTdGVwKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
