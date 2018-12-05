@@ -58,8 +58,12 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="93" column="19" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1543839903943">
-        <mark key="'" line="184" column="31" />
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544000257809">
+        <mark key="'" line="189" column="31" />
+        <mark key="[" line="162" column="23" />
+        <mark key="]" line="162" column="24" />
+        <mark key="." line="162" column="24" />
+        <mark key="^" line="162" column="24" />
       </file>
       <file name="E:/workstation/CLM/assets/script/MissionInfo.ts" timestamp="1543923699428">
         <mark key="'" line="120" column="23" />
@@ -1463,10 +1467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0, 0</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>0, 0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>shake\c</text>
@@ -1475,7 +1479,7 @@
         <text>, [TaskCountTable, day, uid, id, count]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9wbGF5U291bmRFZmZlY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cueHggPSBhID0+IHRoaXMuYmFja09mZihhKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1496,28 +1500,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnLmN0cmwucmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGlzdGFuY2UgPSA1MDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZy5jdHJsLnJlc2V0KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZy5jdHJsLnJlc2V0KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2JiaScpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl9wbGF5U291bmRFZmZlY3QoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnLmN0cmwucmVzZXQoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZy5jdHJsLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZy5jdHJsLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
