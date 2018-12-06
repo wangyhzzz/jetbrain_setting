@@ -199,6 +199,12 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="6bbc886a-cb69-4a7a-8968-70dfe91637ea/consoles/Connection" timestamp="1544106260637">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
       <file name="E:/workstation/running/Client/assets/GameData/ConfigTable/Animation/PlayerConfig.ts" timestamp="1532503770608">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="38" column="1" />
@@ -765,12 +771,11 @@
         <mark key="^" line="21" column="27" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/workstation/running/Server/src/t.ts" timestamp="1544105465299">
+      <file name="D:/workstation/running/Server/src/t.ts" timestamp="1544106102255">
         <mark key="'" line="15" column="25" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/rechargePanels/RechargeGoldPanel.ts" timestamp="1528802037577">
         <mark key="'" line="23" column="4" />
@@ -1386,19 +1391,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kR2lmdC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,user</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>gold</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXM6cEluZm8gJiYgcEluZm8uaXRlbXMsCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBpdGVtX3RhYmxlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kR2lmdC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1419,28 +1424,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRHCg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByYW5kR2lmdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdpZgo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRHCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZTIocEluZm86IFBsYXllckluZm8sIGdvbGQ6IG51bWJlciA9IDAsIGRpYW1vbmQgPSAwLCBpdGVtcyA9IFtdLCByb2xlcyA9IFtdKSB7CiAgICAgICAgaWYgKCFwSW5mbykgcmV0dXJuOwogICAgICAgIHBJbmZvLmdvbGQKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGdpZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IDAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZTIocEluZm86IFBsYXllckluZm8sIGdvbGQ6IG51bWJlciA9IDAsIGRpYW1vbmQgPSAwLCBpdGVtcyA9IFtdLCByb2xlcyA9IFtdKSB7CiAgICAgICAgaWYgKCFwSW5mbykgcmV0dXJuOwogICAgICAgIHBJbmZvLmdvbGQKCiAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>await taskModule.finishTask(uid, id, pInfo)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IDAsCg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
