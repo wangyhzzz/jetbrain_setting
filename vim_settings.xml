@@ -254,12 +254,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544088305259">
-        <mark key="'" line="125" column="16" />
-        <mark key="[" line="105" column="32" />
-        <mark key="]" line="105" column="33" />
-        <mark key="." line="105" column="33" />
-        <mark key="^" line="105" column="33" />
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544089444469">
+        <mark key="'" line="170" column="18" />
+        <mark key="[" line="169" column="9" />
+        <mark key="]" line="171" column="20" />
+        <mark key="." line="171" column="20" />
+        <mark key="^" line="171" column="20" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1543911021129">
         <mark key="'" line="175" column="0" />
@@ -1368,7 +1368,6 @@
       <jump line="97" column="24" filename="E:/workstation/CLM/assets/script/GameView.ts" />
       <jump line="127" column="25" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="240" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="170" column="19" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="185" column="19" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="83" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
       <jump line="164" column="19" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1391,6 +1390,7 @@
       <jump line="172" column="26" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="136" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="125" column="16" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="170" column="18" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1400,7 +1400,7 @@
         <text>&quot;po&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>fall\c</text>
+        <text encoding="base64">XDx4eFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmQ29sbGlkZXIubm9kZS55IC0gb3RoZXJDb2xsaWRlci5ub2RlLnksIG90aGVyQ29sbGlkZXIubm9kZS55KTsK</text>
@@ -1458,9 +1458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fall\c</last-search>
+      <last-search encoding="base64">XDx4eFw+</last-search>
       <last-offset />
-      <last-pattern>fall\c</last-pattern>
+      <last-pattern encoding="base64">XDx4eFw+</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1468,7 +1468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ani\c</entry>
         <entry encoding="base64">XDxSSUdIVFw+</entry>
         <entry>dea</entry>
         <entry encoding="base64">XDxfZGVhbGluZ0RpcmVjdGlvblw+</entry>
@@ -1488,6 +1487,7 @@
         <entry>touch\c</entry>
         <entry>upda\c</entry>
         <entry>fall\c</entry>
+        <entry encoding="base64">XDx4eFw+</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
