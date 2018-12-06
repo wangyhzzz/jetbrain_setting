@@ -254,12 +254,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544085871833">
-        <mark key="'" line="173" column="9" />
-        <mark key="[" line="171" column="39" />
-        <mark key="]" line="172" column="26" />
-        <mark key="." line="172" column="26" />
-        <mark key="^" line="172" column="26" />
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544088305259">
+        <mark key="'" line="125" column="16" />
+        <mark key="[" line="105" column="32" />
+        <mark key="]" line="105" column="33" />
+        <mark key="." line="105" column="33" />
+        <mark key="^" line="105" column="33" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1543911021129">
         <mark key="'" line="175" column="0" />
@@ -1291,8 +1291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="15" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="99" column="33" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="138" column="30" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="141" column="16" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="192" column="31" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1309,7 +1307,6 @@
       <jump line="82" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="238" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="152" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="172" column="8" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="186" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="190" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="191" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1391,6 +1388,9 @@
       <jump line="77" column="19" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="165" column="8" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="173" column="9" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="172" column="26" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="136" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="125" column="16" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1400,7 +1400,7 @@
         <text>&quot;po&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>upda\c</text>
+        <text>fall\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmQ29sbGlkZXIubm9kZS55IC0gb3RoZXJDb2xsaWRlci5ub2RlLnksIG90aGVyQ29sbGlkZXIubm9kZS55KTsK</text>
@@ -1458,9 +1458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>upda\c</last-search>
+      <last-search>fall\c</last-search>
       <last-offset />
-      <last-pattern>upda\c</last-pattern>
+      <last-pattern>fall\c</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1468,7 +1468,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfanVtcHNcPg==</entry>
         <entry>ani\c</entry>
         <entry encoding="base64">XDxSSUdIVFw+</entry>
         <entry>dea</entry>
@@ -1488,6 +1487,7 @@
         <entry encoding="base64">XDxwbGF5ZXJQb3NcPg==</entry>
         <entry>touch\c</entry>
         <entry>upda\c</entry>
+        <entry>fall\c</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
