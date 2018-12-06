@@ -101,6 +101,9 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="27" column="55" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544061673560">
+        <mark key="'" line="184" column="26" />
+      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/exchangePanels/ExchangeGoodsPanel.ts" timestamp="1536543669286">
         <mark key="'" line="142" column="21" />
         <mark key="[" line="52" column="30" />
@@ -968,7 +971,8 @@
         <mark key="." line="156" column="42" />
         <mark key="^" line="156" column="42" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1544001243675">
+      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1544061704544">
+        <mark key="'" line="143" column="42" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="199" column="4" />
       </file>
@@ -1274,10 +1278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="40" filename="E:/workstation/CLM/assets/script/entity/Monster.ts" />
-      <jump line="172" column="8" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="111" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="162" column="23" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="237" column="19" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="23" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="45" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1304,7 +1304,6 @@
       <jump line="144" column="18" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="167" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="183" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="184" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="185" column="40" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="186" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="190" column="53" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1374,6 +1373,11 @@
       <jump line="19" column="4" filename="D:/workstation/running/Server/src/RandGift.ts" />
       <jump line="140" column="8" filename="D:/workstation/running/Server/src/TaskModule.ts" />
       <jump line="178" column="32" filename="D:/workstation/running/Server/src/AccountModule.ts" />
+      <jump line="172" column="19" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="76" column="27" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="184" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="143" column="42" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
+      <jump line="4" column="13" filename="E:/workstation/CLM/assets/script/Def.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1383,7 +1387,7 @@
         <text>xx</text>
       </register>
       <register name="/" type="4">
-        <text>finish\c</text>
+        <text>gra\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aW5kb3cueHggPSBjYy5maW5kKCdQbGF5ZXJEZWYnLHRoaXMubm9kZSk7Cg==</text>
@@ -1441,9 +1445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finish\c</last-search>
+      <last-search>gra\c</last-search>
       <last-offset />
-      <last-pattern>finish\c</last-pattern>
+      <last-pattern>gra\c</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1451,8 +1455,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbGF5ZXJcPg==</entry>
-        <entry>dead\c</entry>
         <entry>enable\c</entry>
         <entry encoding="base64">XDxfZW5hYmxlQ29udHJvbFw+</entry>
         <entry>update</entry>
@@ -1471,6 +1473,8 @@
         <entry encoding="base64">XDxnZXRTdWJUYXNrVGFibGVMaXN0XD4=</entry>
         <entry encoding="base64">XDxyYW5kb21cPg==</entry>
         <entry>finish\c</entry>
+        <entry>update\c</entry>
+        <entry>gra\c</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
