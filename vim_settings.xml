@@ -583,12 +583,12 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="D:/workstation/running/Server/src/TaskModule.ts" timestamp="1544105453826">
-        <mark key="'" line="127" column="10" />
-        <mark key="[" line="94" column="65" />
-        <mark key="]" line="94" column="69" />
-        <mark key="." line="94" column="69" />
-        <mark key="^" line="94" column="69" />
+      <file name="D:/workstation/running/Server/src/TaskModule.ts" timestamp="1544105731826">
+        <mark key="'" line="49" column="31" />
+        <mark key="[" line="123" column="97" />
+        <mark key="]" line="123" column="124" />
+        <mark key="." line="123" column="124" />
+        <mark key="^" line="123" column="124" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/PersonalSettingDialog.ts" timestamp="1534148396278">
         <mark key="'" line="300" column="0" />
@@ -1283,7 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="10" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="3" column="32" filename="D:/workstation/running/Server/src/t.ts" />
       <jump line="196" column="36" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="177" column="39" filename="D:/workstation/running/Server/src/TaskModule.ts" />
@@ -1383,6 +1382,7 @@
       <jump line="93" column="44" filename="D:/workstation/running/Server/src/RandGift.ts" />
       <jump line="15" column="25" filename="D:/workstation/running/Server/src/t.ts" />
       <jump line="94" column="74" filename="D:/workstation/running/Server/src/TaskModule.ts" />
+      <jump line="49" column="31" filename="D:/workstation/running/Server/src/TaskModule.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1392,7 +1392,7 @@
         <text>,user</text>
       </register>
       <register name="/" type="4">
-        <text>fini\c</text>
+        <text>gold</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbXM6cEluZm8gJiYgcEluZm8uaXRlbXMsCg==</text>
@@ -1450,9 +1450,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fini\c</last-search>
+      <last-search>gold</last-search>
       <last-offset />
-      <last-pattern>fini\c</last-pattern>
+      <last-pattern>gold</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1460,7 +1460,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5kXD4=</entry>
         <entry encoding="base64">XDxzdWJSYW5kXD4=</entry>
         <entry encoding="base64">XDxwbGF5ZXJJbmZvXD4=</entry>
         <entry encoding="base64">XDxnZXRUYWJsZUxpc3RcPg==</entry>
@@ -1480,6 +1479,7 @@
         <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry encoding="base64">XDxwSW5mb1w+</entry>
         <entry>fini\c</entry>
+        <entry>gold</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
