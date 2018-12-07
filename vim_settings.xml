@@ -684,6 +684,9 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
+      <file name="/Dummy.txt" timestamp="1544148306942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/workstation/H5/assets/com/util/HttpUtil.ts" timestamp="1535623543203">
         <mark key="'" line="65" column="17" />
         <mark key="[" line="74" column="53" />
@@ -732,8 +735,8 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544012024743">
-        <mark key="'" line="46" column="27" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544148325470">
+        <mark key="'" line="44" column="26" />
         <mark key="[" line="44" column="57" />
         <mark key="]" line="45" column="31" />
         <mark key="." line="45" column="31" />
@@ -858,12 +861,12 @@
         <mark key="." line="538" column="32" />
         <mark key="^" line="538" column="32" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1543376136214">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544148064063">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="105" column="21" />
+        <mark key="]" line="105" column="40" />
+        <mark key="." line="105" column="21" />
+        <mark key="^" line="105" column="20" />
       </file>
       <file name="E:/workstation/running/Server/dist/Server/lib/platform/CCClass.js" timestamp="1531908710200">
         <mark key="'" line="1108" column="4" />
@@ -1323,15 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="41" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="53" column="13" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="44" column="17" filename="D:/workstation/running/Server/src/DBDef.ts" />
-      <jump line="67" column="17" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="47" column="4" filename="D:/workstation/running/Server/src/DBDef.ts" />
-      <jump line="68" column="19" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="54" column="4" filename="D:/workstation/running/Server/src/DBDef.ts" />
-      <jump line="63" column="20" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="79" column="12" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="227" column="32" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="101" column="22" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="20" column="13" filename="D:/workstation/running/Server/src/AccountModule.ts" />
@@ -1423,22 +1417,31 @@
       <jump line="171" column="4" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="509" column="8" filename="E:/workstation/running/Client/assets/RunningScene/MessageControl.ts" />
       <jump line="0" column="0" filename="E:/workstation/running/Client/assets/RunningScene/MessageControl.ts" />
+      <jump line="111" column="18" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="57" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="222" column="46" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="56" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="168" column="16" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="59" column="8" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="102" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="101" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="44" column="26" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLCBkYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYgKHRoaXMudi55IDwgLTEwKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">aWYgKHRoaXMudi55IDwgLTEwKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyXD4=</text>
+        <text>direc\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoa2V5ID09PSAnaXRlbXMnKSB7CiAgICAgICAgICAgIGZvciAobGV0IGkgb2YgdGhpcy5pdGVtcykgewogICAgICAgICAgICAgICAgdGhpcy5pdGVtTWFwW2kuaWRdID0gaTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLCBkYXRhKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKHRoaXMudi55IDwgLTEwKQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1458,26 +1461,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKHRoaXMudi55IDwgLTEwKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLCBkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhWycnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhWycnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6ZGF0YS5pZCwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -1490,9 +1493,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
+      <last-search>direc\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
+      <last-pattern>direc\c</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1500,10 +1503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rewa\c</entry>
-        <entry>insert</entry>
-        <entry encoding="base64">XDxQbGF5ZXJJbmZvXD4=</entry>
-        <entry>update</entry>
         <entry encoding="base64">XDxhZmZlY3Ryb3dzXD4=</entry>
         <entry>item</entry>
         <entry encoding="base64">XDxhZGRHaWZ0XD4=</entry>
@@ -1520,6 +1519,10 @@
         <entry encoding="base64">XDxfdXBkYXRlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry>count\c</entry>
+        <entry encoding="base64">XDxfanVtcHNcPg==</entry>
+        <entry>status\c</entry>
+        <entry>direc\c</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
