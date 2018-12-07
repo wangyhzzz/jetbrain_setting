@@ -11,11 +11,10 @@
         <mark key="^" line="1476" column="64" />
       </file>
       <file name="E:/workstation/running/Server/src/TaskModule.ts" timestamp="1543916248500">
-        <mark key="'" line="165" column="12" />
-        <mark key="[" line="121" column="46" />
-        <mark key="]" line="121" column="46" />
-        <mark key="^" line="81" column="34" />
-        <mark key="." line="121" column="46" />
+        <mark key="'" line="206" column="12" />
+        <mark key="[" line="162" column="46" />
+        <mark key="]" line="162" column="46" />
+        <mark key="." line="162" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
@@ -153,12 +152,12 @@
         <mark key="[" line="68" column="31" />
         <mark key="]" line="68" column="69" />
       </file>
-      <file name="E:/workstation/running/Server/src/AccountModule.ts" timestamp="1543916259692">
+      <file name="E:/workstation/running/Server/src/AccountModule.ts" timestamp="1544150197149">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="255" column="27" />
-        <mark key="]" line="255" column="28" />
-        <mark key="^" line="143" column="39" />
-        <mark key="." line="255" column="28" />
+        <mark key="[" line="108" column="33" />
+        <mark key="]" line="109" column="34" />
+        <mark key="^" line="109" column="34" />
+        <mark key="." line="109" column="34" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/FailedTaskNode.ts" timestamp="1523185827049">
         <mark key="'" line="27" column="32" />
@@ -168,18 +167,11 @@
         <mark key="^" line="31" column="25" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1543911021129">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="129" column="55" />
-        <mark key="]" line="129" column="55" />
-        <mark key="^" line="129" column="44" />
-        <mark key="." line="129" column="55" />
-      </file>
-      <file name="E:/workstation/running/Server/src/t.ts" timestamp="1543913681306">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="5" column="47" />
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="136" column="55" />
+        <mark key="]" line="136" column="55" />
+        <mark key="^" line="136" column="44" />
+        <mark key="." line="136" column="55" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/MaliGame.ts" timestamp="1527735424130">
         <mark key="'" line="178" column="11" />
@@ -318,11 +310,11 @@
         <mark key="^" line="25" column="19" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/UserItemManager.ts" timestamp="1543910823624">
-        <mark key="'" line="76" column="56" />
-        <mark key="[" line="91" column="45" />
-        <mark key="]" line="91" column="46" />
-        <mark key="^" line="91" column="44" />
-        <mark key="." line="91" column="46" />
+        <mark key="'" line="91" column="56" />
+        <mark key="[" line="106" column="45" />
+        <mark key="]" line="106" column="46" />
+        <mark key="^" line="106" column="44" />
+        <mark key="." line="106" column="46" />
       </file>
       <file name="E:/workstation/running/Server/app.ts" timestamp="1531219955829">
         <mark key="'" line="229" column="0" />
@@ -602,10 +594,10 @@
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/NetGate.ts" timestamp="1543913325042">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="65" column="54" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="79" column="54" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/Chapter.ts" timestamp="1542878351047">
         <mark key="'" line="3" column="6" />
@@ -658,10 +650,10 @@
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1543910775208">
         <mark key="'" line="131" column="55" />
-        <mark key="[" line="155" column="55" />
-        <mark key="]" line="155" column="55" />
-        <mark key="^" line="155" column="44" />
-        <mark key="." line="155" column="55" />
+        <mark key="[" line="158" column="55" />
+        <mark key="]" line="158" column="55" />
+        <mark key="^" line="158" column="44" />
+        <mark key="." line="158" column="55" />
       </file>
       <file name="E:/workstation/H5/assets/com/global/RankInfo.ts" timestamp="1528276560193">
         <mark key="'" line="23" column="37" />
@@ -684,7 +676,7 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544148306942">
+      <file name="/Dummy.txt" timestamp="1544149883606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/com/util/HttpUtil.ts" timestamp="1535623543203">
@@ -923,6 +915,9 @@
         <mark key="]" line="368" column="24" />
         <mark key="^" line="368" column="24" />
         <mark key="." line="368" column="24" />
+      </file>
+      <file name="E:/workstation/running/Server/src/RandGift.ts" timestamp="1544149822886">
+        <mark key="'" line="144" column="0" />
       </file>
       <file name="E:/workstation/CLM/assets/script/Missions.ts" timestamp="1543825053713">
         <mark key="'" line="32" column="10" />
@@ -1326,7 +1321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="32" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="101" column="22" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="20" column="13" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="24" column="13" filename="D:/workstation/running/Server/src/AccountModule.ts" />
@@ -1426,16 +1420,17 @@
       <jump line="102" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="101" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="44" column="26" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="146" column="0" filename="E:/workstation/running/Server/src/RandGift.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKHRoaXMudi55IDwgLTEwKQ==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgKHRoaXMudi55IDwgLTEwKQ==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>direc\c</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoa2V5ID09PSAnaXRlbXMnKSB7CiAgICAgICAgICAgIGZvciAobGV0IGkgb2YgdGhpcy5pdGVtcykgewogICAgICAgICAgICAgICAgdGhpcy5pdGVtTWFwW2kuaWRdID0gaTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
@@ -1493,9 +1488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>direc\c</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>direc\c</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1503,7 +1498,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZmZlY3Ryb3dzXD4=</entry>
         <entry>item</entry>
         <entry encoding="base64">XDxhZGRHaWZ0XD4=</entry>
         <entry encoding="base64">XDxmaW5pc2hUYXNrXD4=</entry>
@@ -1523,6 +1517,7 @@
         <entry encoding="base64">XDxfanVtcHNcPg==</entry>
         <entry>status\c</entry>
         <entry>direc\c</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
