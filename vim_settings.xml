@@ -853,12 +853,12 @@
         <mark key="." line="538" column="32" />
         <mark key="^" line="538" column="32" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544161322782">
-        <mark key="'" line="85" column="22" />
-        <mark key="[" line="166" column="16" />
-        <mark key="]" line="166" column="16" />
-        <mark key="." line="166" column="16" />
-        <mark key="^" line="166" column="16" />
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544165036480">
+        <mark key="'" line="194" column="16" />
+        <mark key="[" line="164" column="17" />
+        <mark key="]" line="164" column="19" />
+        <mark key="." line="164" column="19" />
+        <mark key="^" line="164" column="19" />
       </file>
       <file name="E:/workstation/running/Server/dist/Server/lib/platform/CCClass.js" timestamp="1531908710200">
         <mark key="'" line="1108" column="4" />
@@ -1321,16 +1321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="20" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="127" column="10" filename="D:/workstation/running/Server/src/TaskModule.ts" />
-      <jump line="43" column="4" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="130" column="12" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="147" column="82" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="131" column="18" filename="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" />
-      <jump line="224" column="26" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="229" column="54" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="230" column="27" filename="D:/workstation/running/Server/src/AccountModule.ts" />
-      <jump line="100" column="0" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="14" column="25" filename="D:/workstation/running/Server/src/t.ts" />
       <jump line="15" column="25" filename="D:/workstation/running/Server/src/t.ts" />
       <jump line="94" column="74" filename="D:/workstation/running/Server/src/TaskModule.ts" />
@@ -1405,7 +1395,6 @@
       <jump line="171" column="4" filename="D:/workstation/running/Server/src/AccountModule.ts" />
       <jump line="509" column="8" filename="E:/workstation/running/Client/assets/RunningScene/MessageControl.ts" />
       <jump line="0" column="0" filename="E:/workstation/running/Client/assets/RunningScene/MessageControl.ts" />
-      <jump line="111" column="18" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="57" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="222" column="46" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="56" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1421,16 +1410,27 @@
       <jump line="105" column="39" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="85" column="22" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="44" column="4" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
+      <jump line="253" column="73" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="224" column="22" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="202" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="204" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="208" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="209" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="216" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="218" column="8" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="136" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="111" column="48" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="194" column="16" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Red</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Red</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>update\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgY29sbGlkZXIgPSBjYy5kaXJlY3Rvci5nZXRDb2xsaXNpb25NYW5hZ2VyKCk7CiAgICAgICAgbGV0IHBoeSA9IGNjLmRpcmVjdG9yLmdldFBoeXNpY3NNYW5hZ2VyKCk7CiAgICAgICAgcGh5LmVuYWJsZWQgPSB0cnVlOwogICAgICAgIHBoeS5ncmF2aXR5ID0gY2MucCgwLCAtMTk2MCk7CiAgICAgICAgcGh5LmRlYnVnRHJhd0ZsYWdzID0gMTAyNCAtIDE7CiAgICAgICAgY29sbGlkZXIuZW5hYmxlZCA9IHRydWU7CiAgICAgICAgY29sbGlkZXIuZW5hYmxlZERyYXdCb3VuZGluZ0JveCA9IHRydWU7Cg==</text>
@@ -1488,9 +1488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>update\c</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>update\c</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1498,7 +1498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
         <entry encoding="base64">XDxhZGRHaWZ0XD4=</entry>
         <entry encoding="base64">XDxmaW5pc2hUYXNrXD4=</entry>
         <entry encoding="base64">XDxyZXRcPg==</entry>
@@ -1509,7 +1508,6 @@
         <entry>sync</entry>
         <entry encoding="base64">XDxDcmVhdGVJdGVtVGFibGVPYmpcPg==</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
-        <entry>update\c</entry>
         <entry encoding="base64">XDxfdXBkYXRlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -1518,6 +1516,8 @@
         <entry>status\c</entry>
         <entry>direc\c</entry>
         <entry>user</entry>
+        <entry encoding="base64">XDxfbm93RGlyZWN0XD4=</entry>
+        <entry>update\c</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
