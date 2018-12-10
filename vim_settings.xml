@@ -989,12 +989,12 @@
         <mark key="." line="122" column="47" />
         <mark key="^" line="122" column="47" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544428136580">
+      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544429310821">
         <mark key="'" line="67" column="12" />
-        <mark key="[" line="136" column="12" />
-        <mark key="]" line="136" column="25" />
-        <mark key="." line="136" column="25" />
-        <mark key="^" line="136" column="25" />
+        <mark key="[" line="138" column="22" />
+        <mark key="]" line="138" column="23" />
+        <mark key="." line="138" column="23" />
+        <mark key="^" line="138" column="23" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/RightMenu.ts" timestamp="1523524962643">
         <mark key="'" line="94" column="21" />
@@ -1400,16 +1400,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IXYueCAmJiAhdi55</text>
+        <text>this.0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IXYueCAmJiAhdi55</text>
+        <text>this.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmlnaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy52eCA9IHRoaXMubW92ZVNwZWVkOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnMzIzMjQnKTsK</text>
