@@ -849,12 +849,12 @@
         <mark key="." line="538" column="32" />
         <mark key="^" line="538" column="32" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544441146040">
-        <mark key="'" line="226" column="38" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="244" column="99" />
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544442013440">
+        <mark key="'" line="188" column="64" />
+        <mark key="[" line="286" column="29" />
+        <mark key="]" line="286" column="43" />
+        <mark key="." line="286" column="43" />
+        <mark key="^" line="286" column="43" />
       </file>
       <file name="E:/workstation/running/Server/dist/Server/lib/platform/CCClass.js" timestamp="1531908710200">
         <mark key="'" line="1108" column="4" />
@@ -989,12 +989,12 @@
         <mark key="." line="122" column="47" />
         <mark key="^" line="122" column="47" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544438266982">
-        <mark key="'" line="130" column="20" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="19" />
+      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544441824136">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="13" />
+        <mark key="." line="67" column="13" />
+        <mark key="^" line="67" column="13" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/RightMenu.ts" timestamp="1523524962643">
         <mark key="'" line="94" column="21" />
@@ -1297,21 +1297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="24" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="118" column="13" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="75" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="78" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="57" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="221" column="4" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="28" column="4" filename="E:/workstation/CLM/assets/script/comp/MonsterActorComp.ts" />
-      <jump line="11" column="21" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="146" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="95" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="141" column="18" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="94" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="46" column="22" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
-      <jump line="91" column="32" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="207" column="4" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="190" column="13" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="213" column="20" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
@@ -1328,15 +1313,12 @@
       <jump line="163" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="152" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="90" column="8" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="143" column="44" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="17" column="12" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="77" column="18" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="134" column="21" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="78" column="20" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="87" column="13" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="132" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="67" column="12" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="64" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="200" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="209" column="46" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="13395" column="8" filename="E:/workstation/CLM/creator.d.ts" />
@@ -1347,7 +1329,6 @@
       <jump line="163" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="275" column="26" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="210" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="244" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="27" column="45" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="225" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="89" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1382,9 +1363,7 @@
       <jump line="252" column="22" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="172" column="22" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="218" column="21" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="174" column="25" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="175" column="25" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="222" column="21" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="220" column="21" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="66" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1393,20 +1372,41 @@
       <jump line="65" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="240" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="265" column="18" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="168" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="188" column="79" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="217" column="19" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="226" column="38" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="56" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="64" column="28" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="161" column="22" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="168" column="10" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="74" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="224" column="44" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="87" column="13" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="143" column="32" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="176" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="183" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="238" column="13" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="286" column="43" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="189" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="226" column="68" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="228" column="43" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="236" column="90" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="237" column="49" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="244" column="42" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="245" column="31" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="175" column="64" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="182" column="64" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
+      <jump line="188" column="64" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>this.groundFriction</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncm91bmRGcmljdGlvblw+</text>
+        <text>m_fri\c</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29udGFjdC5fYjJjb250YWN0Lm1fZml4dHVyZUIubV9mcmljdGlvbiA=</text>
@@ -1464,9 +1464,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncm91bmRGcmljdGlvblw+</last-search>
+      <last-search>m_fri\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncm91bmRGcmljdGlvblw+</last-pattern>
+      <last-pattern>m_fri\c</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1474,10 +1474,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbGlnaHRlblw+</entry>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxfaW5pdFBvc1w+</entry>
-        <entry encoding="base64">XDxfcmlnaWRcPg==</entry>
         <entry encoding="base64">XDxfcHJlc3NKdW1wXD4=</entry>
         <entry>beg\c</entry>
         <entry>update</entry>
@@ -1494,6 +1491,9 @@
         <entry encoding="base64">XDxfYjJjb250YWN0XD4=</entry>
         <entry encoding="base64">XDxncm91bmRDb250YWN0XD4=</entry>
         <entry encoding="base64">XDxncm91bmRGcmljdGlvblw+</entry>
+        <entry>body\c</entry>
+        <entry encoding="base64">XDxfcmlnaWRcPg==</entry>
+        <entry>m_fri\c</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
