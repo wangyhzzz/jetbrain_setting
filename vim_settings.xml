@@ -10,8 +10,8 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameCtrl.ts" timestamp="1544516472910">
-        <mark key="'" line="79" column="18" />
+      <file name="E:/workstation/CLM/assets/script/GameCtrl.ts" timestamp="1544517385053">
+        <mark key="'" line="94" column="21" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -322,8 +322,8 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1544516500391">
-        <mark key="'" line="180" column="17" />
+      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1544517526533">
+        <mark key="'" line="132" column="17" />
         <mark key="[" line="180" column="47" />
         <mark key="]" line="180" column="54" />
         <mark key="." line="180" column="54" />
@@ -636,11 +636,12 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544515364188">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="56" />
-        <mark key="." line="134" column="0" />
+      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544517659749">
+        <mark key="'" line="203" column="25" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="217" column="58" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/FishBookDialog.ts" timestamp="1522659025433">
         <mark key="'" line="13" column="0" />
@@ -1291,15 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="244" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="263" column="15" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="11" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="14" column="0" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="318" column="8" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="321" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="330" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="111" column="33" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="6560" column="8" filename="E:/workstation/CLM/creator.d.ts" />
       <jump line="38" column="40" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="40" column="40" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
@@ -1365,7 +1357,6 @@
       <jump line="108" column="20" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="109" column="20" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="110" column="20" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="111" column="20" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="205" column="47" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="173" column="17" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="182" column="24" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
@@ -1391,22 +1382,32 @@
       <jump line="79" column="18" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="180" column="17" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
       <jump line="30" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="106" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="93" column="21" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
+      <jump line="111" column="48" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="94" column="21" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
+      <jump line="201" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="132" column="17" filename="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" />
+      <jump line="202" column="16" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="183" column="17" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="203" column="25" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="102" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EntityType.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>EntityType.</text>
+        <text>entity.</text>
       </register>
       <register name="/" type="4">
         <text>Beg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMudHlwZSA9PT0gUG9vbFR5cGUuTElHSFRfWUVMTE9XKSBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1427,28 +1428,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbXAuZW5hYmxlZCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4uLi5zc3Nzc3Nzc3NzJykK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52LnksIC1NYXhGYWxsU3BlZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9yaWdpZC50eXBlID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4uLi5zc3Nzc3Nzc3NzJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb2xsaWRlcil7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52LnksIC1NYXhGYWxsU3BlZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByaXQK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9yaWdpZC50eXBlID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGlkZXIK</text>
+        <text encoding="base64">ICAgICAgICBpZihjb2xsaWRlcil7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29sbGlkZXIgPSB0aGlzLmdldENvbGxpZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByaXQK</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
