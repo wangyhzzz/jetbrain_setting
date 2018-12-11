@@ -308,6 +308,12 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/comp/MonsterBlinkComp.ts" timestamp="1544519415630">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="9" />
+      </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/GameInputControl.ts" timestamp="1542248231924">
         <mark key="'" line="27" column="25" />
         <mark key="[" line="43" column="0" />
@@ -322,12 +328,12 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1544517526533">
+      <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1544519106126">
         <mark key="'" line="132" column="17" />
-        <mark key="[" line="180" column="47" />
-        <mark key="]" line="180" column="54" />
-        <mark key="." line="180" column="54" />
-        <mark key="^" line="180" column="54" />
+        <mark key="[" line="105" column="50" />
+        <mark key="]" line="105" column="52" />
+        <mark key="." line="105" column="52" />
+        <mark key="^" line="105" column="52" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail_custom.ts" timestamp="1526008671366">
         <mark key="'" line="7" column="37" />
@@ -650,12 +656,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" timestamp="1544515361829">
-        <mark key="'" line="86" column="32" />
-        <mark key="[" line="107" column="47" />
-        <mark key="]" line="107" column="66" />
-        <mark key="." line="107" column="66" />
-        <mark key="^" line="107" column="66" />
+      <file name="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" timestamp="1544519252319">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="73" column="92" />
+        <mark key="]" line="73" column="95" />
+        <mark key="." line="73" column="95" />
+        <mark key="^" line="73" column="95" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/GameSettingDialog.ts" timestamp="1527564653617">
         <mark key="'" line="13" column="21" />
@@ -795,19 +801,19 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="50" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1544408588959">
+      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1544519087847">
         <mark key="'" line="66" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="72" column="4" />
-        <mark key="." line="88" column="48" />
-        <mark key="^" line="88" column="52" />
+        <mark key="[" line="115" column="97" />
+        <mark key="]" line="115" column="99" />
+        <mark key="." line="115" column="99" />
+        <mark key="^" line="115" column="99" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/pool/NodeFactory.ts" timestamp="1544513790219">
+      <file name="E:/workstation/CLM/assets/script/pool/NodeFactory.ts" timestamp="1544518986550">
         <mark key="'" line="61" column="12" />
-        <mark key="[" line="75" column="10" />
-        <mark key="]" line="75" column="13" />
-        <mark key="^" line="75" column="13" />
-        <mark key="." line="75" column="13" />
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="14" />
+        <mark key="^" line="76" column="14" />
+        <mark key="." line="76" column="14" />
       </file>
       <file name="E:/workstation/tmp/a.html" timestamp="1541657358485">
         <mark key="'" line="28" column="30" />
@@ -1106,7 +1112,7 @@
         <mark key="." line="94" column="33" />
         <mark key="^" line="94" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544508156663">
+      <file name="/Dummy.txt" timestamp="1544519026416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/com/util/HttpUtil.ts" timestamp="1535623543203">
@@ -1292,9 +1298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6560" column="8" filename="E:/workstation/CLM/creator.d.ts" />
-      <jump line="38" column="40" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="40" column="40" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="30" column="29" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="34" column="54" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="151" column="37" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
@@ -1335,10 +1338,8 @@
       <jump line="59" column="28" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="104" column="32" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="80" column="24" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="70" column="0" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="90" column="36" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="35" column="0" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="37" column="4" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="69" column="54" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="154" column="25" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
       <jump line="205" column="25" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
@@ -1392,22 +1393,27 @@
       <jump line="183" column="17" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="203" column="25" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="102" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="67" column="49" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="70" column="75" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="37" column="4" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="73" column="112" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="40" column="4" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>entity.</text>
+        <text>BLACK</text>
       </register>
       <register name="/" type="4">
-        <text>Beg</text>
+        <text encoding="base64">XDxsaWdodEJsYWNrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMudHlwZSA9PT0gUG9vbFR5cGUuTElHSFRfWUVMTE9XKSBkZWJ1Z2dlcgo=</text>
+      <register name="0" type="4">
+        <text>comp.type === PoolType.LIGHT_BLACK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1428,28 +1434,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbXAuZW5hYmxlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbXAuZW5hYmxlZCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4uLi5zc3Nzc3Nzc3NzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52LnksIC1NYXhGYWxsU3BlZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4uLi5zc3Nzc3Nzc3NzJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9yaWdpZC50eXBlID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52LnksIC1NYXhGYWxsU3BlZWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb2xsaWRlcil7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9yaWdpZC50eXBlID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByaXQK</text>
+        <text encoding="base64">ICAgICAgICBpZihjb2xsaWRlcil7CiAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1459,9 +1465,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Beg</last-search>
+      <last-search encoding="base64">XDxsaWdodEJsYWNrXD4=</last-search>
       <last-offset />
-      <last-pattern>Beg</last-pattern>
+      <last-pattern encoding="base64">XDxsaWdodEJsYWNrXD4=</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,8 +1475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sedn\c</entry>
-        <entry encoding="base64">XDxlbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxldHlcPg==</entry>
         <entry encoding="base64">XDxTaG93XD4=</entry>
         <entry encoding="base64">XDxuZXdDb21wXD4=</entry>
@@ -1482,13 +1486,15 @@
         <entry encoding="base64">XDxiTW92ZVw+</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxjY1w+</entry>
-        <entry encoding="base64">XDxsaWdodFBpbmtcPg==</entry>
         <entry encoding="base64">XDxfcmlnaWRcPg==</entry>
         <entry>type</entry>
         <entry>conso</entry>
         <entry>trig\c</entry>
         <entry>lig\c</entry>
         <entry>Beg</entry>
+        <entry encoding="base64">XDxsaWdodFBpbmtcPg==</entry>
+        <entry encoding="base64">XDxMSUdIVF9CTEFDS1w+</entry>
+        <entry encoding="base64">XDxsaWdodEJsYWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
