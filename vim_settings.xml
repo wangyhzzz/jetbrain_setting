@@ -629,6 +629,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" timestamp="1544581349307">
+        <mark key="'" line="62" column="39" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/GameSettingDialog.ts" timestamp="1527564653617">
         <mark key="'" line="13" column="21" />
         <mark key="[" line="101" column="0" />
@@ -1260,17 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="34" column="54" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="151" column="37" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="46" column="34" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="174" column="22" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="251" column="4" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="167" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="172" column="22" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
-      <jump line="47" column="36" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="51" column="36" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
-      <jump line="16" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="155" column="21" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="96" column="35" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="41" column="15" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
@@ -1297,8 +1292,6 @@
       <jump line="77" column="27" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="34" column="19" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="36" column="14" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="59" column="28" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="104" column="32" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="80" column="24" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="90" column="36" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="35" column="0" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
@@ -1327,7 +1320,6 @@
       <jump line="266" column="15" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
       <jump line="121" column="66" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="122" column="45" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
-      <jump line="86" column="32" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="38" column="30" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
       <jump line="49" column="36" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="200" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
@@ -1360,22 +1352,36 @@
       <jump line="37" column="4" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="73" column="112" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
       <jump line="40" column="4" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="104" column="8" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="63" column="30" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="74" column="30" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="24" column="4" filename="E:/workstation/CLM/assets/script/comp/ActorComp.ts" />
+      <jump line="82" column="32" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="64" column="81" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="86" column="51" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="30" column="4" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="95" column="20" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="98" column="33" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="59" column="34" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="60" column="39" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="61" column="39" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
+      <jump line="62" column="39" filename="E:/workstation/CLM/assets/script/comp/SyncPrefabs.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgY29udGludWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BLACK</text>
+        <text>Blue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWdodEJsYWNrXD4=</text>
+        <text encoding="base64">XDxQb29sVHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>comp.type === PoolType.LIGHT_BLACK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5QcmVmYWIpCiAgICBsaWdodEJsdWU6IGNjLlByZWZhYiA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgY29udGludWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1396,28 +1402,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgaWYgKGNvbXAudHlwZSA9PT0gUG9vbFR5cGUuTElHSFRfTikgcHJlZmFiID0gdGhpcy5saWdodEJsdWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbXAuZW5hYmxlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbXAuZW5hYmxlZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4uLi5zc3Nzc3Nzc3NzJykK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52LnksIC1NYXhGYWxsU3BlZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW0uc2V0RW5hYmxlKHRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9yaWdpZC50eXBlID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4uLi5zc3Nzc3Nzc3NzJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb2xsaWRlcil7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy52LnksIC1NYXhGYWxsU3BlZWQpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1427,9 +1433,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWdodEJsYWNrXD4=</last-search>
+      <last-search encoding="base64">XDxQb29sVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWdodEJsYWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQb29sVHlwZVw+</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1437,19 +1443,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldHlcPg==</entry>
-        <entry encoding="base64">XDxTaG93XD4=</entry>
-        <entry encoding="base64">XDxuZXdDb21wXD4=</entry>
-        <entry>tag</entry>
-        <entry encoding="base64">XDxmaXhlZFw+</entry>
-        <entry>cons</entry>
         <entry>onload\c</entry>
         <entry>onlo\c</entry>
         <entry encoding="base64">XDxiTW92ZVw+</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxjY1w+</entry>
         <entry encoding="base64">XDxfcmlnaWRcPg==</entry>
-        <entry>type</entry>
         <entry>conso</entry>
         <entry>trig\c</entry>
         <entry>lig\c</entry>
@@ -1457,6 +1456,13 @@
         <entry encoding="base64">XDxsaWdodFBpbmtcPg==</entry>
         <entry encoding="base64">XDxMSUdIVF9CTEFDS1w+</entry>
         <entry encoding="base64">XDxsaWdodEJsYWNrXD4=</entry>
+        <entry>type</entry>
+        <entry>trigg\c</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyVHlwZVw+</entry>
+        <entry encoding="base64">XDxsaWdodE5vbmVcPg==</entry>
+        <entry encoding="base64">XDxjblw+</entry>
+        <entry encoding="base64">XDxMSUdIVF9SRURcPg==</entry>
+        <entry encoding="base64">XDxQb29sVHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
