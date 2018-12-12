@@ -1064,12 +1064,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1544587467664">
-        <mark key="'" line="82" column="27" />
-        <mark key="[" line="76" column="61" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="76" column="67" />
-        <mark key="^" line="76" column="67" />
+      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1544588324117">
+        <mark key="'" line="83" column="27" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="70" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="76" column="70" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/MonsterAutoComp.ts" timestamp="1541139175446">
         <mark key="'" line="6" column="45" />
@@ -1381,7 +1381,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNjLkNhbWVyYS5tYWluLm5vZGUuZ2V0QWN0aW9uQnlUYWcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjYy5DYW1lcmEubWFpbi5ub2RlLmdldEFjdGlvbkJ5VGFnKGRlbHRhKSkgcmV0dXJuOwo=</text>
       </register>
       <register name="-" type="4">
         <text>this.cc</text>
@@ -1393,7 +1393,7 @@
         <text encoding="base64">Y2Muc2VxdWVuY2UoY2MuZGVsYXlUaW1lKHQgLyB0aW1lcyksIGNjLmNhbGxGdW5jKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBjYy5DYW1lcmEubWFpbi56b29tUmF0aW8gLT0gaW50ZXJ2YWw7CiAgICAgICAgICAgICAgICAgICAgZy52aWV3LmZpeGVkQ2FtZXJhUG9zID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pKS5yZXBlYXQodGltZXMp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNjLkNhbWVyYS5tYWluLm5vZGUuZ2V0QWN0aW9uQnlUYWcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjYy5DYW1lcmEubWFpbi5ub2RlLmdldEFjdGlvbkJ5VGFnKGRlbHRhKSkgcmV0dXJuOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1413,29 +1413,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y2Muc2VxdWVuY2UoY2MuZGVsYXlUaW1lKHQgLyB0aW1lcyksIGNjLmNhbGxGdW5jKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBjYy5DYW1lcmEubWFpbi56b29tUmF0aW8gLT0gaW50ZXJ2YWw7CiAgICAgICAgICAgICAgICAgICAgZy52aWV3LmZpeGVkQ2FtZXJhUG9zID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pKS5yZXBlYXQodGltZXMp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNjLkNhbWVyYS5tYWluLm5vZGUuZ2V0QWN0aW9uQnlUYWcoKSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNjLkNhbWVyYS5tYWluLnpvb21SYXRpbyA9IHBhcnNlRmxvYXQodGhpcy5rZXkpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y2Muc2VxdWVuY2UoY2MuZGVsYXlUaW1lKHQgLyB0aW1lcyksIGNjLmNhbGxGdW5jKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBjYy5DYW1lcmEubWFpbi56b29tUmF0aW8gLT0gaW50ZXJ2YWw7CiAgICAgICAgICAgICAgICAgICAgZy52aWV3LmZpeGVkQ2FtZXJhUG9zID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pKS5yZXBlYXQodGltZXMp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNjLkNhbWVyYS5tYWluLnpvb21SYXRpbyA9IHBhcnNlRmxvYXQodGhpcy5rZXkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fbGlnaHRMaXN0WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
