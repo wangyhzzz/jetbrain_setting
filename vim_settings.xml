@@ -292,6 +292,13 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544679587844">
+        <mark key="'" line="86" column="91" />
+        <mark key="[" line="86" column="91" />
+        <mark key="]" line="86" column="98" />
+        <mark key="." line="86" column="98" />
+        <mark key="^" line="86" column="98" />
+      </file>
       <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1543825013442">
         <mark key="'" line="26" column="64" />
         <mark key="[" line="35" column="19" />
@@ -805,12 +812,11 @@
         <mark key="." line="115" column="99" />
         <mark key="^" line="115" column="99" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/pool/NodeFactory.ts" timestamp="1544598104952">
+      <file name="E:/workstation/CLM/assets/script/pool/NodeFactory.ts" timestamp="1544679595878">
         <mark key="'" line="75" column="4" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="7" />
-        <mark key="." line="75" column="7" />
-        <mark key="^" line="75" column="7" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="E:/workstation/tmp/a.html" timestamp="1541657358485">
         <mark key="'" line="28" column="30" />
@@ -1299,7 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="31" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
       <jump line="245" column="27" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="246" column="25" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="199" column="14" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1399,22 +1404,23 @@
       <jump line="68" column="28" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="11" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="97" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="86" column="91" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdG9yLnN0b3BBbGxBbmltcygpOwogICAgICAgICh0aGlzLmFjdG9yLl9jb21wIGFzIE1vbnN0ZXJBY3RvckNvbXApLm5vcm1hbEFuaW0ucGxheSgpOwo=</text>
+        <text encoding="base64">ICAgIE1PTlNURVJfRkxZLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_co</text>
+        <text>JUMP</text>
       </register>
       <register name="/" type="4">
         <text>backof\c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdG9yLnN0b3BBbGxBbmltcygpOwogICAgICAgICh0aGlzLmFjdG9yLl9jb21wIGFzIE1vbnN0ZXJBY3RvckNvbXApLm5vcm1hbEFuaW0ucGxheSgpOwo=</text>
+        <text encoding="base64">ICAgIE1PTlNURVJfSlVNUCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBodGlzLmFjCg==</text>
+        <text encoding="base64">ICAgIE1PTlNURVJfRkxZLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1435,28 +1441,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBodGlzLmFjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsYXlIaXQoKSB7CiAgICAgICAgdGhpcy5hYwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnMK</text>
+        <text encoding="base64">ICAgIHBsYXlIaXQoKSB7CiAgICAgICAgdGhpcy5hYwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vcm1hbEFuaW0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5vcm1hbEFuaW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXkK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzLikK</text>
+        <text encoding="base64">ICAgIHBsYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuX2h1cnRpbmcpIHsKICAgICAgICAgICAgICAgIHRoaXMuX2h1cnRpbmcgPSBmYWxzZTsKICAgICAgICAgICAgICAgIHRoaXMuYWN0b3Iubm9kZS5zdG9wQWN0aW9uQnlUYWcodGhpcy5faHVydGluZ0FjdGlvblRhZyk7CiAgICAgICAgICAgICAgICB0aGlzLmNoYW5nZVN0YXRlKFBsYXllclN0YXRlLklkbGUpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZih0aGlzLikK</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
