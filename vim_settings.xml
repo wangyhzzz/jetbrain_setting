@@ -10,13 +10,6 @@
         <mark key="." line="1476" column="64" />
         <mark key="^" line="1476" column="64" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameCtrl.ts" timestamp="1544752886898">
-        <mark key="'" line="150" column="35" />
-        <mark key="[" line="150" column="26" />
-        <mark key="]" line="150" column="27" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="150" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/Tencent Files/344204552/FileRecv/huodong/a.html" timestamp="1539914461188">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="82" column="20" />
@@ -38,13 +31,6 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="E:/workstation/H5/build-templates/web-mobile/main.js" timestamp="1536041877055">
-        <mark key="'" line="353" column="55" />
-        <mark key="[" line="354" column="17" />
-        <mark key="]" line="354" column="17" />
-        <mark key="." line="354" column="17" />
-        <mark key="^" line="319" column="17" />
-      </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/MainControl.ts" timestamp="1537842916528">
         <mark key="'" line="130" column="33" />
         <mark key="[" line="54" column="0" />
@@ -58,20 +44,6 @@
         <mark key="]" line="61" column="33" />
         <mark key="." line="61" column="33" />
         <mark key="^" line="93" column="19" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/GameData/SceneData/PlayerControl/AnimationControl.ts" timestamp="1536653933583">
-        <mark key="'" line="69" column="11" />
-        <mark key="[" line="83" column="38" />
-        <mark key="]" line="83" column="41" />
-        <mark key="^" line="83" column="41" />
-        <mark key="." line="83" column="41" />
-      </file>
-      <file name="E:/workstation/running/Server/lib/collider/CCCollisionManager.js" timestamp="1535341513488">
-        <mark key="'" line="82" column="44" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="134" column="27" />
-        <mark key="." line="134" column="0" />
       </file>
       <file name="E:/workstation/CLM/assets/script/MissionInfo.ts" timestamp="1544602745952">
         <mark key="'" line="120" column="23" />
@@ -87,19 +59,12 @@
         <mark key="^" line="98" column="20" />
         <mark key="." line="98" column="20" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544766933812">
-        <mark key="'" line="342" column="19" />
-        <mark key="[" line="348" column="61" />
-        <mark key="]" line="348" column="75" />
-        <mark key="." line="348" column="75" />
-        <mark key="^" line="348" column="75" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="27" column="55" />
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544772616011">
+        <mark key="'" line="118" column="17" />
+        <mark key="[" line="492" column="41" />
+        <mark key="]" line="492" column="45" />
+        <mark key="." line="492" column="45" />
+        <mark key="^" line="492" column="45" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/exchangePanels/ExchangeGoodsPanel.ts" timestamp="1536543669286">
         <mark key="'" line="142" column="21" />
@@ -115,13 +80,6 @@
         <mark key="." line="131" column="34" />
         <mark key="^" line="131" column="34" />
       </file>
-      <file name="E:/workstation/H5/assets/com/global/RoomInfo.ts" timestamp="1531210972945">
-        <mark key="'" line="79" column="13" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="180" column="19" />
-        <mark key="." line="172" column="0" />
-      </file>
       <file name="D:/workstation/running/Client/assets/RunningScene/NetGate.ts" timestamp="1544327181938">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="28" column="26" />
@@ -136,20 +94,6 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="46" column="9" />
       </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/weaponInfo/WeaponInfoMainItem.ts" timestamp="1521515334286">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="130" column="47" />
-        <mark key="]" line="130" column="49" />
-        <mark key="^" line="130" column="49" />
-        <mark key="." line="130" column="49" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/SetOrChangeNicknameDialog.ts" timestamp="1528279085325">
-        <mark key="'" line="122" column="56" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="70" />
-        <mark key="." line="120" column="24" />
-        <mark key="^" line="120" column="24" />
-      </file>
       <file name="E:/workstation/H5/assets/com/manager/PathManager.ts" timestamp="1535610769073">
         <mark key="'" line="134" column="23" />
         <mark key="[" line="164" column="15" />
@@ -157,26 +101,12 @@
         <mark key="." line="164" column="16" />
         <mark key="^" line="170" column="34" />
       </file>
-      <file name="E:/workstation/H5/assets/ui/fish/LuckDrawProgress.ts" timestamp="1529479097797">
-        <mark key="'" line="34" column="45" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="54" />
-        <mark key="." line="23" column="9" />
-        <mark key="^" line="23" column="9" />
-      </file>
       <file name="E:/workstation/H5/assets/com/manager/UserManager.ts" timestamp="1530612073984">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="78" column="42" />
         <mark key="]" line="78" column="42" />
         <mark key="." line="78" column="42" />
         <mark key="^" line="78" column="42" />
-      </file>
-      <file name="E:/workstation/running/Server/lib/CCNode.js" timestamp="1534123731014">
-        <mark key="'" line="1342" column="26" />
-        <mark key="[" line="943" column="28" />
-        <mark key="]" line="943" column="7" />
-        <mark key="." line="943" column="7" />
-        <mark key="^" line="943" column="7" />
       </file>
       <file name="E:/workstation/H5/assets/com/data/GameDef.ts" timestamp="1526527577022">
         <mark key="'" line="184" column="6" />
@@ -192,26 +122,12 @@
         <mark key="." line="15" column="2" />
         <mark key="^" line="15" column="2" />
       </file>
-      <file name="E:/workstation/H5/assets/com/entity/SPoint.ts" timestamp="1523325179650">
-        <mark key="'" line="19" column="33" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/bag/BagPanel_draw.ts" timestamp="1521774751308">
         <mark key="'" line="42" column="19" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="42" column="13" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/GameData/ConfigTable/Animation/PlayerConfig.ts" timestamp="1532503770608">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="38" column="1" />
-        <mark key="^" line="38" column="1" />
-        <mark key="." line="38" column="1" />
       </file>
       <file name="D:/workstation/running/Server/src/DBDef.ts" timestamp="1544330036778">
         <mark key="'" line="11" column="13" />
@@ -227,26 +143,8 @@
         <mark key="." line="606" column="18" />
         <mark key="^" line="606" column="18" />
       </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/SendItemDialog.ts" timestamp="1525924256564">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="103" column="84" />
-        <mark key="." line="87" column="7" />
-        <mark key="^" line="87" column="7" />
-      </file>
-      <file name="E:/workstation/running/Server/lib/platform/CCSys.js" timestamp="1531728428049">
-        <mark key="'" line="640" column="23" />
-        <mark key="[" line="538" column="23" />
-        <mark key="]" line="538" column="32" />
-        <mark key="." line="538" column="32" />
-        <mark key="^" line="538" column="32" />
-      </file>
       <file name="E:/workstation/running/Server/src/AccountModule.ts" timestamp="1544150197149">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="33" />
-        <mark key="]" line="109" column="34" />
-        <mark key="^" line="109" column="34" />
-        <mark key="." line="109" column="34" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/FailedTaskNode.ts" timestamp="1523185827049">
         <mark key="'" line="27" column="32" />
@@ -255,26 +153,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544766902838">
-        <mark key="'" line="45" column="119" />
-        <mark key="[" line="45" column="117" />
-        <mark key="]" line="45" column="128" />
-        <mark key="." line="45" column="128" />
-        <mark key="^" line="45" column="128" />
-      </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1543911021129">
         <mark key="'" line="182" column="0" />
         <mark key="[" line="136" column="55" />
         <mark key="]" line="136" column="55" />
         <mark key="^" line="136" column="44" />
         <mark key="." line="136" column="55" />
-      </file>
-      <file name="E:/workstation/running/Server/dist/Server/lib/platform/CCClass.js" timestamp="1531908710200">
-        <mark key="'" line="1108" column="4" />
-        <mark key="[" line="892" column="23" />
-        <mark key="]" line="892" column="24" />
-        <mark key="^" line="892" column="19" />
-        <mark key="." line="892" column="24" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/MaliGame.ts" timestamp="1527735424130">
         <mark key="'" line="178" column="11" />
@@ -297,39 +181,12 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544760218656">
-        <mark key="'" line="78" column="12" />
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="55" column="28" />
-        <mark key="." line="55" column="28" />
-        <mark key="^" line="55" column="28" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1543825013442">
-        <mark key="'" line="26" column="64" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerController.ts" timestamp="1544688903019">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="61" column="50" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/RunningScene/GameInputControl.ts" timestamp="1542248231924">
-        <mark key="'" line="27" column="25" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="27" column="65" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/WXAdaptor.ts" timestamp="1534213542512">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544772983962">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="72" />
+        <mark key="." line="86" column="70" />
+        <mark key="^" line="86" column="70" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1544692914341">
         <mark key="'" line="57" column="27" />
@@ -337,13 +194,6 @@
         <mark key="]" line="57" column="27" />
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail_custom.ts" timestamp="1526008671366">
-        <mark key="'" line="7" column="37" />
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/EffectLayer.ts" timestamp="1535943251174">
         <mark key="'" line="143" column="21" />
@@ -365,13 +215,6 @@
         <mark key="]" line="9" column="62" />
         <mark key="." line="9" column="62" />
         <mark key="^" line="9" column="62" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/comp/Wheel.ts" timestamp="1543477532837">
-        <mark key="'" line="60" column="8" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="100" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="96" column="29" />
       </file>
       <file name="E:/workstation/H5/assets/com/config/StringConfig.ts" timestamp="1536130550283">
         <mark key="'" line="184" column="43" />
@@ -400,33 +243,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="36" column="58" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/WeaponInfoDialog.ts" timestamp="1530005317305">
-        <mark key="'" line="370" column="24" />
-        <mark key="[" line="368" column="14" />
-        <mark key="]" line="368" column="24" />
-        <mark key="^" line="368" column="24" />
-        <mark key="." line="368" column="24" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/Missions.ts" timestamp="1543825053713">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/manager/ResourceManager.ts" timestamp="1542880881872">
-        <mark key="'" line="121" column="74" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="15" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/GameWorld.ts" timestamp="1544703260886">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="157" column="25" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/GameUILayer.ts" timestamp="1534215623905">
         <mark key="'" line="112" column="21" />
@@ -491,47 +307,19 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544757334205">
-        <mark key="'" line="22" column="15" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="67" />
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544772976486">
+        <mark key="'" line="82" column="21" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
         <mark key="^" line="34" column="42" />
-        <mark key="." line="34" column="42" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/joinRoomDlg/CreateRoomDialog.ts" timestamp="1529055934664">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/UserItemManager.ts" timestamp="1543910823624">
-        <mark key="'" line="91" column="56" />
-        <mark key="[" line="106" column="45" />
-        <mark key="]" line="106" column="46" />
-        <mark key="^" line="106" column="44" />
-        <mark key="." line="106" column="46" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/Logic/UserInfo.ts" timestamp="1543910860403">
-        <mark key="'" line="120" column="46" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="120" column="44" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail_give.ts" timestamp="1526008679483">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-      </file>
-      <file name="E:/workstation/H5/assets/lib/aide/MathAide.js" timestamp="1526968902454">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="41" column="29" />
+        <mark key="'" line="154" column="56" />
+        <mark key="[" line="169" column="45" />
+        <mark key="]" line="169" column="46" />
+        <mark key="^" line="169" column="44" />
+        <mark key="." line="169" column="46" />
       </file>
       <file name="E:/workstation/running/Server/app.ts" timestamp="1531219955829">
         <mark key="'" line="229" column="0" />
@@ -554,13 +342,6 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="E:/workstation/running/Server/lib/CCGame.js" timestamp="1532830135293">
-        <mark key="'" line="248" column="24" />
-        <mark key="[" line="835" column="0" />
-        <mark key="]" line="835" column="0" />
-        <mark key="^" line="835" column="21" />
-        <mark key="." line="835" column="0" />
-      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/ConfirmDialog.ts" timestamp="1522037190908">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="19" column="14" />
@@ -582,13 +363,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="D:/workstation/running/Server/src/RandGift.ts" timestamp="1544343931624">
-        <mark key="'" line="103" column="15" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="83" column="51" />
-      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail.ts" timestamp="1530005203312">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="36" column="23" />
@@ -602,13 +376,6 @@
         <mark key="]" line="360" column="59" />
         <mark key="^" line="360" column="36" />
         <mark key="." line="360" column="59" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/Def.ts" timestamp="1544668611573">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
-        <mark key="^" line="32" column="7" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/PersonalSettingDialog.ts" timestamp="1534148396278">
         <mark key="'" line="300" column="0" />
@@ -631,13 +398,6 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="E:/workstation/running/Server/src/app.ts" timestamp="1543913759151">
-        <mark key="'" line="195" column="8" />
-        <mark key="[" line="122" column="46" />
-        <mark key="]" line="122" column="47" />
-        <mark key="." line="122" column="47" />
-        <mark key="^" line="122" column="47" />
-      </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/TestServerControl.ts" timestamp="1530619939029">
         <mark key="'" line="15" column="23" />
         <mark key="[" line="16" column="48" />
@@ -651,13 +411,6 @@
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="10" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544758455006">
-        <mark key="'" line="85" column="28" />
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="70" column="3" />
-        <mark key="." line="70" column="3" />
-        <mark key="^" line="70" column="3" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/FishBookDialog.ts" timestamp="1522659025433">
         <mark key="'" line="13" column="0" />
@@ -680,26 +433,12 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="E:/workstation/H5/assets/ui/fish/RightMenu.ts" timestamp="1523524962643">
-        <mark key="'" line="94" column="21" />
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="33" column="30" />
-      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/DailySignDialog.ts" timestamp="1530251996823">
         <mark key="'" line="217" column="27" />
         <mark key="[" line="218" column="31" />
         <mark key="]" line="218" column="44" />
         <mark key="." line="218" column="44" />
         <mark key="^" line="218" column="44" />
-      </file>
-      <file name="E:/workstation/running/Server/src/bridge.ts" timestamp="1532424918910">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/ExchangeDialog.ts" timestamp="1536572529180">
         <mark key="'" line="112" column="16" />
@@ -736,47 +475,12 @@
         <mark key="." line="76" column="13" />
         <mark key="^" line="76" column="13" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/bossScene/BossScene1.ts" timestamp="1542714026844">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="39" column="14" />
-        <mark key="]" line="39" column="28" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/base/pool/NodeFactory.ts" timestamp="1523591114326">
-        <mark key="'" line="65" column="33" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="10" />
-        <mark key="." line="54" column="10" />
-        <mark key="^" line="54" column="10" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/actor/PlayerActorFSM.ts" timestamp="1535527063386">
-        <mark key="'" line="29" column="39" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/workstation/H5/assets/com/network/client/module/FishGame.ts" timestamp="1530499542096">
         <mark key="'" line="211" column="21" />
         <mark key="[" line="35" column="10" />
         <mark key="]" line="36" column="29" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="36" column="29" />
-      </file>
-      <file name="E:/workstation/H5/assets/ui/fish/TaskNode.ts" timestamp="1532335282602">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="35" />
-        <mark key="." line="51" column="47" />
-        <mark key="^" line="51" column="47" />
-      </file>
-      <file name="$USER_HOME$/Downloads/oss-h5-upload-js-direct/index.html" timestamp="1541489319840">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/BlastAnimation.ts" timestamp="1524376047259">
         <mark key="'" line="32" column="0" />
@@ -792,13 +496,6 @@
         <mark key="^" line="21" column="27" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/rechargePanels/RechargeGoldPanel.ts" timestamp="1528802037577">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="39" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="38" />
-      </file>
       <file name="E:/workstation/CLM/assets/script/entity/MonsterNightmare.ts" timestamp="1544700357443">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="38" column="5" />
@@ -813,19 +510,15 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="89" column="26" />
       </file>
+      <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1544695877153">
+        <mark key="'" line="25" column="4" />
+      </file>
       <file name="E:/workstation/CLM/assets/script/pool/NodeFactory.ts" timestamp="1544690253395">
         <mark key="'" line="77" column="4" />
         <mark key="[" line="81" column="12" />
         <mark key="]" line="81" column="17" />
         <mark key="." line="81" column="17" />
         <mark key="^" line="81" column="17" />
-      </file>
-      <file name="E:/workstation/tmp/a.html" timestamp="1541657358485">
-        <mark key="'" line="28" column="30" />
-        <mark key="[" line="79" column="77" />
-        <mark key="]" line="79" column="79" />
-        <mark key="^" line="79" column="79" />
-        <mark key="." line="79" column="79" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/FishDiamondNode.ts" timestamp="1523601640286">
         <mark key="'" line="0" column="4" />
@@ -848,48 +541,6 @@
         <mark key="." line="646" column="31" />
         <mark key="^" line="646" column="31" />
       </file>
-      <file name="E:/workstation/running/Client/assets/RunningScene/UIControl.ts" timestamp="1539224834296">
-        <mark key="'" line="131" column="63" />
-        <mark key="[" line="88" column="21" />
-        <mark key="]" line="88" column="21" />
-        <mark key="^" line="88" column="11" />
-        <mark key="." line="88" column="21" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543824995121">
-        <mark key="'" line="77" column="27" />
-        <mark key="[" line="76" column="20" />
-        <mark key="]" line="77" column="31" />
-        <mark key="^" line="77" column="31" />
-        <mark key="." line="77" column="31" />
-      </file>
-      <file name="E:/workstation/H5/assets/ui/fish/PlayerLayer.ts" timestamp="1530518952424">
-        <mark key="'" line="73" column="14" />
-        <mark key="[" line="121" column="71" />
-        <mark key="]" line="122" column="7" />
-        <mark key="." line="122" column="7" />
-        <mark key="^" line="122" column="7" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/GameData/SceneData/Item/ItemRandom.ts" timestamp="1539229899956">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="58" column="51" />
-        <mark key="." line="58" column="51" />
-        <mark key="^" line="48" column="55" />
-      </file>
-      <file name="E:/workstation/H5/assets/ui/lobby/BottomBtnsLayer.ts" timestamp="1530180383786">
-        <mark key="'" line="76" column="29" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="41" column="59" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" timestamp="1544703185014">
-        <mark key="'" line="34" column="14" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="16" />
-      </file>
       <file name="E:/workstation/H5/assets/com/global/MailInfo.ts" timestamp="1530867226601">
         <mark key="'" line="70" column="65" />
         <mark key="[" line="69" column="74" />
@@ -903,20 +554,6 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
         <mark key="^" line="41" column="4" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/network/client/LobbyClient.ts" timestamp="1530866838457">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="130" column="5" />
-        <mark key="]" line="131" column="3" />
-        <mark key="^" line="131" column="3" />
-        <mark key="." line="131" column="3" />
-      </file>
-      <file name="E:/workstation/H5/assets/ui/fish/CompleteTaskNode.ts" timestamp="1523185850248">
-        <mark key="'" line="99" column="30" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="85" column="76" />
       </file>
       <file name="E:/workstation/CLM/assets/script/event/GlobalEvent.ts" timestamp="1542334788301">
         <mark key="'" line="26" column="21" />
@@ -953,20 +590,6 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="21" column="33" />
       </file>
-      <file name="E:/workstation/H5/assets/com/network/msg/Converter.ts" timestamp="1540812466131">
-        <mark key="'" line="107" column="30" />
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="56" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/dialog/bag/BagPanel_give.ts" timestamp="1527843455383">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="74" column="45" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="E:/workstation/H5/assets/com/util/CPPay.ts" timestamp="1529550155994">
         <mark key="'" line="52" column="34" />
         <mark key="[" line="50" column="34" />
@@ -976,44 +599,10 @@
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/NetGate.ts" timestamp="1543913325042">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="79" column="54" />
-      </file>
-      <file name="E:/workstation/H5/assets/com/ui/layer/fishingLayer/FishCardNode.ts" timestamp="1530015265639">
-        <mark key="'" line="47" column="22" />
-        <mark key="[" line="156" column="42" />
-        <mark key="]" line="156" column="42" />
-        <mark key="." line="156" column="42" />
-        <mark key="^" line="156" column="42" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1544769539031">
-        <mark key="'" line="35" column="24" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterBlink.ts" timestamp="1542612968763">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="6" column="32" />
-      </file>
-      <file name="E:/workstation/running/Server/src/NetLogic.ts" timestamp="1543914453058">
-        <mark key="'" line="27" column="43" />
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="27" column="76" />
-        <mark key="." line="27" column="76" />
-        <mark key="^" line="27" column="76" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/comp/UI.ts" timestamp="1543924917004">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="80" column="54" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/Chapter.ts" timestamp="1542878351047">
         <mark key="'" line="3" column="6" />
@@ -1071,13 +660,6 @@
         <mark key="^" line="158" column="44" />
         <mark key="." line="158" column="55" />
       </file>
-      <file name="E:/workstation/H5/assets/ui/fish/CannonNode.ts" timestamp="1540812441860">
-        <mark key="'" line="571" column="57" />
-        <mark key="[" line="150" column="12" />
-        <mark key="]" line="150" column="14" />
-        <mark key="^" line="150" column="14" />
-        <mark key="." line="150" column="14" />
-      </file>
       <file name="E:/workstation/H5/assets/com/global/RankInfo.ts" timestamp="1528276560193">
         <mark key="'" line="23" column="37" />
         <mark key="[" line="23" column="0" />
@@ -1092,13 +674,6 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1544769912264">
-        <mark key="'" line="109" column="30" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-      </file>
       <file name="E:/workstation/CLM/assets/script/comp/MonsterAutoComp.ts" timestamp="1541139175446">
         <mark key="'" line="6" column="45" />
         <mark key="[" line="14" column="63" />
@@ -1106,21 +681,7 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
-      <file name="E:/workstation/running/Client/assets/RunningScene/MessageControl.ts" timestamp="1544410439231">
-        <mark key="'" line="508" column="59" />
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="524" column="4" />
-        <mark key="^" line="518" column="15" />
-        <mark key="." line="518" column="15" />
-      </file>
-      <file name="D:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1544106767763">
-        <mark key="'" line="84" column="15" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="95" column="8" />
-        <mark key="." line="94" column="33" />
-        <mark key="^" line="94" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544700742371">
+      <file name="/Dummy.txt" timestamp="1544772102116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workstation/H5/assets/com/util/HttpUtil.ts" timestamp="1535623543203">
@@ -1136,6 +697,490 @@
         <mark key="]" line="296" column="15" />
         <mark key="." line="296" column="15" />
         <mark key="^" line="296" column="15" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/GameData/SceneData/NodeInfo.ts" timestamp="1536284787991">
+        <mark key="'" line="37" column="62" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
+      <file name="E:/workstation/running/Server/lib/platform/CCClass.js" timestamp="1531735260463">
+        <mark key="'" line="523" column="30" />
+        <mark key="[" line="551" column="51" />
+        <mark key="]" line="551" column="51" />
+        <mark key="^" line="551" column="51" />
+        <mark key="." line="551" column="51" />
+      </file>
+      <file name="D:/workstation/running/Server/src/NetLogic.ts" timestamp="1544326726627">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/actor/MonsterActor.ts" timestamp="1542356885734">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/layer/FishingLayer.ts" timestamp="1530177732840">
+        <mark key="'" line="380" column="14" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="65" column="56" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544770156527">
+        <mark key="'" line="155" column="54" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
+        <mark key="'" line="244" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="21" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/WidgetExWeb.ts" timestamp="1528266438913">
+        <mark key="'" line="7" column="54" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/MainScene/TestLogic.ts" timestamp="1542006313060">
+        <mark key="'" line="35" column="37" />
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
+        <mark key="^" line="35" column="56" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/GameCtrl.ts" timestamp="1544752886898">
+        <mark key="'" line="150" column="35" />
+        <mark key="[" line="150" column="26" />
+        <mark key="]" line="150" column="27" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="150" column="27" />
+      </file>
+      <file name="E:/workstation/H5/build-templates/web-mobile/main.js" timestamp="1536041877055">
+        <mark key="'" line="353" column="55" />
+        <mark key="[" line="354" column="17" />
+        <mark key="]" line="354" column="17" />
+        <mark key="." line="354" column="17" />
+        <mark key="^" line="319" column="17" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/GameData/SceneData/PlayerControl/AnimationControl.ts" timestamp="1536653933583">
+        <mark key="'" line="69" column="11" />
+        <mark key="[" line="83" column="38" />
+        <mark key="]" line="83" column="41" />
+        <mark key="^" line="83" column="41" />
+        <mark key="." line="83" column="41" />
+      </file>
+      <file name="E:/workstation/running/Server/lib/collider/CCCollisionManager.js" timestamp="1535341513488">
+        <mark key="'" line="82" column="44" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="134" column="27" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="27" column="55" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/global/RoomInfo.ts" timestamp="1531210972945">
+        <mark key="'" line="79" column="13" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="180" column="19" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/weaponInfo/WeaponInfoMainItem.ts" timestamp="1521515334286">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="130" column="47" />
+        <mark key="]" line="130" column="49" />
+        <mark key="^" line="130" column="49" />
+        <mark key="." line="130" column="49" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/SetOrChangeNicknameDialog.ts" timestamp="1528279085325">
+        <mark key="'" line="122" column="56" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="70" />
+        <mark key="." line="120" column="24" />
+        <mark key="^" line="120" column="24" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/fish/LuckDrawProgress.ts" timestamp="1529479097797">
+        <mark key="'" line="34" column="45" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="54" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
+      </file>
+      <file name="E:/workstation/running/Server/lib/CCNode.js" timestamp="1534123731014">
+        <mark key="'" line="1342" column="26" />
+        <mark key="[" line="943" column="28" />
+        <mark key="]" line="943" column="7" />
+        <mark key="." line="943" column="7" />
+        <mark key="^" line="943" column="7" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/entity/SPoint.ts" timestamp="1523325179650">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/GameData/ConfigTable/Animation/PlayerConfig.ts" timestamp="1532503770608">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="38" column="1" />
+        <mark key="^" line="38" column="1" />
+        <mark key="." line="38" column="1" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/SendItemDialog.ts" timestamp="1525924256564">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="103" column="84" />
+        <mark key="." line="87" column="7" />
+        <mark key="^" line="87" column="7" />
+      </file>
+      <file name="E:/workstation/running/Server/lib/platform/CCSys.js" timestamp="1531728428049">
+        <mark key="'" line="640" column="23" />
+        <mark key="[" line="538" column="23" />
+        <mark key="]" line="538" column="32" />
+        <mark key="." line="538" column="32" />
+        <mark key="^" line="538" column="32" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544766902838">
+        <mark key="'" line="45" column="119" />
+        <mark key="[" line="45" column="117" />
+        <mark key="]" line="45" column="128" />
+        <mark key="." line="45" column="128" />
+        <mark key="^" line="45" column="128" />
+      </file>
+      <file name="E:/workstation/running/Server/dist/Server/lib/platform/CCClass.js" timestamp="1531908710200">
+        <mark key="'" line="1108" column="4" />
+        <mark key="[" line="892" column="23" />
+        <mark key="]" line="892" column="24" />
+        <mark key="^" line="892" column="19" />
+        <mark key="." line="892" column="24" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1543825013442">
+        <mark key="'" line="26" column="64" />
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/RunningScene/GameInputControl.ts" timestamp="1542248231924">
+        <mark key="'" line="27" column="25" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="27" column="65" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/WXAdaptor.ts" timestamp="1534213542512">
+        <mark key="'" line="18" column="22" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail_custom.ts" timestamp="1526008671366">
+        <mark key="'" line="7" column="37" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/comp/Wheel.ts" timestamp="1543477532837">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="100" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="96" column="29" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/WeaponInfoDialog.ts" timestamp="1530005317305">
+        <mark key="'" line="370" column="24" />
+        <mark key="[" line="368" column="14" />
+        <mark key="]" line="368" column="24" />
+        <mark key="^" line="368" column="24" />
+        <mark key="." line="368" column="24" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/Missions.ts" timestamp="1543825053713">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/manager/ResourceManager.ts" timestamp="1542880881872">
+        <mark key="'" line="121" column="74" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="15" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" timestamp="1544771820729">
+        <mark key="'" line="91" column="10" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/joinRoomDlg/CreateRoomDialog.ts" timestamp="1529055934664">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="50" column="22" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/maildetail/MailDetail_give.ts" timestamp="1526008679483">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
+      <file name="E:/workstation/H5/assets/lib/aide/MathAide.js" timestamp="1526968902454">
+        <mark key="'" line="41" column="35" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="41" column="29" />
+      </file>
+      <file name="E:/workstation/running/Server/lib/CCGame.js" timestamp="1532830135293">
+        <mark key="'" line="248" column="24" />
+        <mark key="[" line="835" column="0" />
+        <mark key="]" line="835" column="0" />
+        <mark key="^" line="835" column="21" />
+        <mark key="." line="835" column="0" />
+      </file>
+      <file name="D:/workstation/running/Server/src/RandGift.ts" timestamp="1544343931624">
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="83" column="51" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/Def.ts" timestamp="1544668611573">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+        <mark key="^" line="32" column="7" />
+      </file>
+      <file name="E:/workstation/running/Server/src/app.ts" timestamp="1543913759151">
+        <mark key="'" line="195" column="8" />
+        <mark key="[" line="122" column="46" />
+        <mark key="]" line="122" column="47" />
+        <mark key="." line="122" column="47" />
+        <mark key="^" line="122" column="47" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/comp/ActorComp.ts" timestamp="1544758455006">
+        <mark key="'" line="85" column="28" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="70" column="3" />
+        <mark key="." line="70" column="3" />
+        <mark key="^" line="70" column="3" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/fish/RightMenu.ts" timestamp="1523524962643">
+        <mark key="'" line="94" column="21" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+      </file>
+      <file name="E:/workstation/running/Server/src/bridge.ts" timestamp="1532424918910">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/bossScene/BossScene1.ts" timestamp="1542714026844">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="28" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/base/pool/NodeFactory.ts" timestamp="1523591114326">
+        <mark key="'" line="65" column="33" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="10" />
+        <mark key="." line="54" column="10" />
+        <mark key="^" line="54" column="10" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/actor/PlayerActorFSM.ts" timestamp="1535527063386">
+        <mark key="'" line="29" column="39" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/fish/TaskNode.ts" timestamp="1532335282602">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="51" column="47" />
+        <mark key="^" line="51" column="47" />
+      </file>
+      <file name="$USER_HOME$/Downloads/oss-h5-upload-js-direct/index.html" timestamp="1541489319840">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/rechargePanels/RechargeGoldPanel.ts" timestamp="1528802037577">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="38" />
+      </file>
+      <file name="E:/workstation/tmp/a.html" timestamp="1541657358485">
+        <mark key="'" line="28" column="30" />
+        <mark key="[" line="79" column="77" />
+        <mark key="]" line="79" column="79" />
+        <mark key="^" line="79" column="79" />
+        <mark key="." line="79" column="79" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/RunningScene/UIControl.ts" timestamp="1539224834296">
+        <mark key="'" line="131" column="63" />
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="88" column="21" />
+        <mark key="^" line="88" column="11" />
+        <mark key="." line="88" column="21" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/comp/MainMenu.ts" timestamp="1543824995121">
+        <mark key="'" line="77" column="27" />
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="77" column="31" />
+        <mark key="^" line="77" column="31" />
+        <mark key="." line="77" column="31" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/fish/PlayerLayer.ts" timestamp="1530518952424">
+        <mark key="'" line="73" column="14" />
+        <mark key="[" line="121" column="71" />
+        <mark key="]" line="122" column="7" />
+        <mark key="." line="122" column="7" />
+        <mark key="^" line="122" column="7" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/GameData/SceneData/Item/ItemRandom.ts" timestamp="1539229899956">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="58" column="51" />
+        <mark key="." line="58" column="51" />
+        <mark key="^" line="48" column="55" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/lobby/BottomBtnsLayer.ts" timestamp="1530180383786">
+        <mark key="'" line="76" column="29" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="41" column="59" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" timestamp="1544703185014">
+        <mark key="'" line="34" column="14" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="16" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/network/client/LobbyClient.ts" timestamp="1530866838457">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="131" column="3" />
+        <mark key="^" line="131" column="3" />
+        <mark key="." line="131" column="3" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/fish/CompleteTaskNode.ts" timestamp="1523185850248">
+        <mark key="'" line="99" column="30" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="52" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="85" column="76" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/network/msg/Converter.ts" timestamp="1540812466131">
+        <mark key="'" line="107" column="30" />
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="56" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="7" column="56" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/dialog/bag/BagPanel_give.ts" timestamp="1527843455383">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="74" column="45" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="E:/workstation/H5/assets/com/ui/layer/fishingLayer/FishCardNode.ts" timestamp="1530015265639">
+        <mark key="'" line="47" column="22" />
+        <mark key="[" line="156" column="42" />
+        <mark key="]" line="156" column="42" />
+        <mark key="." line="156" column="42" />
+        <mark key="^" line="156" column="42" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/entity/Entity.ts" timestamp="1544769539031">
+        <mark key="'" line="35" column="24" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterBlink.ts" timestamp="1542612968763">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="6" column="32" />
+      </file>
+      <file name="E:/workstation/running/Server/src/NetLogic.ts" timestamp="1543914453058">
+        <mark key="'" line="28" column="43" />
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="76" />
+        <mark key="^" line="28" column="76" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/comp/UI.ts" timestamp="1543924917004">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="70" column="8" />
+        <mark key="]" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+      </file>
+      <file name="E:/workstation/H5/assets/ui/fish/CannonNode.ts" timestamp="1540812441860">
+        <mark key="'" line="571" column="57" />
+        <mark key="[" line="150" column="12" />
+        <mark key="]" line="150" column="14" />
+        <mark key="^" line="150" column="14" />
+        <mark key="." line="150" column="14" />
+      </file>
+      <file name="E:/workstation/CLM/assets/script/comp/Trigger.ts" timestamp="1544769912264">
+        <mark key="'" line="109" column="30" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+      </file>
+      <file name="E:/workstation/running/Client/assets/RunningScene/MessageControl.ts" timestamp="1544410439231">
+        <mark key="'" line="508" column="59" />
+        <mark key="[" line="516" column="0" />
+        <mark key="]" line="524" column="4" />
+        <mark key="^" line="518" column="15" />
+        <mark key="." line="518" column="15" />
+      </file>
+      <file name="D:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1544106767763">
+        <mark key="'" line="84" column="15" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="95" column="8" />
+        <mark key="." line="94" column="33" />
+        <mark key="^" line="94" column="33" />
       </file>
       <file name="E:/workstation/H5/assets/ui/lobby/PlayerInfoLayer.ts" timestamp="1530524137883">
         <mark key="'" line="78" column="4" />
@@ -1165,33 +1210,12 @@
         <mark key="^" line="46" column="67" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="E:/workstation/running/Client/assets/GameData/SceneData/NodeInfo.ts" timestamp="1536284787991">
-        <mark key="'" line="37" column="62" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
       <file name="E:/workstation/CLM/assets/script/GameView.ts" timestamp="1544703288830">
         <mark key="'" line="263" column="28" />
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="4" />
         <mark key="^" line="263" column="38" />
         <mark key="." line="29" column="4" />
-      </file>
-      <file name="E:/workstation/running/Server/lib/platform/CCClass.js" timestamp="1531735260463">
-        <mark key="'" line="523" column="30" />
-        <mark key="[" line="551" column="51" />
-        <mark key="]" line="551" column="51" />
-        <mark key="^" line="551" column="51" />
-        <mark key="." line="551" column="51" />
-      </file>
-      <file name="D:/workstation/running/Server/src/NetLogic.ts" timestamp="1544326726627">
-        <mark key="'" line="29" column="34" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
       </file>
       <file name="D:/workstation/running/Client/assets/GameData/MainData/TaskManager.ts" timestamp="1544326603126">
         <mark key="'" line="7" column="10" />
@@ -1207,13 +1231,6 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/actor/MonsterActor.ts" timestamp="1542356885734">
-        <mark key="'" line="8" column="46" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="32" />
-      </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/MailListDialog.ts" timestamp="1529056532712">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="15" column="4" />
@@ -1228,32 +1245,12 @@
         <mark key="." line="112" column="86" />
         <mark key="^" line="112" column="86" />
       </file>
-      <file name="E:/workstation/H5/assets/com/ui/layer/FishingLayer.ts" timestamp="1530177732840">
-        <mark key="'" line="380" column="14" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="65" column="56" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544770156527">
-        <mark key="'" line="155" column="54" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
       <file name="E:/workstation/H5/assets/ui/fish/CannonLayer.ts" timestamp="1534215616761">
         <mark key="'" line="198" column="58" />
         <mark key="[" line="251" column="36" />
         <mark key="]" line="251" column="51" />
         <mark key="." line="251" column="51" />
         <mark key="^" line="251" column="51" />
-      </file>
-      <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
-        <mark key="'" line="244" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="21" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/UpgradeCannonBtn.ts" timestamp="1529479110253">
         <mark key="'" line="90" column="4" />
@@ -1276,13 +1273,6 @@
         <mark key="^" line="231" column="54" />
         <mark key="." line="231" column="54" />
       </file>
-      <file name="E:/workstation/H5/assets/com/ui/WidgetExWeb.ts" timestamp="1528266438913">
-        <mark key="'" line="7" column="54" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-      </file>
       <file name="E:/workstation/H5/assets/scene/loading/loading.ts" timestamp="1543487803317">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="109" column="0" />
@@ -1297,13 +1287,6 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="E:/workstation/running/Client/assets/MainScene/TestLogic.ts" timestamp="1542006313060">
-        <mark key="'" line="35" column="37" />
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="56" />
-        <mark key="^" line="35" column="56" />
-      </file>
       <file name="E:/workstation/H5/assets/com/network/util/WebSafe.ts" timestamp="1542881227976">
         <mark key="'" line="67" column="8" />
         <mark key="[" line="77" column="13" />
@@ -1313,34 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="12" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
-      <jump line="150" column="35" filename="E:/workstation/CLM/assets/script/GameCtrl.ts" />
-      <jump line="397" column="24" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="358" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="378" column="29" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="45" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="86" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="40" column="24" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
-      <jump line="113" column="4" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
-      <jump line="94" column="24" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
-      <jump line="21" column="12" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
-      <jump line="444" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="134" column="22" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="218" column="40" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="139" column="27" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="446" column="28" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="39" column="4" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
-      <jump line="6" column="13" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="87" column="58" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="40" column="32" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="24" column="12" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="45" column="44" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="10" column="4" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="53" column="32" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="12" column="4" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="32" column="50" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="21" column="15" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="28" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="13" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="140" column="49" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1367,7 +1322,6 @@
       <jump line="402" column="25" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="425" column="18" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="11" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="492" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="12" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="46" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="87" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1396,7 +1350,6 @@
       <jump line="85" column="21" filename="E:/workstation/CLM/assets/script/comp/ButterflyActorComp.ts" />
       <jump line="50" column="29" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="31" column="16" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
-      <jump line="17" column="7" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="55" column="27" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="78" column="12" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="502" column="35" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1413,22 +1366,52 @@
       <jump line="154" column="36" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="107" column="30" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="155" column="54" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="7" column="6" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="146" column="0" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="85" column="10" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="91" column="10" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="70" column="25" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="348" column="69" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="83" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="354" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="159" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="365" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="368" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="34" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="88" column="10" filename="E:/workstation/CLM/assets/script/comp/FrameAnimation.ts" />
+      <jump line="371" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="438" column="31" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="439" column="34" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="440" column="22" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="500" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="69" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="483" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="491" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="492" column="36" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="485" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="486" column="29" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="61" column="4" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
+      <jump line="118" column="17" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="17" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="30" column="4" filename="E:/workstation/CLM/assets/script/entity/Monster.ts" />
+      <jump line="16" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="82" column="21" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcC5zcHJpdGUuc3ByaXRlRnJhbWUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>entity</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>delt\c</text>
+        <text encoding="base64">XDxfZGlyZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGxhbmQ6IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcC5zcHJpdGUuc3ByaXRlRnJhbWUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1449,28 +1432,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZS55ICs9IGNvbXAuZGVsdGFZOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZih0aGlzLl9hY3RvciAmJiB0aGlzLl9hY3Rvci5ub2RlKXsKICAgICAgICAgICAgLy8gdGhpcy5fYWN0b3Iubm9kZS5hY3RpdmUgPXRydWU7CiAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhzaS5fYWMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKHYueCA8PSAwKQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2eAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKHYueCA+PSAwKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2eCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcC5zcHJpdGUuc3ByaXRlRnJhbWUgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZS55ICs9IGNvbXAuZGVsdGFZOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZih0aGlzLl9hY3RvciAmJiB0aGlzLl9hY3Rvci5ub2RlKXsKICAgICAgICAgICAgLy8gdGhpcy5fYWN0b3Iubm9kZS5hY3RpdmUgPXRydWU7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1480,9 +1463,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delt\c</last-search>
+      <last-search encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>delt\c</last-pattern>
+      <last-pattern encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1490,14 +1473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cus</entry>
-        <entry>cons</entry>
-        <entry encoding="base64">XDxfd29ybGRcPg==</entry>
-        <entry encoding="base64">XDxfaW5zdFw+</entry>
-        <entry>blue\c</entry>
-        <entry encoding="base64">XDxfanVtcENvdW50XD4=</entry>
-        <entry>actio\c</entry>
-        <entry encoding="base64">XDxfZGlyZWN0aW9uXD4=</entry>
         <entry>upda</entry>
         <entry>buff\c</entry>
         <entry>butt\c</entry>
@@ -1510,6 +1485,14 @@
         <entry>backoff</entry>
         <entry>test</entry>
         <entry>delt\c</entry>
+        <entry>todo\c</entry>
+        <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VTdGF0ZVw+</entry>
+        <entry>scalex\c</entry>
+        <entry>scale\c</entry>
+        <entry>turnl\c</entry>
+        <entry encoding="base64">XDxvblR1cm5MZWZ0XD4=</entry>
+        <entry encoding="base64">XDxfZGlyZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
