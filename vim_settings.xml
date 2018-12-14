@@ -88,10 +88,7 @@
         <mark key="." line="98" column="20" />
       </file>
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544753280746">
-        <mark key="'" line="444" column="28" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="49" />
+        <mark key="'" line="448" column="28" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
         <mark key="'" line="15" column="4" />
@@ -490,12 +487,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544702330108">
-        <mark key="'" line="87" column="34" />
-        <mark key="[" line="87" column="58" />
-        <mark key="]" line="87" column="58" />
-        <mark key="." line="87" column="58" />
-        <mark key="^" line="87" column="58" />
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544756201932">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/joinRoomDlg/CreateRoomDialog.ts" timestamp="1529055934664">
         <mark key="'" line="60" column="0" />
@@ -1306,15 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="11" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
-      <jump line="227" column="41" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
-      <jump line="33" column="29" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
-      <jump line="8" column="13" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="68" column="13" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="69" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="32" column="21" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="33" column="22" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="31" column="21" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="57" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="126" column="56" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="67" column="13" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
@@ -1351,7 +1339,6 @@
       <jump line="43" column="26" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="29" column="22" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="28" column="33" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
-      <jump line="87" column="34" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="23" column="13" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="14" column="4" filename="E:/workstation/CLM/assets/script/entity/MonsterNightmare.ts" />
       <jump line="167" column="34" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
@@ -1406,22 +1393,32 @@
       <jump line="139" column="27" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="446" column="28" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="39" column="4" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
+      <jump line="6" column="13" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="87" column="58" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="40" column="32" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="24" column="12" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="45" column="44" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="10" column="4" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="53" column="32" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="12" column="4" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="32" column="50" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="21" column="15" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBuZXcgTW9uc3RlckFjdG9yKGVudGl0eSwgY29tcCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PiAwID8gLTEgOiAx</text>
       </register>
       <register name="-" type="4">
-        <text>Roll</text>
+        <text encoding="base64">PiAwID8gLTEgOiAx</text>
       </register>
       <register name="/" type="4">
-        <text>jumps</text>
+        <text encoding="base64">XDxfZGlyZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5kZWFkKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLl9hY3Rvci5ub2RlLnNjYWxlWCA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBuZXcgTW9uc3RlckFjdG9yKGVudGl0eSwgY29tcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2FjdG9yLm5vZGUuc2NhbGVYID0gdGhpcy52eCA+IDAgPyAtMSA6IDE7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1442,28 +1439,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBlbnRpdHkuYWN0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2FjdG9yLm5vZGUuc2NhbGVYID0gMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub25KdW1wUm9sbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLl9hY3Rvci5ub2RlLnNjYWxlWCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFNwcml0ZSA9IGNjLlNwcml0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBuZXcgTW9uc3RlckFjdG9yKGVudGl0eSwgY29tcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBlbnRpdHkuYWN0b3I7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIF9pbnN0OiBHYW1lVmlldzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub25KdW1wUm9sbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnN0KCkgewogICAgICAgIHJldHVybiB0aGlzLl9pbnN0IHx8ICh0aGlzLl9pbnN0ID0gbmV3IEdhbWVWaWV3KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1473,9 +1470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jumps</last-search>
+      <last-search encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>jumps</last-pattern>
+      <last-pattern encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1483,7 +1480,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmlnZ2VyVHlwZVw+</entry>
         <entry>update</entry>
         <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxBdXRvU3RhcnRcPg==</entry>
@@ -1503,6 +1499,7 @@
         <entry encoding="base64">XDxfanVtcHNcPg==</entry>
         <entry>actio\c</entry>
         <entry>jumps</entry>
+        <entry encoding="base64">XDxfZGlyZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
