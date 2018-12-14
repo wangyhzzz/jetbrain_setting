@@ -526,8 +526,8 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="50" column="27" />
       </file>
-      <file name="E:/workstation/running/Server/src/db.ts" timestamp="1543915588603">
-        <mark key="'" line="48" column="0" />
+      <file name="E:/workstation/running/Server/src/db.ts" timestamp="1544778793286">
+        <mark key="'" line="22" column="59" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="^" line="19" column="48" />
@@ -732,11 +732,12 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544770156527">
-        <mark key="'" line="155" column="54" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544778892247">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="144" column="32" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/GameInputContorl.ts" timestamp="1535103288735">
         <mark key="'" line="244" column="0" />
@@ -1298,13 +1299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="222" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="490" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="496" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="57" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="93" column="13" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="342" column="16" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="382" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="422" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="445" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1360,7 +1354,6 @@
       <jump line="150" column="41" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="35" column="24" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
       <jump line="16" column="18" filename="E:/workstation/CLM/assets/script/Def.ts" />
-      <jump line="154" column="36" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="107" column="30" filename="E:/workstation/CLM/assets/script/comp/Trigger.ts" />
       <jump line="155" column="54" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="7" column="6" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
@@ -1398,22 +1391,30 @@
       <jump line="97" column="13" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
       <jump line="86" column="39" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
       <jump line="70" column="15" filename="E:/workstation/running/Client/assets/GameData/ConfigTable/ServerDate.ts" />
+      <jump line="22" column="59" filename="E:/workstation/running/Server/src/db.ts" />
+      <jump line="152" column="24" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="154" column="24" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="158" column="24" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="1" column="22" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="2" column="21" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="6" column="22" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="7" column="23" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlID09PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">Y29tcC50eXBlICE9PSBQb29sVHlwZS5MSUdIVF9FTkRJTkcg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb29kc0JveFw+</text>
+        <text encoding="base64">XDxlbnRpdHlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlID09PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1434,28 +1435,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vbnN0ZXJKdW1wQ29tcCBmcm9tICIuL2VudGl0eS9Nb25zdGVySnVtcCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">aW1wb3J0IHBsYWNlID0gY2MucGxhY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IExpZ2h0QWN0b3JDb21wIGZyb20gIi4vY29tcC9MaWdodEFjdG9yQ29tcCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">aW1wb3J0IEFjdG9yIGZyb20gIi4vYWN0b3IvQWN0b3IiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IE1vbnN0ZXJBdXRvQWN0b3IgZnJvbSAiLi9hY3Rvci9Nb25zdGVyQXV0b0FjdG9yIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlID09PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKHYueCA8PSAwKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1465,9 +1466,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb29kc0JveFw+</last-search>
+      <last-search encoding="base64">XDxlbnRpdHlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb29kc0JveFw+</last-pattern>
+      <last-pattern encoding="base64">XDxlbnRpdHlcPg==</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,8 +1476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buff\c</entry>
-        <entry>butt\c</entry>
         <entry encoding="base64">XDxfd2l0aEJ1dHRlcmZseVw+</entry>
         <entry>jumps</entry>
         <entry encoding="base64">XDxfanVtcHNcPg==</entry>
@@ -1495,6 +1494,8 @@
         <entry encoding="base64">XDxvblR1cm5MZWZ0XD4=</entry>
         <entry encoding="base64">XDxfZGlyZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxnb29kc0JveFw+</entry>
+        <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
+        <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
