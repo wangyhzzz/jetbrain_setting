@@ -181,12 +181,11 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544772983962">
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544774613462">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="72" />
-        <mark key="." line="86" column="70" />
-        <mark key="^" line="86" column="70" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/LightActorComp.ts" timestamp="1544692914341">
         <mark key="'" line="57" column="27" />
@@ -307,12 +306,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544772976486">
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544774611965">
         <mark key="'" line="82" column="21" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="102" column="39" />
         <mark key="^" line="34" column="42" />
-        <mark key="." line="102" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/UserItemManager.ts" timestamp="1543910823624">
         <mark key="'" line="154" column="56" />
@@ -1399,7 +1398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlID09PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -1408,10 +1407,10 @@
         <text encoding="base64">XDxfZGlyZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlID09PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1432,28 +1431,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSB0aGlzLnRyaWdnZXJUeXBlICE9PSBUcmlnZ2VyVHlwZS5TdGFydE1vdmU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKHYueCA8PSAwKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKHYueCA+PSAwKQ==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29tcC5zcHJpdGUuc3ByaXRlRnJhbWUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9kZS55ICs9IGNvbXAuZGVsdGFZOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZih0aGlzLl9hY3RvciAmJiB0aGlzLl9hY3Rvci5ub2RlKXsKICAgICAgICAgICAgLy8gdGhpcy5fYWN0b3Iubm9kZS5hY3RpdmUgPXRydWU7CiAgICAgICAgLy8gfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKHYueCA8PSAwKQ==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
