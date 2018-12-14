@@ -927,8 +927,8 @@
         <mark key="^" line="22" column="14" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" timestamp="1544771820729">
-        <mark key="'" line="91" column="10" />
+      <file name="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" timestamp="1544777265446">
+        <mark key="'" line="86" column="39" />
       </file>
       <file name="E:/workstation/H5/assets/com/ui/dialog/joinRoomDlg/CreateRoomDialog.ts" timestamp="1529055934664">
         <mark key="'" line="60" column="0" />
@@ -1153,6 +1153,9 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="11" />
       </file>
+      <file name="E:/workstation/running/Client/assets/GameData/ConfigTable/ServerDate.ts" timestamp="1544777283549">
+        <mark key="'" line="70" column="15" />
+      </file>
       <file name="E:/workstation/H5/assets/ui/fish/CannonNode.ts" timestamp="1540812441860">
         <mark key="'" line="571" column="57" />
         <mark key="[" line="150" column="12" />
@@ -1295,11 +1298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
-      <jump line="13" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
-      <jump line="140" column="49" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="223" column="26" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="450" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="222" column="21" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="490" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1395,6 +1393,11 @@
       <jump line="30" column="4" filename="E:/workstation/CLM/assets/script/entity/Monster.ts" />
       <jump line="16" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="82" column="21" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="75" column="43" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="23" column="35" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="97" column="13" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="86" column="39" filename="E:/workstation/running/Client/assets/GameData/MainData/Shop/ShopManager.ts" />
+      <jump line="70" column="15" filename="E:/workstation/running/Client/assets/GameData/ConfigTable/ServerDate.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1404,7 +1407,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZGlyZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxnb29kc0JveFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy50cmlnZ2VyVHlwZSAhPT0gVHJpZ2dlclR5cGUuU3RhcnRNb3ZlKQogICAgICAgICAgICB0aGlzLm1vbnN0ZXIuZml4ZWQgPSBmYWxzZTsK</text>
@@ -1462,9 +1465,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxnb29kc0JveFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnb29kc0JveFw+</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1472,7 +1475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upda</entry>
         <entry>buff\c</entry>
         <entry>butt\c</entry>
         <entry encoding="base64">XDxfd2l0aEJ1dHRlcmZseVw+</entry>
@@ -1492,6 +1494,7 @@
         <entry>turnl\c</entry>
         <entry encoding="base64">XDxvblR1cm5MZWZ0XD4=</entry>
         <entry encoding="base64">XDxfZGlyZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxnb29kc0JveFw+</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
