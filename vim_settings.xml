@@ -88,11 +88,10 @@
         <mark key="." line="98" column="20" />
       </file>
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544753280746">
-        <mark key="'" line="448" column="28" />
-        <mark key="[" line="140" column="18" />
-        <mark key="]" line="141" column="49" />
-        <mark key="." line="141" column="49" />
-        <mark key="^" line="141" column="49" />
+        <mark key="'" line="444" column="28" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
         <mark key="'" line="15" column="4" />
@@ -257,10 +256,10 @@
       </file>
       <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544753099970">
         <mark key="'" line="21" column="12" />
-        <mark key="[" line="42" column="101" />
-        <mark key="]" line="42" column="115" />
-        <mark key="." line="42" column="115" />
-        <mark key="^" line="42" column="115" />
+        <mark key="[" line="21" column="101" />
+        <mark key="]" line="21" column="115" />
+        <mark key="." line="21" column="115" />
+        <mark key="^" line="21" column="115" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1543911021129">
         <mark key="'" line="182" column="0" />
@@ -808,10 +807,6 @@
       </file>
       <file name="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" timestamp="1544753091095">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
-        <mark key="^" line="37" column="36" />
       </file>
       <file name="E:/workstation/CLM/assets/script/entity/Light.ts" timestamp="1544695877153">
         <mark key="'" line="25" column="4" />
@@ -1232,12 +1227,12 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544701758845">
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544754773552">
         <mark key="'" line="123" column="45" />
-        <mark key="[" line="148" column="39" />
-        <mark key="]" line="148" column="47" />
-        <mark key="." line="148" column="47" />
-        <mark key="^" line="148" column="47" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="63" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="131" column="62" />
       </file>
       <file name="E:/workstation/H5/assets/ui/fish/CannonLayer.ts" timestamp="1534215616761">
         <mark key="'" line="198" column="58" />
@@ -1414,7 +1409,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub25KdW1wUm9sbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBuZXcgTW9uc3RlckFjdG9yKGVudGl0eSwgY29tcCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Roll</text>
@@ -1426,7 +1421,7 @@
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy5kZWFkKSByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub25KdW1wUm9sbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBuZXcgTW9uc3RlckFjdG9yKGVudGl0eSwgY29tcCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1447,28 +1442,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3IgPSBlbnRpdHkuYWN0b3I7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFNwcml0ZSA9IGNjLlNwcml0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub25KdW1wUm9sbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNwcml0ZSA9IGNjLlNwcml0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIF9pbnN0OiBHYW1lVmlldzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnN0KCkgewogICAgICAgIHJldHVybiB0aGlzLl9pbnN0IHx8ICh0aGlzLl9pbnN0ID0gbmV3IEdhbWVWaWV3KTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIF9pbnN0OiBHYW1lVmlldzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnN0KCkgewogICAgICAgIHJldHVybiB0aGlzLl9pbnN0IHx8ICh0aGlzLl9pbnN0ID0gbmV3IEdhbWVWaWV3KTsKICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
