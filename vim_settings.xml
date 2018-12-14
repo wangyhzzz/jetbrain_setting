@@ -624,8 +624,8 @@
         <mark key="." line="55" column="39" />
         <mark key="^" line="55" column="39" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/Global.ts" timestamp="1544703294271">
-        <mark key="'" line="30" column="26" />
+      <file name="E:/workstation/CLM/assets/script/Global.ts" timestamp="1544780462447">
+        <mark key="'" line="23" column="22" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -732,8 +732,8 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544778892247">
-        <mark key="'" line="7" column="23" />
+      <file name="E:/workstation/CLM/assets/script/GameScene.ts" timestamp="1544780461135">
+        <mark key="'" line="0" column="19" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="144" column="32" />
@@ -1299,8 +1299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
-      <jump line="422" column="12" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="445" column="4" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="31" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="66" column="8" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
@@ -1399,6 +1397,8 @@
       <jump line="2" column="21" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="6" column="22" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="7" column="23" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="0" column="19" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
+      <jump line="23" column="22" filename="E:/workstation/CLM/assets/script/Global.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
