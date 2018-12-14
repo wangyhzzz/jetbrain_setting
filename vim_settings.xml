@@ -297,12 +297,12 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544757337440">
-        <mark key="'" line="14" column="14" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="67" />
-        <mark key="^" line="62" column="96" />
-        <mark key="." line="63" column="0" />
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544760218656">
+        <mark key="'" line="78" column="12" />
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="55" column="28" />
       </file>
       <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1543825013442">
         <mark key="'" line="26" column="64" />
@@ -1315,11 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="10" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="47" column="22" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
-      <jump line="178" column="15" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
-      <jump line="379" column="4" filename="E:/workstation/CLM/assets/script/GameView.ts" />
-      <jump line="46" column="22" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
       <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
       <jump line="5" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
       <jump line="34" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
@@ -1415,22 +1410,27 @@
       <jump line="502" column="35" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="89" column="21" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="85" column="21" filename="E:/workstation/CLM/assets/script/comp/ButterflyActorComp.ts" />
+      <jump line="50" column="29" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="31" column="16" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="17" column="7" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="55" column="27" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="78" column="12" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGRpc0FuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>disAnim</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>remo\c</text>
+        <text encoding="base64">XDx2eFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGZseUFuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGRpc0FuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB2eAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1451,28 +1451,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2eCA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IHRoaS5ub2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IGJ1dHRlcmZseS5ub2RlOwogICAgICAgIG5vZGUucnVuQWN0aW9uKGNjLnNlcXVlbmNlKGNjLmZhZGVPdXQoMC4zKSwgY2MucmVtb3ZlU2VsZigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIFZYOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0ZXJmbHkuCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGRpc0FuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IHRoaS5ub2RlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IGJ1dHRlcmZseS5ub2RlOwogICAgICAgIG5vZGUucnVuQWN0aW9uKGNjLnNlcXVlbmNlKGNjLmZhZGVPdXQoMC4zKSwgY2MucmVtb3ZlU2VsZigpKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1482,9 +1482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remo\c</last-search>
+      <last-search encoding="base64">XDx2eFw+</last-search>
       <last-offset />
-      <last-pattern>remo\c</last-pattern>
+      <last-pattern encoding="base64">XDx2eFw+</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1492,7 +1492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
         <entry>posi\c</entry>
@@ -1512,6 +1511,7 @@
         <entry encoding="base64">XDxfanVtcHNcPg==</entry>
         <entry encoding="base64">XDxfYnV0dGVyZmx5XD4=</entry>
         <entry>remo\c</entry>
+        <entry encoding="base64">XDx2eFw+</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
