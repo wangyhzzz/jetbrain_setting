@@ -88,7 +88,7 @@
         <mark key="." line="98" column="20" />
       </file>
       <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544753280746">
-        <mark key="'" line="448" column="28" />
+        <mark key="'" line="447" column="28" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
         <mark key="'" line="15" column="4" />
@@ -293,12 +293,12 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544691127333">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="61" column="96" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" timestamp="1544757337440">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="67" />
+        <mark key="^" line="62" column="96" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="E:/workstation/CLM/assets/script/MissionChapter.ts" timestamp="1543825013442">
         <mark key="'" line="26" column="64" />
@@ -487,10 +487,10 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544756201932">
+      <file name="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" timestamp="1544757334205">
         <mark key="'" line="22" column="15" />
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="42" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="67" />
         <mark key="^" line="34" column="42" />
         <mark key="." line="34" column="42" />
       </file>
@@ -1303,8 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="14" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
-      <jump line="126" column="56" filename="E:/workstation/CLM/assets/script/GameScene.ts" />
       <jump line="67" column="13" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="22" column="4" filename="E:/workstation/CLM/assets/script/actor/Actor.ts" />
       <jump line="69" column="8" filename="E:/workstation/CLM/assets/script/entity/Entity.ts" />
@@ -1403,19 +1401,21 @@
       <jump line="12" column="4" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="32" column="50" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
       <jump line="21" column="15" filename="E:/workstation/CLM/assets/script/entity/MonsterJump.ts" />
+      <jump line="28" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="13" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PiAwID8gLTEgOiAx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl9tb25zdGVyLmFjdG9yID0gbmV3IE1vbnN0ZXJBY3Rvcih0aGlzLm1vbnN0ZXIsIHRoaXMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PiAwID8gLTEgOiAx</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZGlyZWN0aW9uXD4=</text>
+        <text>upda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLl9hY3Rvci5ub2RlLnNjYWxlWCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9tb25zdGVyLmFjdG9yID0gbmV3IE1vbnN0ZXJBY3Rvcih0aGlzLm1vbnN0ZXIsIHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2FjdG9yLm5vZGUuc2NhbGVYID0gdGhpcy52eCA+IDAgPyAtMSA6IDE7Cg==</text>
@@ -1470,9 +1470,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-search>
+      <last-search>upda</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZGlyZWN0aW9uXD4=</last-pattern>
+      <last-pattern>upda</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1480,7 +1480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxBdXRvU3RhcnRcPg==</entry>
         <entry>ent\c</entry>
@@ -1500,6 +1499,7 @@
         <entry>actio\c</entry>
         <entry>jumps</entry>
         <entry encoding="base64">XDxfZGlyZWN0aW9uXD4=</entry>
+        <entry>upda</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
