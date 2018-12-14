@@ -87,12 +87,12 @@
         <mark key="^" line="98" column="20" />
         <mark key="." line="98" column="20" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544758514846">
-        <mark key="'" line="502" column="35" />
-        <mark key="[" line="142" column="44" />
-        <mark key="]" line="143" column="41" />
-        <mark key="." line="143" column="41" />
-        <mark key="^" line="143" column="41" />
+      <file name="E:/workstation/CLM/assets/script/entity/Player.ts" timestamp="1544766933812">
+        <mark key="'" line="342" column="19" />
+        <mark key="[" line="348" column="61" />
+        <mark key="]" line="348" column="75" />
+        <mark key="." line="348" column="75" />
+        <mark key="^" line="348" column="75" />
       </file>
       <file name="E:/workstation/running/Client/assets/RunningScene/AttackFixControl.ts" timestamp="1536136116436">
         <mark key="'" line="15" column="4" />
@@ -255,12 +255,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544753099970">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="21" column="101" />
-        <mark key="]" line="21" column="115" />
-        <mark key="." line="21" column="115" />
-        <mark key="^" line="21" column="115" />
+      <file name="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" timestamp="1544766902838">
+        <mark key="'" line="45" column="119" />
+        <mark key="[" line="45" column="117" />
+        <mark key="]" line="45" column="128" />
+        <mark key="." line="45" column="128" />
+        <mark key="^" line="45" column="128" />
       </file>
       <file name="E:/workstation/running/Client/assets/GameData/MainData/RoleManager.ts" timestamp="1543911021129">
         <mark key="'" line="182" column="0" />
@@ -1315,9 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
-      <jump line="5" column="0" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
-      <jump line="34" column="14" filename="E:/workstation/CLM/assets/script/entity/MonsterGenerator.ts" />
       <jump line="12" column="19" filename="E:/workstation/CLM/assets/script/Global.ts" />
       <jump line="21" column="20" filename="E:/workstation/CLM/assets/script/Global.ts" />
       <jump line="37" column="11" filename="E:/workstation/CLM/assets/script/GameWorld.ts" />
@@ -1407,7 +1404,6 @@
       <jump line="27" column="6" filename="E:/workstation/CLM/assets/script/comp/ButterflyActorComp.ts" />
       <jump line="84" column="19" filename="E:/workstation/CLM/assets/script/comp/ButterflyActorComp.ts" />
       <jump line="25" column="4" filename="E:/workstation/CLM/assets/script/comp/ButterflyActorComp.ts" />
-      <jump line="502" column="35" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
       <jump line="89" column="21" filename="E:/workstation/CLM/assets/script/actor/PlayerActor.ts" />
       <jump line="85" column="21" filename="E:/workstation/CLM/assets/script/comp/ButterflyActorComp.ts" />
       <jump line="50" column="29" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
@@ -1415,22 +1411,26 @@
       <jump line="17" column="7" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="55" column="27" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
       <jump line="78" column="12" filename="E:/workstation/CLM/assets/script/entity/MonsterFly.ts" />
+      <jump line="502" column="35" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="347" column="30" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="341" column="19" filename="E:/workstation/CLM/assets/script/entity/Player.ts" />
+      <jump line="42" column="119" filename="E:/workstation/CLM/assets/script/comp/PlayerActorComp.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2eFw+</text>
+        <text>backoff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGZseUFuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGxhbmQ6IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2eAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1451,28 +1451,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2eCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2eAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnYK</text>
+        <text encoding="base64">ICAgICAgICB2eCA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFZYOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGRpc0FuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFZYOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShGcmFtZUFuaW1hdGlvbikKICAgIGRpc0FuaW06IEZyYW1lQW5pbWF0aW9uID0gbnVsbDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IHRoaS5ub2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IGJ1dHRlcmZseS5ub2RlOwogICAgICAgIG5vZGUucnVuQWN0aW9uKGNjLnNlcXVlbmNlKGNjLmZhZGVPdXQoMC4zKSwgY2MucmVtb3ZlU2VsZigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm9kZSA9IHRoaS5ub2RlOwo=</text>
       </register>
       <register name="y" type="4">
         <text>setDesignResolutionSize(GameInfo.ResolutionWidth, GameInfo.ResolutionHeight, cc.ResolutionPolicy.EXACT_FIT);</text>
@@ -1482,9 +1482,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2eFw+</last-search>
+      <last-search>backoff</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2eFw+</last-pattern>
+      <last-pattern>backoff</last-pattern>
       <last-replace>db</last-replace>
       <last-substitute>accountModule.mysql</last-substitute>
       <last-dir>1</last-dir>
@@ -1492,7 +1492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
         <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
         <entry>posi\c</entry>
         <entry>cus</entry>
@@ -1512,6 +1511,7 @@
         <entry encoding="base64">XDxfYnV0dGVyZmx5XD4=</entry>
         <entry>remo\c</entry>
         <entry encoding="base64">XDx2eFw+</entry>
+        <entry>backoff</entry>
       </history-search>
       <history-cmd>
         <entry>v//d</entry>
